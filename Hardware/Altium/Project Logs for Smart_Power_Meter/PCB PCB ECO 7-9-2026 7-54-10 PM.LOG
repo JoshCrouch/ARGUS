@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=NetC403_1 Pin=SW401-3
+Removed Pin From Net: NetName=NetC403_1 Pin=SW401-3
+Removed Pin From Net: NetName=NetC404_1 Pin=SW402-3
+Removed Pin From Net: NetName=NetC404_1 Pin=SW402-3
+Change Component Designator: OldDesignator=TP402 NewDesignator=TP403
+Change Component Designator: OldDesignator=TP403 NewDesignator=TP404
+Change Component Designator: OldDesignator=TP404 NewDesignator=TP405
+Change Component Designator: OldDesignator=TP405 NewDesignator=TP406
+Change Component Designator: OldDesignator=TP406 NewDesignator=TP407
+Add Pin To Net: Unknown Pin: Pin J1301-1
+Add Pin To Net: Unknown Pin: Pin J1301-2
+Add Pin To Net: Unknown Pin: Pin J1301-4
+Add Pin To Net: Unknown Pin: Pin J1301-5
+Add Pin To Net: Unknown Pin: Pin J1301-6
+Add Pin To Net: Unknown Pin: Pin J1301-7
+Add Pin To Net: Unknown Pin: Pin J1301-8
+Add Pin To Net: Unknown Pin: Pin J1301-11
+Add Pin To Net: Unknown Pin: Pin J1301-12
+Add Pin To Net: Unknown Pin: Pin J1301-13
+Add Pin To Net: Unknown Pin: Pin J1301-14
+Add Pin To Net: Unknown Pin: Pin J1301-15
+Add Pin To Net: Unknown Pin: Pin J1301-16
+Add Pin To Net: Unknown Pin: Pin J1301-17
+Add Pin To Net: Unknown Pin: Pin J1301-18
+Add Pin To Net: Unknown Pin: Pin J1301-19
+Add Pin To Net: Unknown Pin: Pin J1301-20
+Add Pin To Net: Unknown Pin: Pin J1301-21
+Add Pin To Net: Unknown Pin: Pin J1301-22
+Add Pin To Net: Unknown Pin: Pin J1301-23
+Add Pin To Net: Unknown Pin: Pin J1301-24
+Add Pin To Net: Unknown Pin: Pin J1301-25
+Add Pin To Net: Unknown Pin: Pin J1301-26
+Add Pin To Net: Unknown Pin: Pin J1301-27
+Add Pin To Net: Unknown Pin: Pin J1301-28
+Add Pin To Net: Unknown Pin: Pin J1301-29
+Add Pin To Net: Unknown Pin: Pin J1301-30
+Add Pin To Net: Unknown Pin: Pin J1301-31
+Add Pin To Net: Unknown Pin: Pin J1301-32
+Add Pin To Net: Unknown Pin: Pin J1301-33
+Add Pin To Net: Unknown Pin: Pin J1301-34
+Add Pin To Net: Unknown Pin: Pin J1301-35
+Add Pin To Net: Unknown Pin: Pin J1301-36
+Add Pin To Net: Unknown Pin: Pin J1301-37
+Add Pin To Net: Unknown Pin: Pin J1301-38
+Add Pin To Net: Unknown Pin: Pin J1301-39
+Add Pin To Net: Unknown Pin: Pin J1301-40
+Added Pin To Net: NetName=NetC403_1 Pin=SW401-1
+Added Pin To Net: NetName=NetC403_1 Pin=SW401-1
+Added Pin To Net: NetName=GND Pin=SW401-2
+Added Pin To Net: NetName=GND Pin=SW401-2
+Added Pin To Net: NetName=NetC404_1 Pin=SW402-1
+Added Pin To Net: NetName=NetC404_1 Pin=SW402-1
+Added Pin To Net: NetName=+3V3 Pin=SW402-2
+Added Pin To Net: NetName=+3V3 Pin=SW402-2
+Change Net Name : Old Net Name=VBUS_I_SENS New Net Name=VBUS_V_SENS
+Added Pin To Net: NetName=VBUS_I_SENS Pin=C802-1
+Added Pin To Net: NetName=VBUS_I_SENS Pin=R804-2
+Added Pin To Net: NetName=VBUS_I_SENS Pin=TP802-1
+Added Net: Name=VBUS_I_SENS
+Add Class Member: Failed to add class member : Component J1301 16249
+Added Member To Class: ClassName=Designator Member=Component TP407 Net

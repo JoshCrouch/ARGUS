@@ -1,0 +1,624 @@
+Added Component: Designator=D1001(BAS100AS_R1_00001)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3757-BAS100AS_R1_00001CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U1406(BQ24074RGTR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-38873-1-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin ANT901-1
+Add Pin To Net: Unknown Pin: Pin ANT901-2
+Add Pin To Net: Unknown Pin: Pin C1004-1
+Add Pin To Net: Unknown Pin: Pin C1004-2
+Add Pin To Net: Unknown Pin: Pin D401-1
+Add Pin To Net: Unknown Pin: Pin D401-2
+Add Pin To Net: Unknown Pin: Pin D401-3
+Add Pin To Net: Unknown Pin: Pin D401-4
+Added Pin To Net: NetName=+3V3 Pin=D1001-1
+Added Pin To Net: NetName=+3V3_RTC Pin=D1001-2
+Add Pin To Net: Unknown Pin: Pin D1401-1
+Add Pin To Net: Unknown Pin: Pin D1401-2
+Add Pin To Net: Unknown Pin: Pin D1402-1
+Add Pin To Net: Unknown Pin: Pin D1402-2
+Add Pin To Net: Unknown Pin: Pin D1403-1
+Add Pin To Net: Unknown Pin: Pin D1403-2
+Add Pin To Net: Unknown Pin: Pin D1404-1
+Add Pin To Net: Unknown Pin: Pin D1404-2
+Add Pin To Net: Unknown Pin: Pin D1405-1
+Add Pin To Net: Unknown Pin: Pin D1405-2
+Add Pin To Net: Unknown Pin: Pin D1501-1
+Add Pin To Net: Unknown Pin: Pin D1501-2
+Add Pin To Net: Unknown Pin: Pin D1601-1
+Add Pin To Net: Unknown Pin: Pin D1601-2
+Add Pin To Net: Unknown Pin: Pin D1602-1
+Add Pin To Net: Unknown Pin: Pin D1602-2
+Add Pin To Net: Unknown Pin: Pin F1401-1
+Add Pin To Net: Unknown Pin: Pin F1401-2
+Add Pin To Net: Unknown Pin: Pin F1402-1
+Add Pin To Net: Unknown Pin: Pin F1402-2
+Add Pin To Net: Unknown Pin: Pin F1501-1
+Add Pin To Net: Unknown Pin: Pin F1501-2
+Add Pin To Net: Unknown Pin: Pin F1601-1
+Add Pin To Net: Unknown Pin: Pin F1601-2
+Add Pin To Net: Unknown Pin: Pin F1602-1
+Add Pin To Net: Unknown Pin: Pin F1602-2
+Add Pin To Net: Unknown Pin: Pin J401-1
+Add Pin To Net: Unknown Pin: Pin J401-2
+Add Pin To Net: Unknown Pin: Pin J401-3
+Add Pin To Net: Unknown Pin: Pin J401-4
+Add Pin To Net: Unknown Pin: Pin J401-5
+Add Pin To Net: Unknown Pin: Pin J401-6
+Add Pin To Net: Unknown Pin: Pin J401-9
+Add Pin To Net: Unknown Pin: Pin J401-10
+Add Pin To Net: Unknown Pin: Pin J602-1
+Add Pin To Net: Unknown Pin: Pin J602-2
+Add Pin To Net: Unknown Pin: Pin J602-3
+Add Pin To Net: Unknown Pin: Pin J602-4
+Add Pin To Net: Unknown Pin: Pin J602-5
+Add Pin To Net: Unknown Pin: Pin J602-6
+Add Pin To Net: Unknown Pin: Pin J602-7
+Add Pin To Net: Unknown Pin: Pin J602-8
+Add Pin To Net: Unknown Pin: Pin J602-9
+Add Pin To Net: Unknown Pin: Pin J602-10
+Add Pin To Net: Unknown Pin: Pin J602-11
+Add Pin To Net: Unknown Pin: Pin J602-12
+Add Pin To Net: Unknown Pin: Pin J602-13
+Add Pin To Net: Unknown Pin: Pin J602-14
+Add Pin To Net: Unknown Pin: Pin J602-15
+Add Pin To Net: Unknown Pin: Pin J602-16
+Add Pin To Net: Unknown Pin: Pin J801-A1B12
+Add Pin To Net: Unknown Pin: Pin J801-A4B9
+Add Pin To Net: Unknown Pin: Pin J801-A5
+Add Pin To Net: Unknown Pin: Pin J801-A6
+Add Pin To Net: Unknown Pin: Pin J801-A7
+Add Pin To Net: Unknown Pin: Pin J801-A9B4
+Add Pin To Net: Unknown Pin: Pin J801-A12B1
+Add Pin To Net: Unknown Pin: Pin J801-B5
+Add Pin To Net: Unknown Pin: Pin J801-B6
+Add Pin To Net: Unknown Pin: Pin J801-B7
+Add Pin To Net: Unknown Pin: Pin J801-SH
+Add Pin To Net: Unknown Pin: Pin J901-1
+Add Pin To Net: Unknown Pin: Pin J901-2
+Add Pin To Net: Unknown Pin: Pin J901-3
+Add Pin To Net: Unknown Pin: Pin J902-1
+Add Pin To Net: Unknown Pin: Pin J902-2
+Add Pin To Net: Unknown Pin: Pin J902-3
+Add Pin To Net: Unknown Pin: Pin J902-4
+Add Pin To Net: Unknown Pin: Pin J902-5
+Add Pin To Net: Unknown Pin: Pin J902-6
+Add Pin To Net: Unknown Pin: Pin J1201-1
+Add Pin To Net: Unknown Pin: Pin J1201-2
+Add Pin To Net: Unknown Pin: Pin J1201-3
+Add Pin To Net: Unknown Pin: Pin J1201-4
+Add Pin To Net: Unknown Pin: Pin J1201-5
+Add Pin To Net: Unknown Pin: Pin J1201-6
+Add Pin To Net: Unknown Pin: Pin J1201-7
+Add Pin To Net: Unknown Pin: Pin J1201-8
+Add Pin To Net: Unknown Pin: Pin J1201-9
+Add Pin To Net: Unknown Pin: Pin J1201-10
+Add Pin To Net: Unknown Pin: Pin J1301-1
+Add Pin To Net: Unknown Pin: Pin J1301-2
+Add Pin To Net: Unknown Pin: Pin J1301-4
+Add Pin To Net: Unknown Pin: Pin J1301-5
+Add Pin To Net: Unknown Pin: Pin J1301-6
+Add Pin To Net: Unknown Pin: Pin J1301-7
+Add Pin To Net: Unknown Pin: Pin J1301-8
+Add Pin To Net: Unknown Pin: Pin J1301-11
+Add Pin To Net: Unknown Pin: Pin J1301-12
+Add Pin To Net: Unknown Pin: Pin J1301-13
+Add Pin To Net: Unknown Pin: Pin J1301-14
+Add Pin To Net: Unknown Pin: Pin J1301-15
+Add Pin To Net: Unknown Pin: Pin J1301-16
+Add Pin To Net: Unknown Pin: Pin J1301-17
+Add Pin To Net: Unknown Pin: Pin J1301-18
+Add Pin To Net: Unknown Pin: Pin J1301-19
+Add Pin To Net: Unknown Pin: Pin J1301-20
+Add Pin To Net: Unknown Pin: Pin J1301-21
+Add Pin To Net: Unknown Pin: Pin J1301-22
+Add Pin To Net: Unknown Pin: Pin J1301-23
+Add Pin To Net: Unknown Pin: Pin J1301-24
+Add Pin To Net: Unknown Pin: Pin J1301-25
+Add Pin To Net: Unknown Pin: Pin J1301-26
+Add Pin To Net: Unknown Pin: Pin J1301-27
+Add Pin To Net: Unknown Pin: Pin J1301-28
+Add Pin To Net: Unknown Pin: Pin J1301-29
+Add Pin To Net: Unknown Pin: Pin J1301-30
+Add Pin To Net: Unknown Pin: Pin J1301-31
+Add Pin To Net: Unknown Pin: Pin J1301-32
+Add Pin To Net: Unknown Pin: Pin J1301-33
+Add Pin To Net: Unknown Pin: Pin J1301-34
+Add Pin To Net: Unknown Pin: Pin J1301-35
+Add Pin To Net: Unknown Pin: Pin J1301-36
+Add Pin To Net: Unknown Pin: Pin J1301-37
+Add Pin To Net: Unknown Pin: Pin J1301-38
+Add Pin To Net: Unknown Pin: Pin J1301-39
+Add Pin To Net: Unknown Pin: Pin J1301-40
+Add Pin To Net: Unknown Pin: Pin L901-1
+Add Pin To Net: Unknown Pin: Pin L901-2
+Add Pin To Net: Unknown Pin: Pin L902-1
+Add Pin To Net: Unknown Pin: Pin L902-2
+Add Pin To Net: Unknown Pin: Pin L1501-1
+Add Pin To Net: Unknown Pin: Pin L1501-2
+Add Pin To Net: Unknown Pin: Pin L1601-1
+Add Pin To Net: Unknown Pin: Pin L1601-2
+Add Pin To Net: Unknown Pin: Pin Q1401-1
+Add Pin To Net: Unknown Pin: Pin Q1401-2
+Add Pin To Net: Unknown Pin: Pin Q1401-3
+Add Pin To Net: Unknown Pin: Pin Q1402-1
+Add Pin To Net: Unknown Pin: Pin Q1402-2
+Add Pin To Net: Unknown Pin: Pin Q1402-3
+Add Pin To Net: Unknown Pin: Pin SW401-3
+Add Pin To Net: Unknown Pin: Pin SW401-3
+Add Pin To Net: Unknown Pin: Pin SW402-3
+Add Pin To Net: Unknown Pin: Pin SW402-3
+Add Pin To Net: Unknown Pin: Pin SW1401-1
+Add Pin To Net: Unknown Pin: Pin SW1401-3
+Add Pin To Net: Unknown Pin: Pin TP301-1
+Add Pin To Net: Unknown Pin: Pin TP302-1
+Add Pin To Net: Unknown Pin: Pin TP401-1
+Add Pin To Net: Unknown Pin: Pin TP402-1
+Add Pin To Net: Unknown Pin: Pin TP402-1
+Add Pin To Net: Unknown Pin: Pin TP403-1
+Add Pin To Net: Unknown Pin: Pin TP404-1
+Add Pin To Net: Unknown Pin: Pin TP405-1
+Add Pin To Net: Unknown Pin: Pin TP406-1
+Add Pin To Net: Unknown Pin: Pin TP601-1
+Add Pin To Net: Unknown Pin: Pin TP602-1
+Add Pin To Net: Unknown Pin: Pin TP603-1
+Add Pin To Net: Unknown Pin: Pin TP604-1
+Add Pin To Net: Unknown Pin: Pin TP605-1
+Add Pin To Net: Unknown Pin: Pin TP607-1
+Add Pin To Net: Unknown Pin: Pin TP608-1
+Add Pin To Net: Unknown Pin: Pin TP609-1
+Add Pin To Net: Unknown Pin: Pin TP610-1
+Add Pin To Net: Unknown Pin: Pin TP611-1
+Add Pin To Net: Unknown Pin: Pin TP612-1
+Add Pin To Net: Unknown Pin: Pin TP613-1
+Add Pin To Net: Unknown Pin: Pin TP614-1
+Add Pin To Net: Unknown Pin: Pin TP615-1
+Add Pin To Net: Unknown Pin: Pin TP616-1
+Add Pin To Net: Unknown Pin: Pin TP617-1
+Add Pin To Net: Unknown Pin: Pin TP618-1
+Add Pin To Net: Unknown Pin: Pin TP619-1
+Add Pin To Net: Unknown Pin: Pin TP620-1
+Add Pin To Net: Unknown Pin: Pin TP621-1
+Add Pin To Net: Unknown Pin: Pin TP622-1
+Add Pin To Net: Unknown Pin: Pin TP623-1
+Add Pin To Net: Unknown Pin: Pin TP624-1
+Add Pin To Net: Unknown Pin: Pin TP625-1
+Add Pin To Net: Unknown Pin: Pin TP626-1
+Add Pin To Net: Unknown Pin: Pin TP627-1
+Add Pin To Net: Unknown Pin: Pin TP628-1
+Add Pin To Net: Unknown Pin: Pin TP629-1
+Add Pin To Net: Unknown Pin: Pin TP630-1
+Add Pin To Net: Unknown Pin: Pin TP631-1
+Add Pin To Net: Unknown Pin: Pin TP632-1
+Add Pin To Net: Unknown Pin: Pin TP633-1
+Add Pin To Net: Unknown Pin: Pin TP634-1
+Add Pin To Net: Unknown Pin: Pin TP635-1
+Add Pin To Net: Unknown Pin: Pin TP636-1
+Add Pin To Net: Unknown Pin: Pin TP637-1
+Add Pin To Net: Unknown Pin: Pin TP638-1
+Add Pin To Net: Unknown Pin: Pin TP639-1
+Add Pin To Net: Unknown Pin: Pin TP801-1
+Add Pin To Net: Unknown Pin: Pin TP803-1
+Add Pin To Net: Unknown Pin: Pin TP901-1
+Add Pin To Net: Unknown Pin: Pin TP902-1
+Add Pin To Net: Unknown Pin: Pin TP903-1
+Add Pin To Net: Unknown Pin: Pin TP904-1
+Add Pin To Net: Unknown Pin: Pin TP905-1
+Add Pin To Net: Unknown Pin: Pin TP906-1
+Add Pin To Net: Unknown Pin: Pin TP907-1
+Add Pin To Net: Unknown Pin: Pin TP908-1
+Add Pin To Net: Unknown Pin: Pin TP1001-1
+Add Pin To Net: Unknown Pin: Pin TP1002-1
+Add Pin To Net: Unknown Pin: Pin TP1003-1
+Add Pin To Net: Unknown Pin: Pin TP1004-1
+Add Pin To Net: Unknown Pin: Pin TP1005-1
+Add Pin To Net: Unknown Pin: Pin TP1006-1
+Add Pin To Net: Unknown Pin: Pin TP1101-1
+Add Pin To Net: Unknown Pin: Pin TP1102-1
+Add Pin To Net: Unknown Pin: Pin TP1103-1
+Add Pin To Net: Unknown Pin: Pin TP1201-1
+Add Pin To Net: Unknown Pin: Pin TP1202-1
+Add Pin To Net: Unknown Pin: Pin TP1203-1
+Add Pin To Net: Unknown Pin: Pin TP1204-1
+Add Pin To Net: Unknown Pin: Pin TP1205-1
+Add Pin To Net: Unknown Pin: Pin TP1206-1
+Add Pin To Net: Unknown Pin: Pin TP1207-1
+Add Pin To Net: Unknown Pin: Pin TP1301-1
+Add Pin To Net: Unknown Pin: Pin TP1302-1
+Add Pin To Net: Unknown Pin: Pin TP1303-1
+Add Pin To Net: Unknown Pin: Pin TP1304-1
+Add Pin To Net: Unknown Pin: Pin TP1305-1
+Add Pin To Net: Unknown Pin: Pin TP1306-1
+Add Pin To Net: Unknown Pin: Pin TP1307-1
+Add Pin To Net: Unknown Pin: Pin TP1308-1
+Add Pin To Net: Unknown Pin: Pin TP1309-1
+Add Pin To Net: Unknown Pin: Pin TP1310-1
+Add Pin To Net: Unknown Pin: Pin TP1311-1
+Add Pin To Net: Unknown Pin: Pin TP1312-1
+Add Pin To Net: Unknown Pin: Pin TP1313-1
+Add Pin To Net: Unknown Pin: Pin TP1314-1
+Add Pin To Net: Unknown Pin: Pin TP1315-1
+Add Pin To Net: Unknown Pin: Pin TP1316-1
+Add Pin To Net: Unknown Pin: Pin TP1317-1
+Add Pin To Net: Unknown Pin: Pin TP1318-1
+Add Pin To Net: Unknown Pin: Pin TP1319-1
+Add Pin To Net: Unknown Pin: Pin TP1320-1
+Add Pin To Net: Unknown Pin: Pin TP1321-1
+Add Pin To Net: Unknown Pin: Pin TP1322-1
+Add Pin To Net: Unknown Pin: Pin TP1323-1
+Add Pin To Net: Unknown Pin: Pin TP1324-1
+Add Pin To Net: Unknown Pin: Pin TP1325-1
+Add Pin To Net: Unknown Pin: Pin TP1326-1
+Add Pin To Net: Unknown Pin: Pin TP1327-1
+Add Pin To Net: Unknown Pin: Pin TP1328-1
+Add Pin To Net: Unknown Pin: Pin TP1329-1
+Add Pin To Net: Unknown Pin: Pin TP1330-1
+Add Pin To Net: Unknown Pin: Pin TP1331-1
+Add Pin To Net: Unknown Pin: Pin TP1332-1
+Add Pin To Net: Unknown Pin: Pin TP1333-1
+Add Pin To Net: Unknown Pin: Pin TP1401-1
+Add Pin To Net: Unknown Pin: Pin TP1402-1
+Add Pin To Net: Unknown Pin: Pin TP1403-1
+Add Pin To Net: Unknown Pin: Pin TP1404-1
+Add Pin To Net: Unknown Pin: Pin TP1405-1
+Add Pin To Net: Unknown Pin: Pin TP1406-1
+Add Pin To Net: Unknown Pin: Pin TP1407-1
+Add Pin To Net: Unknown Pin: Pin TP1408-1
+Add Pin To Net: Unknown Pin: Pin TP1409-1
+Add Pin To Net: Unknown Pin: Pin TP1410-1
+Add Pin To Net: Unknown Pin: Pin TP1501-1
+Add Pin To Net: Unknown Pin: Pin TP1502-1
+Add Pin To Net: Unknown Pin: Pin TP1503-1
+Add Pin To Net: Unknown Pin: Pin TP1504-1
+Add Pin To Net: Unknown Pin: Pin TP1601-1
+Add Pin To Net: Unknown Pin: Pin TP1602-1
+Add Pin To Net: Unknown Pin: Pin TP1603-1
+Add Pin To Net: Unknown Pin: Pin TP1604-1
+Add Pin To Net: Unknown Pin: Pin TP1605-1
+Add Pin To Net: Unknown Pin: Pin U501-C5
+Add Pin To Net: Unknown Pin: Pin U801-4
+Add Pin To Net: Unknown Pin: Pin U801-5
+Add Pin To Net: Unknown Pin: Pin U801-6
+Add Pin To Net: Unknown Pin: Pin U802-1
+Add Pin To Net: Unknown Pin: Pin U802-2
+Add Pin To Net: Unknown Pin: Pin U802-3
+Add Pin To Net: Unknown Pin: Pin U802-4
+Add Pin To Net: Unknown Pin: Pin U802-5
+Add Pin To Net: Unknown Pin: Pin U802-6
+Add Pin To Net: Unknown Pin: Pin U803-1
+Add Pin To Net: Unknown Pin: Pin U803-2
+Add Pin To Net: Unknown Pin: Pin U803-3
+Add Pin To Net: Unknown Pin: Pin U803-4
+Add Pin To Net: Unknown Pin: Pin U803-5
+Add Pin To Net: Unknown Pin: Pin U901-1
+Add Pin To Net: Unknown Pin: Pin U901-2
+Add Pin To Net: Unknown Pin: Pin U901-3
+Add Pin To Net: Unknown Pin: Pin U901-7
+Add Pin To Net: Unknown Pin: Pin U901-9
+Add Pin To Net: Unknown Pin: Pin U901-10
+Add Pin To Net: Unknown Pin: Pin U901-11
+Add Pin To Net: Unknown Pin: Pin U901-12
+Add Pin To Net: Unknown Pin: Pin U901-13
+Add Pin To Net: Unknown Pin: Pin U901-15
+Add Pin To Net: Unknown Pin: Pin U901-17
+Add Pin To Net: Unknown Pin: Pin U901-18
+Add Pin To Net: Unknown Pin: Pin U901-27
+Add Pin To Net: Unknown Pin: Pin U901-28
+Add Pin To Net: Unknown Pin: Pin U901-29
+Add Pin To Net: Unknown Pin: Pin U901-30
+Add Pin To Net: Unknown Pin: Pin U901-31
+Add Pin To Net: Unknown Pin: Pin U901-32
+Add Pin To Net: Unknown Pin: Pin U901-33
+Add Pin To Net: Unknown Pin: Pin U1001-1
+Add Pin To Net: Unknown Pin: Pin U1001-2
+Add Pin To Net: Unknown Pin: Pin U1001-3
+Add Pin To Net: Unknown Pin: Pin U1001-4
+Add Pin To Net: Unknown Pin: Pin U1001-5
+Add Pin To Net: Unknown Pin: Pin U1001-6
+Add Pin To Net: Unknown Pin: Pin U1001-7
+Add Pin To Net: Unknown Pin: Pin U1001-9
+Add Pin To Net: Unknown Pin: Pin U1001-10
+Add Pin To Net: Unknown Pin: Pin U1001-11
+Add Pin To Net: Unknown Pin: Pin U1002-1
+Add Pin To Net: Unknown Pin: Pin U1002-2
+Add Pin To Net: Unknown Pin: Pin U1002-3
+Add Pin To Net: Unknown Pin: Pin U1002-4
+Add Pin To Net: Unknown Pin: Pin U1002-5
+Add Pin To Net: Unknown Pin: Pin U1002-6
+Add Pin To Net: Unknown Pin: Pin U1003-1
+Add Pin To Net: Unknown Pin: Pin U1003-2
+Add Pin To Net: Unknown Pin: Pin U1003-3
+Add Pin To Net: Unknown Pin: Pin U1003-4
+Add Pin To Net: Unknown Pin: Pin U1003-5
+Add Pin To Net: Unknown Pin: Pin U1101-1
+Add Pin To Net: Unknown Pin: Pin U1101-2
+Add Pin To Net: Unknown Pin: Pin U1101-3
+Add Pin To Net: Unknown Pin: Pin U1101-4
+Add Pin To Net: Unknown Pin: Pin U1101-5
+Add Pin To Net: Unknown Pin: Pin U1101-6
+Add Pin To Net: Unknown Pin: Pin U1101-7
+Add Pin To Net: Unknown Pin: Pin U1101-8
+Add Pin To Net: Unknown Pin: Pin U1401-1
+Add Pin To Net: Unknown Pin: Pin U1401-2
+Add Pin To Net: Unknown Pin: Pin U1401-3
+Add Pin To Net: Unknown Pin: Pin U1401-4
+Add Pin To Net: Unknown Pin: Pin U1401-5
+Add Pin To Net: Unknown Pin: Pin U1401-6
+Add Pin To Net: Unknown Pin: Pin U1402-1
+Add Pin To Net: Unknown Pin: Pin U1402-2
+Add Pin To Net: Unknown Pin: Pin U1402-3
+Add Pin To Net: Unknown Pin: Pin U1403-1
+Add Pin To Net: Unknown Pin: Pin U1403-2
+Add Pin To Net: Unknown Pin: Pin U1403-3
+Add Pin To Net: Unknown Pin: Pin U1403-4
+Add Pin To Net: Unknown Pin: Pin U1403-5
+Add Pin To Net: Unknown Pin: Pin U1403-6
+Add Pin To Net: Unknown Pin: Pin U1404-1
+Add Pin To Net: Unknown Pin: Pin U1404-2
+Add Pin To Net: Unknown Pin: Pin U1404-3
+Add Pin To Net: Unknown Pin: Pin U1404-4
+Add Pin To Net: Unknown Pin: Pin U1404-5
+Add Pin To Net: Unknown Pin: Pin U1405-1
+Add Pin To Net: Unknown Pin: Pin U1405-2
+Add Pin To Net: Unknown Pin: Pin U1405-3
+Add Pin To Net: Unknown Pin: Pin U1405-4
+Add Pin To Net: Unknown Pin: Pin U1405-5
+Added Pin To Net: NetName=TS Pin=U1406-1
+Added Pin To Net: NetName=BATT_IN Pin=U1406-2
+Added Pin To Net: NetName=BATT_IN Pin=U1406-3
+Added Pin To Net: NetName=BATT_C\E\ Pin=U1406-4
+Added Pin To Net: NetName=EN2 Pin=U1406-5
+Added Pin To Net: NetName=EN1 Pin=U1406-6
+Added Pin To Net: NetName=P\G\O\O\D\ Pin=U1406-7
+Added Pin To Net: NetName=GND Pin=U1406-8
+Added Pin To Net: NetName=BATT_C\H\G\ Pin=U1406-9
+Added Pin To Net: NetName=SYS_OUT Pin=U1406-10
+Added Pin To Net: NetName=SYS_OUT Pin=U1406-11
+Added Pin To Net: NetName=ILIM Pin=U1406-12
+Added Pin To Net: NetName=VBUS_FUSE Pin=U1406-13
+Added Pin To Net: NetName=TMR Pin=U1406-14
+Added Pin To Net: NetName=ITERM Pin=U1406-15
+Added Pin To Net: NetName=ISET Pin=U1406-16
+Added Pin To Net: NetName=GND Pin=U1406-17
+Add Pin To Net: Unknown Pin: Pin U1501-1
+Add Pin To Net: Unknown Pin: Pin U1501-2
+Add Pin To Net: Unknown Pin: Pin U1501-3
+Add Pin To Net: Unknown Pin: Pin U1501-4
+Add Pin To Net: Unknown Pin: Pin U1501-5
+Add Pin To Net: Unknown Pin: Pin U1501-6
+Add Pin To Net: Unknown Pin: Pin U1501-7
+Add Pin To Net: Unknown Pin: Pin U1501-9
+Add Pin To Net: Unknown Pin: Pin U1501-10
+Add Pin To Net: Unknown Pin: Pin U1501-11
+Add Pin To Net: Unknown Pin: Pin U1502-1
+Add Pin To Net: Unknown Pin: Pin U1502-2
+Add Pin To Net: Unknown Pin: Pin U1502-3
+Add Pin To Net: Unknown Pin: Pin U1502-4
+Add Pin To Net: Unknown Pin: Pin U1502-5
+Add Pin To Net: Unknown Pin: Pin U1601-1
+Add Pin To Net: Unknown Pin: Pin U1601-2
+Add Pin To Net: Unknown Pin: Pin U1601-3
+Add Pin To Net: Unknown Pin: Pin U1601-4
+Add Pin To Net: Unknown Pin: Pin U1601-5
+Add Pin To Net: Unknown Pin: Pin U1601-6
+Add Pin To Net: Unknown Pin: Pin U1601-7
+Add Pin To Net: Unknown Pin: Pin U1601-8
+Add Pin To Net: Unknown Pin: Pin U1601-9
+Add Pin To Net: Unknown Pin: Pin U1601-10
+Add Pin To Net: Unknown Pin: Pin U1601-12
+Add Pin To Net: Unknown Pin: Pin U1601-13
+Add Pin To Net: Unknown Pin: Pin U1602-1
+Add Pin To Net: Unknown Pin: Pin U1602-2
+Add Pin To Net: Unknown Pin: Pin U1602-3
+Add Pin To Net: Unknown Pin: Pin U1602-4
+Add Pin To Net: Unknown Pin: Pin U1602-5
+Add Pin To Net: Unknown Pin: Pin U1603-1
+Add Pin To Net: Unknown Pin: Pin U1603-2
+Add Pin To Net: Unknown Pin: Pin U1603-3
+Add Pin To Net: Unknown Pin: Pin U1603-4
+Add Pin To Net: Unknown Pin: Pin U1603-5
+Add Pin To Net: Unknown Pin: Pin U1604-1
+Add Pin To Net: Unknown Pin: Pin U1604-2
+Add Pin To Net: Unknown Pin: Pin U1604-3
+Add Pin To Net: Unknown Pin: Pin U1604-4
+Add Pin To Net: Unknown Pin: Pin U1604-5
+Add Pin To Net: Unknown Pin: Pin Y401-1
+Add Pin To Net: Unknown Pin: Pin Y401-2
+Add Pin To Net: Unknown Pin: Pin Y401-3
+Add Pin To Net: Unknown Pin: Pin Y401-4
+Add Pin To Net: Unknown Pin: Pin Y601-1
+Add Pin To Net: Unknown Pin: Pin Y601-2
+Add Pin To Net: Unknown Pin: Pin Y601-3
+Add Pin To Net: Unknown Pin: Pin Y601-4
+Add Pin To Net: Unknown Pin: Pin Y901-1
+Add Pin To Net: Unknown Pin: Pin Y901-2
+Add Pin To Net: Unknown Pin: Pin Y901-3
+Add Pin To Net: Unknown Pin: Pin Y901-4
+Add Pin To Net: Unknown Pin: Pin Y1001-1
+Add Pin To Net: Unknown Pin: Pin Y1001-2
+Add Net: Net with name "VBUS_I_SENS" already exists
+Add Class Member: Failed to add class member : Component ANT901 2.4GHz
+Add Class Member: Failed to add class member : Component C1004 1F
+Add Class Member: Failed to add class member : Component D401 LTST-C19HE1WT
+Added Member To Class: ClassName=RTC Member=Component D1001 BAS100AS_R1_00001
+Add Class Member: Failed to add class member : Component D1401 CYAN
+Add Class Member: Failed to add class member : Component D1402 CYAN
+Add Class Member: Failed to add class member : Component D1403 CYAN
+Add Class Member: Failed to add class member : Component D1404 CYAN
+Add Class Member: Failed to add class member : Component D1405 CYAN
+Add Class Member: Failed to add class member : Component D1501 CYAN
+Add Class Member: Failed to add class member : Component D1601 CYAN
+Add Class Member: Failed to add class member : Component D1602 CYAN
+Add Class Member: Failed to add class member : Component F1401 1A
+Add Class Member: Failed to add class member : Component F1402 1A
+Add Class Member: Failed to add class member : Component F1501 1A
+Add Class Member: Failed to add class member : Component F1601 1A
+Add Class Member: Failed to add class member : Component F1602 100mA
+Add Class Member: Failed to add class member : Component J401 3220-10-0100-00
+Add Class Member: Failed to add class member : Component J602 M20-7920842R
+Add Class Member: Failed to add class member : Component J801 USB4105-GF-A
+Add Class Member: Failed to add class member : Component J901 U.FL-R-SMT-1(10)
+Add Class Member: Failed to add class member : Component J902 HEADER_2x3_2.54mm
+Add Class Member: Failed to add class member : Component J1201 MSD-1-A
+Add Class Member: Failed to add class member : Component J1301 16249
+Add Class Member: Failed to add class member : Component L901 Value
+Add Class Member: Failed to add class member : Component L902 2n2
+Add Class Member: Failed to add class member : Component L1501 IHLP2020BZER1R0M11
+Add Class Member: Failed to add class member : Component L1601 1u5
+Add Class Member: Failed to add class member : Component Q1401 DMP2045U-7
+Add Class Member: Failed to add class member : Component Q1402 DMP2045U-7
+Added Member To Class: ClassName=LCD Member=Component R1301 10k
+Add Class Member: Failed to add class member : Component SW401 TS21-34-035-BK-160-SMT-TR
+Add Class Member: Failed to add class member : Component SW402 TS21-34-035-BK-160-SMT-TR
+Add Class Member: Failed to add class member : Component SW1401 OS102011MA1QN1
+Add Class Member: Failed to add class member : Component TP301 Net
+Add Class Member: Failed to add class member : Component TP302 Net
+Add Class Member: Failed to add class member : Component TP401 Net
+Add Class Member: Failed to add class member : Component TP402 Net
+Add Class Member: Failed to add class member : Component TP402 Net
+Add Class Member: Failed to add class member : Component TP403 Net
+Add Class Member: Failed to add class member : Component TP404 Net
+Add Class Member: Failed to add class member : Component TP405 Net
+Add Class Member: Failed to add class member : Component TP406 Net
+Add Class Member: Failed to add class member : Component TP601 Net
+Add Class Member: Failed to add class member : Component TP602 Net
+Add Class Member: Failed to add class member : Component TP603 Net
+Add Class Member: Failed to add class member : Component TP604 Net
+Add Class Member: Failed to add class member : Component TP605 Net
+Add Class Member: Failed to add class member : Component TP607 Net
+Add Class Member: Failed to add class member : Component TP608 Net
+Add Class Member: Failed to add class member : Component TP609 Net
+Add Class Member: Failed to add class member : Component TP610 Net
+Add Class Member: Failed to add class member : Component TP611 Net
+Add Class Member: Failed to add class member : Component TP612 Net
+Add Class Member: Failed to add class member : Component TP613 Net
+Add Class Member: Failed to add class member : Component TP614 Net
+Add Class Member: Failed to add class member : Component TP615 Net
+Add Class Member: Failed to add class member : Component TP616 Net
+Add Class Member: Failed to add class member : Component TP617 Net
+Add Class Member: Failed to add class member : Component TP618 Net
+Add Class Member: Failed to add class member : Component TP619 Net
+Add Class Member: Failed to add class member : Component TP620 Net
+Add Class Member: Failed to add class member : Component TP621 Net
+Add Class Member: Failed to add class member : Component TP622 Net
+Add Class Member: Failed to add class member : Component TP623 Net
+Add Class Member: Failed to add class member : Component TP624 Net
+Add Class Member: Failed to add class member : Component TP625 Net
+Add Class Member: Failed to add class member : Component TP626 Net
+Add Class Member: Failed to add class member : Component TP627 Net
+Add Class Member: Failed to add class member : Component TP628 Net
+Add Class Member: Failed to add class member : Component TP629 Net
+Add Class Member: Failed to add class member : Component TP630 Net
+Add Class Member: Failed to add class member : Component TP631 Net
+Add Class Member: Failed to add class member : Component TP632 Net
+Add Class Member: Failed to add class member : Component TP633 Net
+Add Class Member: Failed to add class member : Component TP634 Net
+Add Class Member: Failed to add class member : Component TP635 Net
+Add Class Member: Failed to add class member : Component TP636 Net
+Add Class Member: Failed to add class member : Component TP637 Net
+Add Class Member: Failed to add class member : Component TP638 Net
+Add Class Member: Failed to add class member : Component TP639 Net
+Add Class Member: Failed to add class member : Component TP801 Net
+Add Class Member: Failed to add class member : Component TP802 Net
+Add Class Member: Failed to add class member : Component TP803 Net
+Add Class Member: Failed to add class member : Component TP901 Net
+Add Class Member: Failed to add class member : Component TP902 Net
+Add Class Member: Failed to add class member : Component TP903 Net
+Add Class Member: Failed to add class member : Component TP904 Net
+Add Class Member: Failed to add class member : Component TP905 Net
+Add Class Member: Failed to add class member : Component TP906 Net
+Add Class Member: Failed to add class member : Component TP907 Net
+Add Class Member: Failed to add class member : Component TP908 Net
+Add Class Member: Failed to add class member : Component TP1001 Net
+Add Class Member: Failed to add class member : Component TP1002 Net
+Add Class Member: Failed to add class member : Component TP1003 Net
+Add Class Member: Failed to add class member : Component TP1004 Net
+Add Class Member: Failed to add class member : Component TP1005 Net
+Add Class Member: Failed to add class member : Component TP1006 Net
+Add Class Member: Failed to add class member : Component TP1101 Net
+Add Class Member: Failed to add class member : Component TP1102 Net
+Add Class Member: Failed to add class member : Component TP1103 Net
+Add Class Member: Failed to add class member : Component TP1201 Net
+Add Class Member: Failed to add class member : Component TP1202 Net
+Add Class Member: Failed to add class member : Component TP1203 Net
+Add Class Member: Failed to add class member : Component TP1204 Net
+Add Class Member: Failed to add class member : Component TP1205 Net
+Add Class Member: Failed to add class member : Component TP1206 Net
+Add Class Member: Failed to add class member : Component TP1207 Net
+Add Class Member: Failed to add class member : Component TP1301 Net
+Add Class Member: Failed to add class member : Component TP1302 Net
+Add Class Member: Failed to add class member : Component TP1303 Net
+Add Class Member: Failed to add class member : Component TP1304 Net
+Add Class Member: Failed to add class member : Component TP1305 Net
+Add Class Member: Failed to add class member : Component TP1306 Net
+Add Class Member: Failed to add class member : Component TP1307 Net
+Add Class Member: Failed to add class member : Component TP1308 Net
+Add Class Member: Failed to add class member : Component TP1309 Net
+Add Class Member: Failed to add class member : Component TP1310 Net
+Add Class Member: Failed to add class member : Component TP1311 Net
+Add Class Member: Failed to add class member : Component TP1312 Net
+Add Class Member: Failed to add class member : Component TP1313 Net
+Add Class Member: Failed to add class member : Component TP1314 Net
+Add Class Member: Failed to add class member : Component TP1315 Net
+Add Class Member: Failed to add class member : Component TP1316 Net
+Add Class Member: Failed to add class member : Component TP1317 Net
+Add Class Member: Failed to add class member : Component TP1318 Net
+Add Class Member: Failed to add class member : Component TP1319 Net
+Add Class Member: Failed to add class member : Component TP1320 Net
+Add Class Member: Failed to add class member : Component TP1321 Net
+Add Class Member: Failed to add class member : Component TP1322 Net
+Add Class Member: Failed to add class member : Component TP1323 Net
+Add Class Member: Failed to add class member : Component TP1324 Net
+Add Class Member: Failed to add class member : Component TP1325 Net
+Add Class Member: Failed to add class member : Component TP1326 Net
+Add Class Member: Failed to add class member : Component TP1327 Net
+Add Class Member: Failed to add class member : Component TP1328 Net
+Add Class Member: Failed to add class member : Component TP1329 Net
+Add Class Member: Failed to add class member : Component TP1330 Net
+Add Class Member: Failed to add class member : Component TP1331 Net
+Add Class Member: Failed to add class member : Component TP1332 Net
+Add Class Member: Failed to add class member : Component TP1333 Net
+Add Class Member: Failed to add class member : Component TP1401 Net
+Add Class Member: Failed to add class member : Component TP1402 Net
+Add Class Member: Failed to add class member : Component TP1403 Net
+Add Class Member: Failed to add class member : Component TP1404 Net
+Add Class Member: Failed to add class member : Component TP1405 Net
+Add Class Member: Failed to add class member : Component TP1406 Net
+Add Class Member: Failed to add class member : Component TP1407 Net
+Add Class Member: Failed to add class member : Component TP1408 Net
+Add Class Member: Failed to add class member : Component TP1409 Net
+Add Class Member: Failed to add class member : Component TP1410 Net
+Add Class Member: Failed to add class member : Component TP1501 Net
+Add Class Member: Failed to add class member : Component TP1502 Net
+Add Class Member: Failed to add class member : Component TP1503 Net
+Add Class Member: Failed to add class member : Component TP1504 Net
+Add Class Member: Failed to add class member : Component TP1601 Net
+Add Class Member: Failed to add class member : Component TP1602 Net
+Add Class Member: Failed to add class member : Component TP1603 Net
+Add Class Member: Failed to add class member : Component TP1604 Net
+Add Class Member: Failed to add class member : Component TP1605 Net
+Add Class Member: Failed to add class member : Component U801 USBLC6-2SC6Y
+Add Class Member: Failed to add class member : Component U802 INA181A2IDBVR
+Add Class Member: Failed to add class member : Component U803 MCP6071
+Add Class Member: Failed to add class member : Component U901 ESP32-C3FH4X
+Add Class Member: Failed to add class member : Component U1001 PCF85363ATL
+Add Class Member: Failed to add class member : Component U1002 INA181A2IDBVR
+Add Class Member: Failed to add class member : Component U1003 MCP6071
+Add Class Member: Failed to add class member : Component U1101 M24C02-WMN6TP
+Add Class Member: Failed to add class member : Component U1401 INA181A2IDBVR
+Add Class Member: Failed to add class member : Component U1402 REF3016EAIDBZR
+Add Class Member: Failed to add class member : Component U1403 INA181A2IDBVR
+Add Class Member: Failed to add class member : Component U1404 MCP6071
+Add Class Member: Failed to add class member : Component U1405 MCP6071
+Added Member To Class: ClassName=Battery_Charging Member=Component U1406 BQ2474
+Add Class Member: Failed to add class member : Component U1501 TPS61232DRC
+Add Class Member: Failed to add class member : Component U1502 MCP6071
+Add Class Member: Failed to add class member : Component U1601 LM63615DQDRRRQ1
+Add Class Member: Failed to add class member : Component U1602 MCP6071
+Add Class Member: Failed to add class member : Component U1603 TPS79933DDC
+Add Class Member: Failed to add class member : Component U1604 MCP6071
+Add Class Member: Failed to add class member : Component Y401 STDCZS1-25M
+Add Class Member: Failed to add class member : Component Y601 LFXTAL061486
+Add Class Member: Failed to add class member : Component Y901 ECS-400-10-37B2-CKY-TR
+Add Class Member: Failed to add class member : Component Y1001 SC32S-7PF20PPM

@@ -1,0 +1,124 @@
+Change Component Footprint: Designator=C305 Old Footprint=CAP_0603_B New Footprint=CAP_0402_B
+Change Component Footprint: Designator=C306 Old Footprint=CAP_0603_B New Footprint=CAP_0402_B
+Change Component Footprint: Designator=C307 Old Footprint=CAP_0603_B New Footprint=CAP_0402_B
+Change Component Footprint: Designator=C308 Old Footprint=CAP_0603_B New Footprint=CAP_0402_B
+Change Component Designator: OldDesignator=C? NewDesignator=C309
+Change Component Designator: OldDesignator=R30 NewDesignator=R303
+Change Component Designator: OldDesignator=R31 NewDesignator=R318
+Added Component: Designator=D301(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D302(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D303(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D304(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D305(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D306(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=U301(ADS131M04IPW)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-ADS131M04IPWRCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U301(AS4C8M16SA-6BINTR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1450-AS4C8M16SA-6BINCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC301_2 Pin=D301-1
+Added Pin To Net: NetName=NetD301_2 Pin=D301-2
+Added Pin To Net: NetName=NetC301_1 Pin=D302-1
+Added Pin To Net: NetName=NetD301_2 Pin=D302-2
+Added Pin To Net: NetName=NetC302_2 Pin=D303-1
+Added Pin To Net: NetName=NetD303_2 Pin=D303-2
+Added Pin To Net: NetName=NetC302_1 Pin=D304-1
+Added Pin To Net: NetName=NetD303_2 Pin=D304-2
+Added Pin To Net: NetName=NetC303_2 Pin=D305-1
+Added Pin To Net: NetName=NetD305_2 Pin=D305-2
+Added Pin To Net: NetName=NetC303_1 Pin=D306-1
+Added Pin To Net: NetName=NetD305_2 Pin=D306-2
+Added Pin To Net: NetName=+3V3A Pin=U301-1
+Added Pin To Net: NetName=GND Pin=U301-2
+Added Pin To Net: NetName=NetC304_2 Pin=U301-3
+Added Pin To Net: NetName=NetC304_1 Pin=U301-4
+Added Pin To Net: NetName=NetR313_2 Pin=U301-5
+Added Pin To Net: NetName=NetR312_2 Pin=U301-6
+Added Pin To Net: NetName=NetR307_2 Pin=U301-7
+Added Pin To Net: NetName=NetR308_2 Pin=U301-8
+Added Pin To Net: NetName=NetU301_11 Pin=U301-11
+Added Pin To Net: NetName=NetU301_12 Pin=U301-12
+Added Pin To Net: NetName=NetU301_13 Pin=U301-13
+Added Pin To Net: NetName=NetU301_14 Pin=U301-14
+Added Pin To Net: NetName=NetU301_15 Pin=U301-15
+Added Pin To Net: NetName=NetU301_16 Pin=U301-16
+Added Pin To Net: NetName=GND Pin=U301-19
+Added Pin To Net: NetName=+3V3 Pin=U301-20
+Added Pin To Net: NetName=GND Pin=U301-A1
+Added Pin To Net: NetName=SDRAM_DQ15 Pin=U301-A2
+Added Pin To Net: NetName=GND Pin=U301-A3
+Added Pin To Net: NetName=SDRAM_DQ0 Pin=U301-A8
+Added Pin To Net: NetName=SDRAM_DQ14 Pin=U301-B1
+Added Pin To Net: NetName=SDRAM_DQ13 Pin=U301-B2
+Added Pin To Net: NetName=GND Pin=U301-B7
+Added Pin To Net: NetName=SDRAM_DQ2 Pin=U301-B8
+Added Pin To Net: NetName=SDRAM_DQ1 Pin=U301-B9
+Added Pin To Net: NetName=SDRAM_DQ12 Pin=U301-C1
+Added Pin To Net: NetName=SDRAM_DQ11 Pin=U301-C2
+Added Pin To Net: NetName=GND Pin=U301-C3
+Added Pin To Net: NetName=SDRAM_DQ4 Pin=U301-C7
+Added Pin To Net: NetName=SDRAM_DQ3 Pin=U301-C9
+Added Pin To Net: NetName=SDRAM_DQ10 Pin=U301-D1
+Added Pin To Net: NetName=SDRAM_DQ9 Pin=U301-D2
+Added Pin To Net: NetName=GND Pin=U301-D7
+Added Pin To Net: NetName=SDRAM_DQ6 Pin=U301-D8
+Added Pin To Net: NetName=SDRAM_DQ5 Pin=U301-D9
+Added Pin To Net: NetName=SDRAM_DQ8 Pin=U301-E1
+Added Pin To Net: NetName=GND Pin=U301-E3
+Added Pin To Net: NetName=GND Pin=U301-E8
+Added Pin To Net: NetName=SDRAM_DQ7 Pin=U301-E9
+Added Pin To Net: NetName=GND Pin=U301-F1
+Added Pin To Net: NetName=SDRAM_CLK Pin=U301-F2
+Added Pin To Net: NetName=SDRAM_CKE Pin=U301-F3
+Added Pin To Net: NetName=SDRAM_CAS Pin=U301-F7
+Added Pin To Net: NetName=SDRAM_RAS Pin=U301-F8
+Added Pin To Net: NetName=SDRAM_WE Pin=U301-F9
+Added Pin To Net: NetName=SDRAM_A11 Pin=U301-G2
+Added Pin To Net: NetName=SDRAM_A9 Pin=U301-G3
+Added Pin To Net: NetName=SDRAM_BA0 Pin=U301-G7
+Added Pin To Net: NetName=SDRAM_BA1 Pin=U301-G8
+Added Pin To Net: NetName=SDRAM_CS Pin=U301-G9
+Added Pin To Net: NetName=SDRAM_A8 Pin=U301-H1
+Added Pin To Net: NetName=SDRAM_A7 Pin=U301-H2
+Added Pin To Net: NetName=SDRAM_A6 Pin=U301-H3
+Added Pin To Net: NetName=SDRAM_A0 Pin=U301-H7
+Added Pin To Net: NetName=SDRAM_A1 Pin=U301-H8
+Added Pin To Net: NetName=SDRAM_A10 Pin=U301-H9
+Added Pin To Net: NetName=GND Pin=U301-J1
+Added Pin To Net: NetName=SDRAM_A5 Pin=U301-J2
+Added Pin To Net: NetName=SDRAM_A4 Pin=U301-J3
+Added Pin To Net: NetName=SDRAM_A3 Pin=U301-J7
+Added Pin To Net: NetName=SDRAM_A2 Pin=U301-J8
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR317_2
+Added Pin To Net: NetName=NetC309_2 Pin=C309-2
+Added Pin To Net: NetName=NetC309_2 Pin=U301-18
+Added Net: Name=NetC309_2
+Added Pin To Net: NetName=NetR302_2 Pin=R302-2
+Added Pin To Net: NetName=NetR302_2 Pin=R303-1
+Added Pin To Net: NetName=NetR302_2 Pin=U301-10
+Added Net: Name=NetR302_2
+Added Pin To Net: NetName=NetR303_2 Pin=R303-2
+Added Pin To Net: NetName=NetR303_2 Pin=R305-2
+Added Pin To Net: NetName=NetR303_2 Pin=U301-9
+Added Net: Name=NetR303_2
+Added Member To Class: ClassName=ADC Member=Component D301 DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC Member=Component D302 DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC Member=Component D303 DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC Member=Component D304 DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC Member=Component D305 DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC Member=Component D306 DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC Member=Component U301 ADS131M04
+Added Member To Class: ClassName=SDRAM Member=Component U301 AS4C8M16SA-6BINTR

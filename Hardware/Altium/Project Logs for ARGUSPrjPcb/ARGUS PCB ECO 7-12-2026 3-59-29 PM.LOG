@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=LTDC_B3 Pin=U201-A7
+Removed Pin From Net: NetName=LTDC_B0 Pin=U201-B1
+Removed Pin From Net: NetName=LTDC_R0 Pin=U201-B4
+Removed Pin From Net: NetName=SDRAM_DQ7 Pin=U201-B10
+Removed Pin From Net: NetName=SDRAM_DQ6 Pin=U201-B11
+Removed Pin From Net: NetName=LTDC_R6 Pin=U201-B14
+Removed Pin From Net: NetName=USB_D_P Pin=U201-B15
+Removed Pin From Net: NetName=LTDC_B2 Pin=U201-C8
+Removed Pin From Net: NetName=LTDC_B1 Pin=U201-C12
+Removed Pin From Net: NetName=USB_D_N Pin=U201-C15
+Removed Pin From Net: NetName=LTDC_G0 Pin=U201-D3
+Removed Pin From Net: NetName=LTDC_G1 Pin=U201-E3
+Removed Pin From Net: NetName=SDRAM_DQ11 Pin=U201-K14
+Removed Pin From Net: NetName=SDRAM_DQ10 Pin=U201-K15
+Removed Pin From Net: NetName=SDRAM_DQ12 Pin=U201-L2
+Removed Pin From Net: NetName=LTDC_G5 Pin=U201-L3
+Removed Pin From Net: NetName=SDRAM_CS Pin=U201-M1
+Removed Pin From Net: NetName=SDRAM_CKE Pin=U201-M2
+Removed Pin From Net: NetName=LTDC_VSYNC Pin=U201-N6
+Removed Pin From Net: NetName=LTDC_R2 Pin=U201-N13
+Removed Pin From Net: NetName=SDRAM_DQ8 Pin=U201-P5
+Removed Pin From Net: NetName=SDRAM_DQ9 Pin=U201-P6
+Removed Pin From Net: NetName=SDRAM_A7 Pin=U201-P13
+Removed Pin From Net: NetName=SDRAM_A9 Pin=U201-P14
+Removed Pin From Net: NetName=LTDC_R1 Pin=U201-R2
+Removed Pin From Net: NetName=LTDC_B7 Pin=U201-R11
+Added Pin To Net: NetName=EEPROM_SCL Pin=U201-A5
+Added Pin To Net: NetName=SWO Pin=U201-A6
+Added Pin To Net: NetName=DAT2 Pin=U201-A7
+Added Pin To Net: NetName=DAT0 Pin=U201-A8
+Added Pin To Net: NetName=SWCLK Pin=U201-A12
+Added Pin To Net: NetName=EEPROM_W\C\ Pin=U201-B4
+Added Pin To Net: NetName=EEPROM_SDA Pin=U201-B5
+Added Pin To Net: NetName=DAT3 Pin=U201-B6
+Added Pin To Net: NetName=LTDC_R0 Pin=U201-B7
+Added Pin To Net: NetName=CMD Pin=U201-B8
+Added Pin To Net: NetName=LTDC_RST Pin=U201-B9
+Added Pin To Net: NetName=LTDC_B7 Pin=U201-B10
+Added Pin To Net: NetName=LTDC_R6 Pin=U201-B11
+Added Pin To Net: NetName=SWDIO Pin=U201-B13
+Added Pin To Net: NetName=LTDC_B3 Pin=U201-B14
+Added Pin To Net: NetName=ADC_D\R\D\Y\ Pin=U201-C1
+Added Pin To Net: NetName=ADC_SCLK Pin=U201-C3
+Added Pin To Net: NetName=LTDC_B0 Pin=U201-C7
+Added Pin To Net: NetName=DAT1 Pin=U201-C8
+Added Pin To Net: NetName=C\D\ Pin=U201-C9
+Added Pin To Net: NetName=LTDC_R2 Pin=U201-C12
+Added Pin To Net: NetName=TOUCH_IRQ Pin=U201-C14
+Added Pin To Net: NetName=ADC_S\Y\N\C\ Pin=U201-D1
+Added Pin To Net: NetName=ADC_C\S\ Pin=U201-D2
+Added Pin To Net: NetName=ADC_DOUT Pin=U201-D3
+Added Pin To Net: NetName=LTDC_B1 Pin=U201-D8
+Added Pin To Net: NetName=LTDC_B2 Pin=U201-D9
+Added Pin To Net: NetName=LTDC_PWM Pin=U201-D14
+Added Pin To Net: NetName=ADC_DIN Pin=U201-E3
+Added Pin To Net: NetName=TOUCH_SDA Pin=U201-E13
+Added Pin To Net: NetName=RTC_SDA Pin=U201-H15
+Added Pin To Net: NetName=RTC_SCL Pin=U201-J15
+Added Pin To Net: NetName=I\N\T\B Pin=U201-K14
+Added Pin To Net: NetName=I\N\T\A Pin=U201-K15
+Added Pin To Net: NetName=CLK Pin=U201-L3
+Added Pin To Net: NetName=SDRAM_CKE Pin=U201-M7
+Added Pin To Net: NetName=LTDC_G0 Pin=U201-M8
+Added Pin To Net: NetName=TOUCH_SCL Pin=U201-M11
+Added Pin To Net: NetName=SDRAM_DQ11 Pin=U201-M12
+Added Pin To Net: NetName=SDRAM_A9 Pin=U201-N10
+Added Pin To Net: NetName=SDRAM_A7 Pin=U201-N11
+Added Pin To Net: NetName=ESP_PROG_RX Pin=U201-P1
+Added Pin To Net: NetName=ESP_PROG_TX Pin=U201-P2
+Added Pin To Net: NetName=LTDC_G5 Pin=U201-P4
+Added Pin To Net: NetName=LTDC_VSYNC Pin=U201-P5
+Added Pin To Net: NetName=SDRAM_DQ9 Pin=U201-P12
+Added Pin To Net: NetName=SDRAM_DQ10 Pin=U201-P13
+Added Pin To Net: NetName=SDRAM_DQ12 Pin=U201-P14
+Added Pin To Net: NetName=LTDC_R1 Pin=U201-R4
+Added Pin To Net: NetName=SDRAM_CS Pin=U201-R6
+Added Pin To Net: NetName=LTDC_G1 Pin=U201-R8
+Added Pin To Net: NetName=SDRAM_DQ7 Pin=U201-R9
+Added Pin To Net: NetName=SDRAM_DQ6 Pin=U201-R11
+Added Pin To Net: NetName=SDRAM_DQ8 Pin=U201-R12
+Change Net Name : Old Net Name=EEPROM_SCL New Net Name=I2C1_SCL
+Change Net Name : Old Net Name=EEPROM_SDA New Net Name=I2C1_SDA
+Change Net Color : Old Net Color=RGB(0, 191, 191) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 191, 191) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 0, 102)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 0, 102)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 0, 102)

@@ -1,0 +1,187 @@
+Change Component Footprint: Designator=R1004 Old Footprint=RES_0402_B New Footprint=CRM2512-FX-10R0ELF
+Change Component Footprint: Designator=R1005 Old Footprint=RES_0402_B New Footprint=VMS-R010-1.0-U
+Change Component Footprint: Designator=R1414 Old Footprint=RES_0402_B New Footprint=VMS-R010-1.0-U
+Change Component Footprint: Designator=R1418 Old Footprint=RES_0402_B New Footprint=VMS-R010-1.0-U
+Added Component: Designator=C1004(LIC0813Q3R8106)
+Add component (AddParameter): Name = "Part Number"; Value = "LIC0813Q3R8106"; VariantName = "[No Variations]"
+Added Component: Designator=D1401(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1402(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1403(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1404(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1405(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1501(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1601(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1602(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F1401(0ZCJ0100FF2E)
+Add component (AddParameter): Name = "Part Number"; Value = "0ZCJ0100FF2E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "48AC8418"; VariantName = "[No Variations]"
+Added Component: Designator=F1402(0ZCJ0100FF2E)
+Add component (AddParameter): Name = "Part Number"; Value = "0ZCJ0100FF2E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "48AC8418"; VariantName = "[No Variations]"
+Added Component: Designator=F1501(0ZCJ0100FF2E)
+Add component (AddParameter): Name = "Part Number"; Value = "0ZCJ0100FF2E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "48AC8418"; VariantName = "[No Variations]"
+Added Component: Designator=F1601(0ZCJ0100FF2E)
+Add component (AddParameter): Name = "Part Number"; Value = "0ZCJ0100FF2E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "48AC8418"; VariantName = "[No Variations]"
+Added Component: Designator=F1602(0ZCH0010FF2E)
+Add component (AddParameter): Name = "Part Number"; Value = "0ZCH0010FF2E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "48AC8402"; VariantName = "[No Variations]"
+Added Component: Designator=J1201(MSD-1-A)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MSD-1-A"; VariantName = "[No Variations]"
+Added Component: Designator=L901(LQG15HN2N0C02D)
+Add component (AddParameter): Name = "Part Number"; Value = "LQG15HN2N0C02D"; VariantName = "[No Variations]"
+Added Component: Designator=L902(LQG15HN2N0C02D)
+Add component (AddParameter): Name = "Part Number"; Value = "LQG15HN2N0C02D"; VariantName = "[No Variations]"
+Added Component: Designator=L1501(IHLP2020BZEK1R0M11)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "IHLP2020BZER1R0M11"; VariantName = "[No Variations]"
+Added Component: Designator=L1601(74438324015)
+Add component (AddParameter): Name = "Part Number"; Value = "74438324015"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAP_I_SENS- Pin=C1004-1
+Added Pin To Net: NetName=GND Pin=C1004-2
+Added Pin To Net: NetName=VBUS_LED_A Pin=D1401-1
+Added Pin To Net: NetName=GND Pin=D1401-2
+Added Pin To Net: NetName=BATT_LED_A Pin=D1402-1
+Added Pin To Net: NetName=GND Pin=D1402-2
+Added Pin To Net: NetName=SYS_OUT Pin=D1403-1
+Added Pin To Net: NetName=NetD1403_2 Pin=D1403-2
+Added Pin To Net: NetName=SYS_OUT Pin=D1404-1
+Added Pin To Net: NetName=NetD1404_2 Pin=D1404-2
+Added Pin To Net: NetName=SYS_LED_A Pin=D1405-1
+Added Pin To Net: NetName=GND Pin=D1405-2
+Added Pin To Net: NetName=+5V_LED_A Pin=D1501-1
+Added Pin To Net: NetName=GND Pin=D1501-2
+Added Pin To Net: NetName=NetD1601_1 Pin=D1601-1
+Added Pin To Net: NetName=GND Pin=D1601-2
+Added Pin To Net: NetName=NetD1602_1 Pin=D1602-1
+Added Pin To Net: NetName=GND Pin=D1602-2
+Added Pin To Net: NetName=VBUS Pin=F1401-1
+Added Pin To Net: NetName=VBUS_FUSE Pin=F1401-2
+Added Pin To Net: NetName=BATT_FUSE Pin=F1402-1
+Added Pin To Net: NetName=BATT_SENS Pin=F1402-2
+Added Pin To Net: NetName=+5V_OUT Pin=F1501-1
+Added Pin To Net: NetName=+5V Pin=F1501-2
+Added Pin To Net: NetName=+3V3_FUSE Pin=F1601-1
+Added Pin To Net: NetName=+3V3 Pin=F1601-2
+Added Pin To Net: NetName=+3V3A_FUSE Pin=F1602-1
+Added Pin To Net: NetName=+3V3A Pin=F1602-2
+Add Pin To Net: Unknown Pin: Pin J801-A9B4
+Add Pin To Net: Unknown Pin: Pin J801-A12B1
+Added Pin To Net: NetName=CON_DAT2 Pin=J1201-1
+Added Pin To Net: NetName=CON_DAT3 Pin=J1201-2
+Added Pin To Net: NetName=CON_CMD Pin=J1201-3
+Added Pin To Net: NetName=+3V3 Pin=J1201-4
+Added Pin To Net: NetName=CON_CLK Pin=J1201-5
+Added Pin To Net: NetName=GND Pin=J1201-6
+Added Pin To Net: NetName=CON_DAT0 Pin=J1201-7
+Added Pin To Net: NetName=CON_DAT1 Pin=J1201-8
+Added Pin To Net: NetName=C\D\ Pin=J1201-9
+Added Pin To Net: NetName=SH Pin=J1201-10
+Added Pin To Net: NetName=SH Pin=J1201-10
+Added Pin To Net: NetName=SH Pin=J1201-10
+Added Pin To Net: NetName=SH Pin=J1201-10
+Add Pin To Net: Unknown Pin: Pin J1301-1
+Add Pin To Net: Unknown Pin: Pin J1301-2
+Add Pin To Net: Unknown Pin: Pin J1301-4
+Add Pin To Net: Unknown Pin: Pin J1301-5
+Add Pin To Net: Unknown Pin: Pin J1301-6
+Add Pin To Net: Unknown Pin: Pin J1301-7
+Add Pin To Net: Unknown Pin: Pin J1301-8
+Add Pin To Net: Unknown Pin: Pin J1301-11
+Add Pin To Net: Unknown Pin: Pin J1301-12
+Add Pin To Net: Unknown Pin: Pin J1301-13
+Add Pin To Net: Unknown Pin: Pin J1301-14
+Add Pin To Net: Unknown Pin: Pin J1301-15
+Add Pin To Net: Unknown Pin: Pin J1301-16
+Add Pin To Net: Unknown Pin: Pin J1301-17
+Add Pin To Net: Unknown Pin: Pin J1301-18
+Add Pin To Net: Unknown Pin: Pin J1301-19
+Add Pin To Net: Unknown Pin: Pin J1301-20
+Add Pin To Net: Unknown Pin: Pin J1301-21
+Add Pin To Net: Unknown Pin: Pin J1301-22
+Add Pin To Net: Unknown Pin: Pin J1301-23
+Add Pin To Net: Unknown Pin: Pin J1301-24
+Add Pin To Net: Unknown Pin: Pin J1301-25
+Add Pin To Net: Unknown Pin: Pin J1301-26
+Add Pin To Net: Unknown Pin: Pin J1301-27
+Add Pin To Net: Unknown Pin: Pin J1301-28
+Add Pin To Net: Unknown Pin: Pin J1301-29
+Add Pin To Net: Unknown Pin: Pin J1301-30
+Add Pin To Net: Unknown Pin: Pin J1301-31
+Add Pin To Net: Unknown Pin: Pin J1301-32
+Add Pin To Net: Unknown Pin: Pin J1301-33
+Add Pin To Net: Unknown Pin: Pin J1301-34
+Add Pin To Net: Unknown Pin: Pin J1301-35
+Add Pin To Net: Unknown Pin: Pin J1301-36
+Add Pin To Net: Unknown Pin: Pin J1301-37
+Add Pin To Net: Unknown Pin: Pin J1301-38
+Add Pin To Net: Unknown Pin: Pin J1301-39
+Add Pin To Net: Unknown Pin: Pin J1301-40
+Added Pin To Net: NetName=ANT_IN Pin=L901-1
+Added Pin To Net: NetName=LNA_IN Pin=L901-2
+Added Pin To Net: NetName=VDD3P3 Pin=L902-1
+Added Pin To Net: NetName=+3V3 Pin=L902-2
+Added Pin To Net: NetName=5V_SW Pin=L1501-1
+Added Pin To Net: NetName=VSYS Pin=L1501-2
+Added Pin To Net: NetName=+3V3_FUSE Pin=L1601-1
+Added Pin To Net: NetName=+3V3_SW Pin=L1601-2
+Added Pin To Net: NetName=GND Pin=SW401-3
+Added Pin To Net: NetName=GND Pin=SW401-3
+Added Pin To Net: NetName=+3V3 Pin=SW402-3
+Added Pin To Net: NetName=+3V3 Pin=SW402-3
+Add Pin To Net: Unknown Pin: Pin U501-C5
+Add Pin To Net: Unknown Pin: Pin U1603-4
+Add Pin To Net: Unknown Pin: Pin U1603-5
+Add Net: Net with name "VBUS_I_SENS" already exists
+Added Member To Class: ClassName=RTC Member=Component C1004 1F
+Added Member To Class: ClassName=Battery_Charging Member=Component D1401 CYAN
+Added Member To Class: ClassName=Battery_Charging Member=Component D1402 CYAN
+Added Member To Class: ClassName=Battery_Charging Member=Component D1403 CYAN
+Added Member To Class: ClassName=Battery_Charging Member=Component D1404 CYAN
+Added Member To Class: ClassName=Battery_Charging Member=Component D1405 CYAN
+Added Member To Class: ClassName=5V_Regulator Member=Component D1501 CYAN
+Added Member To Class: ClassName=3V3_Regulators Member=Component D1601 CYAN
+Added Member To Class: ClassName=3V3_Regulators Member=Component D1602 CYAN
+Added Member To Class: ClassName=Battery_Charging Member=Component F1401 1A
+Added Member To Class: ClassName=Battery_Charging Member=Component F1402 1A
+Added Member To Class: ClassName=5V_Regulator Member=Component F1501 1A
+Added Member To Class: ClassName=3V3_Regulators Member=Component F1601 1A
+Added Member To Class: ClassName=3V3_Regulators Member=Component F1602 100mA
+Added Member To Class: ClassName=SD Card Member=Component J1201 MSD-1-A
+Add Class Member: Failed to add class member : Component J1301 16249
+Added Member To Class: ClassName=ESP32 Member=Component L901 2n2
+Added Member To Class: ClassName=ESP32 Member=Component L902 2n2
+Added Member To Class: ClassName=5V_Regulator Member=Component L1501 IHLP2020BZEK1R0M11
+Added Member To Class: ClassName=3V3_Regulators Member=Component L1601 1u5
+Added Member To Class: ClassName=Designator Member=Component TP402 Net

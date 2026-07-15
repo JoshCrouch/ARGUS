@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=AT_TX Pin=U201-H1
+Added Pin To Net: NetName=AT_CTS Pin=U201-J2
+Added Pin To Net: NetName=AT_RX Pin=U201-J3
+Added Pin To Net: NetName=AT_RTS Pin=U201-J4
+Added Pin To Net: NetName=BOOT0 Pin=U201-M1
+Added Pin To Net: NetName=ESP_R\S\T\ Pin=U201-M2

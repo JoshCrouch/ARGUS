@@ -1,0 +1,55 @@
+Added Component: Designator=U1603(TPS79933DDCR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-17783-6-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J801-A9B4
+Add Pin To Net: Unknown Pin: Pin J801-A12B1
+Add Pin To Net: Unknown Pin: Pin J1301-1
+Add Pin To Net: Unknown Pin: Pin J1301-2
+Add Pin To Net: Unknown Pin: Pin J1301-4
+Add Pin To Net: Unknown Pin: Pin J1301-5
+Add Pin To Net: Unknown Pin: Pin J1301-6
+Add Pin To Net: Unknown Pin: Pin J1301-7
+Add Pin To Net: Unknown Pin: Pin J1301-8
+Add Pin To Net: Unknown Pin: Pin J1301-11
+Add Pin To Net: Unknown Pin: Pin J1301-12
+Add Pin To Net: Unknown Pin: Pin J1301-13
+Add Pin To Net: Unknown Pin: Pin J1301-14
+Add Pin To Net: Unknown Pin: Pin J1301-15
+Add Pin To Net: Unknown Pin: Pin J1301-16
+Add Pin To Net: Unknown Pin: Pin J1301-17
+Add Pin To Net: Unknown Pin: Pin J1301-18
+Add Pin To Net: Unknown Pin: Pin J1301-19
+Add Pin To Net: Unknown Pin: Pin J1301-20
+Add Pin To Net: Unknown Pin: Pin J1301-21
+Add Pin To Net: Unknown Pin: Pin J1301-22
+Add Pin To Net: Unknown Pin: Pin J1301-23
+Add Pin To Net: Unknown Pin: Pin J1301-24
+Add Pin To Net: Unknown Pin: Pin J1301-25
+Add Pin To Net: Unknown Pin: Pin J1301-26
+Add Pin To Net: Unknown Pin: Pin J1301-27
+Add Pin To Net: Unknown Pin: Pin J1301-28
+Add Pin To Net: Unknown Pin: Pin J1301-29
+Add Pin To Net: Unknown Pin: Pin J1301-30
+Add Pin To Net: Unknown Pin: Pin J1301-31
+Add Pin To Net: Unknown Pin: Pin J1301-32
+Add Pin To Net: Unknown Pin: Pin J1301-33
+Add Pin To Net: Unknown Pin: Pin J1301-34
+Add Pin To Net: Unknown Pin: Pin J1301-35
+Add Pin To Net: Unknown Pin: Pin J1301-36
+Add Pin To Net: Unknown Pin: Pin J1301-37
+Add Pin To Net: Unknown Pin: Pin J1301-38
+Add Pin To Net: Unknown Pin: Pin J1301-39
+Add Pin To Net: Unknown Pin: Pin J1301-40
+Added Pin To Net: NetName=NetC403_1 Pin=SW401-3
+Added Pin To Net: NetName=NetC403_1 Pin=SW401-3
+Added Pin To Net: NetName=NetC404_1 Pin=SW402-3
+Added Pin To Net: NetName=NetC404_1 Pin=SW402-3
+Added Pin To Net: NetName=VSYS Pin=U1603-1
+Added Pin To Net: NetName=GND Pin=U1603-2
+Added Pin To Net: NetName=VSYS Pin=U1603-3
+Added Pin To Net: NetName=+3V3A_NR Pin=U1603-4
+Added Pin To Net: NetName=+3V3A_FUSE Pin=U1603-5
+Add Net: Net with name "VBUS_I_SENS" already exists
+Add Class Member: Failed to add class member : Component J1301 16249
+Added Member To Class: ClassName=Designator Member=Component TP402 Net
+Added Member To Class: ClassName=3V3_Regulators Member=Component U1603 TPS79933DDC

@@ -1,0 +1,183 @@
+Added Component: Designator=U201(STM32H725IGK3)
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H725IGK3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "STM32H725IGK3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Net: Name=+3V3
+Added Net: Name=+3V3A
+Added Net: Name=GND
+Added Pin To Net: NetName=LTDC_B0 Pin=U201-B1
+Added Net: Name=LTDC_B0
+Added Pin To Net: NetName=LTDC_B1 Pin=U201-C12
+Added Net: Name=LTDC_B1
+Added Pin To Net: NetName=LTDC_B2 Pin=U201-C8
+Added Net: Name=LTDC_B2
+Added Pin To Net: NetName=LTDC_B3 Pin=U201-A7
+Added Net: Name=LTDC_B3
+Added Pin To Net: NetName=LTDC_B4 Pin=U201-C11
+Added Net: Name=LTDC_B4
+Added Pin To Net: NetName=LTDC_B5 Pin=U201-C6
+Added Net: Name=LTDC_B5
+Added Pin To Net: NetName=LTDC_B6 Pin=U201-A2
+Added Net: Name=LTDC_B6
+Added Pin To Net: NetName=LTDC_B7 Pin=U201-R11
+Added Net: Name=LTDC_B7
+Added Pin To Net: NetName=LTDC_CLK Pin=U201-G13
+Added Net: Name=LTDC_CLK
+Added Pin To Net: NetName=LTDC_DE Pin=U201-K3
+Added Net: Name=LTDC_DE
+Added Pin To Net: NetName=LTDC_G0 Pin=U201-D3
+Added Net: Name=LTDC_G0
+Added Pin To Net: NetName=LTDC_G1 Pin=U201-E3
+Added Net: Name=LTDC_G1
+Added Pin To Net: NetName=LTDC_G2 Pin=U201-C13
+Added Net: Name=LTDC_G2
+Added Pin To Net: NetName=LTDC_G3 Pin=U201-B12
+Added Net: Name=LTDC_G3
+Added Pin To Net: NetName=LTDC_G4 Pin=U201-D12
+Added Net: Name=LTDC_G4
+Added Pin To Net: NetName=LTDC_G5 Pin=U201-L3
+Added Net: Name=LTDC_G5
+Added Pin To Net: NetName=LTDC_G6 Pin=U201-D15
+Added Net: Name=LTDC_G6
+Added Pin To Net: NetName=LTDC_G7 Pin=U201-A9
+Added Net: Name=LTDC_G7
+Added Pin To Net: NetName=LTDC_HSYNC Pin=U201-E14
+Added Net: Name=LTDC_HSYNC
+Added Pin To Net: NetName=LTDC_R0 Pin=U201-B4
+Added Net: Name=LTDC_R0
+Added Pin To Net: NetName=LTDC_R1 Pin=U201-R2
+Added Net: Name=LTDC_R1
+Added Pin To Net: NetName=LTDC_R2 Pin=U201-N13
+Added Net: Name=LTDC_R2
+Added Pin To Net: NetName=LTDC_R3 Pin=U201-A11
+Added Net: Name=LTDC_R3
+Added Pin To Net: NetName=LTDC_R4 Pin=U201-N14
+Added Net: Name=LTDC_R4
+Added Pin To Net: NetName=LTDC_R5 Pin=U201-D13
+Added Net: Name=LTDC_R5
+Added Pin To Net: NetName=LTDC_R6 Pin=U201-B14
+Added Net: Name=LTDC_R6
+Added Pin To Net: NetName=LTDC_R7 Pin=U201-F14
+Added Net: Name=LTDC_R7
+Added Pin To Net: NetName=LTDC_VSYNC Pin=U201-N6
+Added Net: Name=LTDC_VSYNC
+Added Net: Name=NetC301_1
+Added Net: Name=NetC301_2
+Added Net: Name=NetC302_1
+Added Net: Name=NetC302_2
+Added Net: Name=NetC303_1
+Added Net: Name=NetC303_2
+Added Net: Name=NetC304_1
+Added Net: Name=NetC304_2
+Added Net: Name=NetC?_1
+Added Net: Name=NetD301_2
+Added Net: Name=NetD303_2
+Added Net: Name=NetD305_2
+Added Net: Name=NetR30_1
+Added Net: Name=NetR30_2
+Added Net: Name=NetR31_1
+Added Net: Name=NetR301_1
+Added Net: Name=NetR304_1
+Added Net: Name=NetR306_1
+Added Net: Name=NetR307_2
+Added Net: Name=NetR308_2
+Added Net: Name=NetR309_1
+Added Net: Name=NetR311_1
+Added Net: Name=NetR312_2
+Added Net: Name=NetR313_2
+Added Net: Name=NetR314_1
+Added Net: Name=NetR316_1
+Added Net: Name=NetU301_11
+Added Net: Name=NetU301_12
+Added Net: Name=NetU301_13
+Added Net: Name=NetU301_14
+Added Net: Name=NetU301_15
+Added Net: Name=NetU301_16
+Added Pin To Net: NetName=SDRAM_A0 Pin=U201-F4
+Added Net: Name=SDRAM_A0
+Added Pin To Net: NetName=SDRAM_A1 Pin=U201-F3
+Added Net: Name=SDRAM_A1
+Added Pin To Net: NetName=SDRAM_A2 Pin=U201-G3
+Added Net: Name=SDRAM_A2
+Added Pin To Net: NetName=SDRAM_A3 Pin=U201-H4
+Added Net: Name=SDRAM_A3
+Added Pin To Net: NetName=SDRAM_A4 Pin=U201-H2
+Added Net: Name=SDRAM_A4
+Added Pin To Net: NetName=SDRAM_A5 Pin=U201-H3
+Added Net: Name=SDRAM_A5
+Added Pin To Net: NetName=SDRAM_A6 Pin=U201-P11
+Added Net: Name=SDRAM_A6
+Added Pin To Net: NetName=SDRAM_A7 Pin=U201-P13
+Added Net: Name=SDRAM_A7
+Added Pin To Net: NetName=SDRAM_A8 Pin=U201-R10
+Added Net: Name=SDRAM_A8
+Added Pin To Net: NetName=SDRAM_A9 Pin=U201-P14
+Added Net: Name=SDRAM_A9
+Added Pin To Net: NetName=SDRAM_A10 Pin=U201-P8
+Added Net: Name=SDRAM_A10
+Added Pin To Net: NetName=SDRAM_A11 Pin=U201-N9
+Added Net: Name=SDRAM_A11
+Added Pin To Net: NetName=SDRAM_BA0 Pin=U201-G14
+Added Net: Name=SDRAM_BA0
+Added Pin To Net: NetName=SDRAM_BA1 Pin=U201-F15
+Added Net: Name=SDRAM_BA1
+Added Pin To Net: NetName=SDRAM_CAS Pin=U201-D7
+Added Net: Name=SDRAM_CAS
+Added Pin To Net: NetName=SDRAM_CKE Pin=U201-M2
+Added Net: Name=SDRAM_CKE
+Added Pin To Net: NetName=SDRAM_CLK Pin=U201-G12
+Added Net: Name=SDRAM_CLK
+Added Pin To Net: NetName=SDRAM_CS Pin=U201-M1
+Added Net: Name=SDRAM_CS
+Added Pin To Net: NetName=SDRAM_DQ0 Pin=U201-H14
+Added Net: Name=SDRAM_DQ0
+Added Pin To Net: NetName=SDRAM_DQ1 Pin=U201-J12
+Added Net: Name=SDRAM_DQ1
+Added Pin To Net: NetName=SDRAM_DQ2 Pin=U201-C10
+Added Net: Name=SDRAM_DQ2
+Added Pin To Net: NetName=SDRAM_DQ3 Pin=U201-A10
+Added Net: Name=SDRAM_DQ3
+Added Pin To Net: NetName=SDRAM_DQ4 Pin=U201-P9
+Added Net: Name=SDRAM_DQ4
+Added Pin To Net: NetName=SDRAM_DQ5 Pin=U201-N8
+Added Net: Name=SDRAM_DQ5
+Added Pin To Net: NetName=SDRAM_DQ6 Pin=U201-B11
+Added Net: Name=SDRAM_DQ6
+Added Pin To Net: NetName=SDRAM_DQ7 Pin=U201-B10
+Added Net: Name=SDRAM_DQ7
+Added Pin To Net: NetName=SDRAM_DQ8 Pin=U201-P5
+Added Net: Name=SDRAM_DQ8
+Added Pin To Net: NetName=SDRAM_DQ9 Pin=U201-P6
+Added Net: Name=SDRAM_DQ9
+Added Pin To Net: NetName=SDRAM_DQ10 Pin=U201-K15
+Added Net: Name=SDRAM_DQ10
+Added Pin To Net: NetName=SDRAM_DQ11 Pin=U201-K14
+Added Net: Name=SDRAM_DQ11
+Added Pin To Net: NetName=SDRAM_DQ12 Pin=U201-L2
+Added Net: Name=SDRAM_DQ12
+Added Pin To Net: NetName=SDRAM_DQ13 Pin=U201-L14
+Added Net: Name=SDRAM_DQ13
+Added Pin To Net: NetName=SDRAM_DQ14 Pin=U201-K13
+Added Net: Name=SDRAM_DQ14
+Added Pin To Net: NetName=SDRAM_DQ15 Pin=U201-L13
+Added Net: Name=SDRAM_DQ15
+Added Pin To Net: NetName=SDRAM_RAS Pin=U201-N7
+Added Net: Name=SDRAM_RAS
+Added Pin To Net: NetName=SDRAM_WE Pin=U201-R5
+Added Net: Name=SDRAM_WE
+Added Class: Name=ADC
+Added Class: Name=MCU
+Added Class: Name=SDRAM
+Added Class: Name=LTDC_B[0..7]
+Added Class: Name=LTDC_G[0..7]
+Added Class: Name=LTDC_R[0..7]
+Added Class: Name=SDRAM_A[0..11]
+Added Class: Name=SDRAM_BA[0..1]
+Added Class: Name=SDRAM_DATA
+Added Class: Name=SDRAM_DQ[0..15]
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

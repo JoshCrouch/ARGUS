@@ -1,0 +1,1959 @@
+Added Component: Designator=C301(CAP_0603_B)
+Added Component: Designator=C302(CAP_0402_B)
+Added Component: Designator=C303(CAP_0603_B)
+Added Component: Designator=C304(CAP_0402_B)
+Added Component: Designator=C305(CAP_0402_B)
+Added Component: Designator=C306(CAP_0402_B)
+Added Component: Designator=C307(CAP_0402_B)
+Added Component: Designator=C308(CAP_0402_B)
+Added Component: Designator=C309(CAP_0402_B)
+Added Component: Designator=C310(CAP_0402_B)
+Added Component: Designator=C311(CAP_0402_B)
+Added Component: Designator=C312(CAP_0402_B)
+Added Component: Designator=C313(CAP_0402_B)
+Added Component: Designator=C314(CAP_0603_B)
+Added Component: Designator=C315(CAP_0402_B)
+Added Component: Designator=C316(CAP_0603_B)
+Added Component: Designator=C317(CAP_0402_B)
+Added Component: Designator=C318(CAP_0603_B)
+Added Component: Designator=C319(CAP_0603_B)
+Added Component: Designator=C320(CAP_0402_B)
+Added Component: Designator=C321(CAP_0603_B)
+Added Component: Designator=C322(CAP_0402_B)
+Added Component: Designator=C323(CAP_0402_B)
+Added Component: Designator=C324(CAP_0402_B)
+Added Component: Designator=C325(CAP_0603_B)
+Added Component: Designator=C326(CAP_0603_B)
+Added Component: Designator=C327(CAP_0603_B)
+Added Component: Designator=C401(CAP_0402_B)
+Added Component: Designator=C402(CAP_0402_B)
+Added Component: Designator=C403(CAP_0402_B)
+Added Component: Designator=C404(CAP_0402_B)
+Added Component: Designator=C501(CAP_0402_B)
+Added Component: Designator=C502(CAP_0402_B)
+Added Component: Designator=C503(CAP_0402_B)
+Added Component: Designator=C504(CAP_0402_B)
+Added Component: Designator=C505(CAP_0402_B)
+Added Component: Designator=C506(CAP_0402_B)
+Added Component: Designator=C507(CAP_0402_B)
+Added Component: Designator=C508(CAP_0402_B)
+Added Component: Designator=C509(CAP_0402_B)
+Added Component: Designator=C601(CAP_0402_B)
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C602(CAP_0402_B)
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C603(CAP_0402_B)
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C604(CAP_0402_B)
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C605(CAP_0402_B)
+Added Component: Designator=C606(CAP_0603_B)
+Added Component: Designator=C607(CAP_0402_B)
+Added Component: Designator=C608(CAP_0402_B)
+Added Component: Designator=C701_1(CAP_0402_B)
+Added Component: Designator=C701_2(CAP_0402_B)
+Added Component: Designator=C701_3(CAP_0402_B)
+Added Component: Designator=C701_4(CAP_0402_B)
+Added Component: Designator=C701_5(CAP_0402_B)
+Added Component: Designator=C701_6(CAP_0402_B)
+Added Component: Designator=C701_7(CAP_0402_B)
+Added Component: Designator=C701_8(CAP_0402_B)
+Added Component: Designator=C801(CAP_0603_B)
+Added Component: Designator=C802(CAP_0402_B)
+Added Component: Designator=C803(CAP_0402_B)
+Added Component: Designator=C901(CAP_0603_B)
+Added Component: Designator=C902(CAP_0402_B)
+Added Component: Designator=C903(CAP_0402_B)
+Added Component: Designator=C904(CAP_0402_B)
+Added Component: Designator=C905(CAP_0402_B)
+Added Component: Designator=C906(CAP_0402_B)
+Added Component: Designator=C907(CAP_0603_B)
+Added Component: Designator=C908(CAP_0402_B)
+Added Component: Designator=C909(CAP_0402_B)
+Added Component: Designator=C910(CAP_0603_B)
+Added Component: Designator=C911(CAP_0402_B)
+Added Component: Designator=C912(CAP_0402_B)
+Added Component: Designator=C913(CAP_0402_B)
+Added Component: Designator=C914(CAP_0402_B)
+Added Component: Designator=C1001(CAP_0603_B)
+Added Component: Designator=C1002(CAP_0402_B)
+Added Component: Designator=C1003(CAP_0402_B)
+Added Component: Designator=C1005(CAP_0402_B)
+Added Component: Designator=C1006(CAP_0402_B)
+Added Component: Designator=C1101(CAP_0402_B)
+Added Component: Designator=C1201(CAP_0603_B)
+Added Component: Designator=C1202(CAP_0402_B)
+Added Component: Designator=C1203(CAP_0603_B)
+Added Component: Designator=C1301(CAP_0402_B)
+Added Component: Designator=C1302(CAP_0603_B)
+Added Component: Designator=C1303(CAP_1206_B)
+Added Component: Designator=C1401(CAP_0402_B)
+Added Component: Designator=C1402(CAP_0402_B)
+Added Component: Designator=C1403(CAP_0402_B)
+Added Component: Designator=C1404(CAP_0402_B)
+Added Component: Designator=C1405(CAP_0603_B)
+Added Component: Designator=C1406(CAP_0603_B)
+Added Component: Designator=C1407(CAP_0603_B)
+Added Component: Designator=C1408(CAP_0603_B)
+Added Component: Designator=C1501(CAP_1206_B)
+Added Component: Designator=C1502(CAP_0402_B)
+Added Component: Designator=C1503(CAP_1206_B)
+Added Component: Designator=C1504(CAP_0402_B)
+Added Component: Designator=C1601(CAP_1206_B)
+Added Component: Designator=C1602(CAP_1206_B)
+Added Component: Designator=C1603(CAP_0603_B)
+Added Component: Designator=C1604(CAP_0603_B)
+Added Component: Designator=C1605(CAP_1206_B)
+Added Component: Designator=C1606(CAP_0402_B)
+Added Component: Designator=C1607(CAP_0603_B)
+Added Component: Designator=C1608(CAP_0402_B)
+Added Component: Designator=C1609(CAP_1206_B)
+Added Component: Designator=C1610(CAP_0402_B)
+Added Component: Designator=C1611(CAP_1206_B)
+Added Component: Designator=C1612(CAP_0402_B)
+Added Component: Designator=D701_1(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D701_2(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D701_3(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D701_4(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D701_5(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D701_6(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D701_7(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D701_8(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_1(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_2(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_3(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_4(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_5(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_6(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_7(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_8(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=J601(610116249121)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-6072-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1401(1042P)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-1042P-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R401(RES_0402_A)
+Added Component: Designator=R402(RES_0402_A)
+Added Component: Designator=R403(RES_0402_A)
+Added Component: Designator=R404(RES_0402_A)
+Added Component: Designator=R405(RES_0402_A)
+Added Component: Designator=R406(RES_0402_A)
+Added Component: Designator=R407(RES_0402_A)
+Added Component: Designator=R701_1(RES_0402_A)
+Added Component: Designator=R701_2(RES_0402_A)
+Added Component: Designator=R701_3(RES_0402_A)
+Added Component: Designator=R701_4(RES_0402_A)
+Added Component: Designator=R701_5(RES_0402_A)
+Added Component: Designator=R701_6(RES_0402_A)
+Added Component: Designator=R701_7(RES_0402_A)
+Added Component: Designator=R701_8(RES_0402_A)
+Added Component: Designator=R702_1(RES_0402_A)
+Added Component: Designator=R702_2(RES_0402_A)
+Added Component: Designator=R702_3(RES_0402_A)
+Added Component: Designator=R702_4(RES_0402_A)
+Added Component: Designator=R702_5(RES_0402_A)
+Added Component: Designator=R702_6(RES_0402_A)
+Added Component: Designator=R702_7(RES_0402_A)
+Added Component: Designator=R702_8(RES_0402_A)
+Added Component: Designator=R703_1(RES_0402_A)
+Added Component: Designator=R703_2(RES_0402_A)
+Added Component: Designator=R703_3(RES_0402_A)
+Added Component: Designator=R703_4(RES_0402_A)
+Added Component: Designator=R703_5(RES_0402_A)
+Added Component: Designator=R703_6(RES_0402_A)
+Added Component: Designator=R703_7(RES_0402_A)
+Added Component: Designator=R703_8(RES_0402_A)
+Added Component: Designator=R704_1(RES_0402_A)
+Added Component: Designator=R704_2(RES_0402_A)
+Added Component: Designator=R704_3(RES_0402_A)
+Added Component: Designator=R704_4(RES_0402_A)
+Added Component: Designator=R704_5(RES_0402_A)
+Added Component: Designator=R704_6(RES_0402_A)
+Added Component: Designator=R704_7(RES_0402_A)
+Added Component: Designator=R704_8(RES_0402_A)
+Added Component: Designator=R705_1(RES_0402_A)
+Added Component: Designator=R705_2(RES_0402_A)
+Added Component: Designator=R705_3(RES_0402_A)
+Added Component: Designator=R705_4(RES_0402_A)
+Added Component: Designator=R705_5(RES_0402_A)
+Added Component: Designator=R705_6(RES_0402_A)
+Added Component: Designator=R705_7(RES_0402_A)
+Added Component: Designator=R705_8(RES_0402_A)
+Added Component: Designator=R801(RES_0402_A)
+Added Component: Designator=R802(RES_0402_A)
+Added Component: Designator=R803(RES_0402_B)
+Add component (AddParameter): Name = "Power"; Value = "4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4423-VMS-R010-1.0-UDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R804(RES_0402_A)
+Added Component: Designator=R805(RES_0402_A)
+Added Component: Designator=R806(RES_0402_A)
+Added Component: Designator=R807(RES_0402_A)
+Added Component: Designator=R808(RES_0402_A)
+Added Component: Designator=R809(RES_0402_A)
+Added Component: Designator=R901(RES_0402_A)
+Added Component: Designator=R902(RES_0603_A)
+Added Component: Designator=R903(RES_0603_A)
+Added Component: Designator=R1001(RES_0402_A)
+Added Component: Designator=R1002(RES_0402_A)
+Added Component: Designator=R1003(RES_0402_A)
+Added Component: Designator=R1004(RES_0805_B)
+Add component (AddParameter): Name = "Part Number"; Value = "CRM2512-FX-10R0ELF"; VariantName = "[No Variations]"
+Added Component: Designator=R1005(RES_0402_B)
+Add component (AddParameter): Name = "Power"; Value = "4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4423-VMS-R010-1.0-UDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1006(RES_0402_A)
+Added Component: Designator=R1007(RES_0402_A)
+Added Component: Designator=R1008(RES_0402_A)
+Added Component: Designator=R1009(RES_0402_A)
+Added Component: Designator=R1010(RES_0402_A)
+Added Component: Designator=R1101(RES_0402_A)
+Added Component: Designator=R1102(RES_0402_A)
+Added Component: Designator=R1201(RES_0402_A)
+Added Component: Designator=R1202(RES_0402_A)
+Added Component: Designator=R1203(RES_0402_A)
+Added Component: Designator=R1204(RES_0402_A)
+Added Component: Designator=R1205(RES_0402_A)
+Added Component: Designator=R1206(RES_0402_A)
+Added Component: Designator=R1207(RES_0402_A)
+Added Component: Designator=R1301(RES_0402_A)
+Added Component: Designator=R1301(RES_0402_A)
+Added Component: Designator=R1302(RES_0402_A)
+Added Component: Designator=R1303(RES_0402_A)
+Added Component: Designator=R1304(RES_0402_A)
+Added Component: Designator=R1401(RES_0402_A)
+Added Component: Designator=R1402(RES_0402_A)
+Added Component: Designator=R1403(RES_0402_A)
+Added Component: Designator=R1404(RES_0402_A)
+Added Component: Designator=R1405(RES_0402_A)
+Added Component: Designator=R1406(RES_0402_A)
+Added Component: Designator=R1407(RES_0402_A)
+Added Component: Designator=R1408(RES_0402_A)
+Added Component: Designator=R1409(RES_0402_A)
+Added Component: Designator=R1410(RES_0402_A)
+Added Component: Designator=R1411(RES_0402_A)
+Added Component: Designator=R1412(RES_0402_A)
+Added Component: Designator=R1413(RES_0402_A)
+Added Component: Designator=R1414(RES_0402_B)
+Add component (AddParameter): Name = "Power"; Value = "4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4423-VMS-R010-1.0-UDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1415(RES_0402_A)
+Added Component: Designator=R1416(RES_0402_A)
+Added Component: Designator=R1417(RES_0402_A)
+Added Component: Designator=R1418(RES_0402_B)
+Add component (AddParameter): Name = "Power"; Value = "4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4423-VMS-R010-1.0-UDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1419(RES_0402_A)
+Added Component: Designator=R1420(RES_0402_A)
+Added Component: Designator=R1421(RES_0402_A)
+Added Component: Designator=R1422(RES_0402_A)
+Added Component: Designator=R1423(RES_0402_A)
+Added Component: Designator=R1424(RES_0402_A)
+Added Component: Designator=R1425(RES_0402_A)
+Added Component: Designator=R1426(RES_0402_A)
+Added Component: Designator=R1427(RES_0402_A)
+Added Component: Designator=R1428(RES_0402_A)
+Added Component: Designator=R1429(RES_0402_A)
+Added Component: Designator=R1430(RES_0402_A)
+Added Component: Designator=R1431(RES_0402_A)
+Added Component: Designator=R1501(RES_0402_A)
+Added Component: Designator=R1502(RES_0402_A)
+Added Component: Designator=R1503(RES_0402_A)
+Added Component: Designator=R1504(RES_0402_A)
+Added Component: Designator=R1505(RES_0402_A)
+Added Component: Designator=R1506(RES_0402_A)
+Added Component: Designator=R1601(RES_0402_A)
+Added Component: Designator=R1602(RES_0402_A)
+Added Component: Designator=R1603(RES_0402_A)
+Added Component: Designator=R1604(RES_0402_A)
+Added Component: Designator=R1605(RES_0402_A)
+Added Component: Designator=R1606(RES_0402_A)
+Added Component: Designator=R1607(RES_0402_A)
+Added Component: Designator=R1608(RES_0402_A)
+Added Component: Designator=R1609(RES_0402_A)
+Added Component: Designator=R1610(RES_0402_A)
+Added Component: Designator=R1611(RES_0402_A)
+Added Component: Designator=R1612(RES_0402_A)
+Added Component: Designator=U201(STM32H725IGK3)
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H725IGK3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "STM32H725IGK3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U501(AS4C8M16SA-6BINTR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1450-AS4C8M16SA-6BINCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U601(ADS131M08IRSNT)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-ADS131M08IRSNTCT-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin ANT901-1
+Add Pin To Net: Unknown Pin: Pin ANT901-2
+Added Pin To Net: NetName=+3V3 Pin=C301-1
+Added Pin To Net: NetName=GND Pin=C301-2
+Added Pin To Net: NetName=+3V3 Pin=C302-1
+Added Pin To Net: NetName=GND Pin=C302-2
+Added Pin To Net: NetName=+3V3 Pin=C303-1
+Added Pin To Net: NetName=GND Pin=C303-2
+Added Pin To Net: NetName=+3V3 Pin=C304-1
+Added Pin To Net: NetName=GND Pin=C304-2
+Added Pin To Net: NetName=+3V3 Pin=C305-1
+Added Pin To Net: NetName=GND Pin=C305-2
+Added Pin To Net: NetName=+3V3 Pin=C306-1
+Added Pin To Net: NetName=GND Pin=C306-2
+Added Pin To Net: NetName=+3V3 Pin=C307-1
+Added Pin To Net: NetName=GND Pin=C307-2
+Added Pin To Net: NetName=+3V3 Pin=C308-1
+Added Pin To Net: NetName=GND Pin=C308-2
+Added Pin To Net: NetName=+3V3 Pin=C309-1
+Added Pin To Net: NetName=GND Pin=C309-2
+Added Pin To Net: NetName=+3V3 Pin=C310-1
+Added Pin To Net: NetName=GND Pin=C310-2
+Added Pin To Net: NetName=+3V3 Pin=C311-1
+Added Pin To Net: NetName=GND Pin=C311-2
+Added Pin To Net: NetName=+3V3 Pin=C312-1
+Added Pin To Net: NetName=GND Pin=C312-2
+Added Pin To Net: NetName=+3V3 Pin=C313-1
+Added Pin To Net: NetName=GND Pin=C313-2
+Added Pin To Net: NetName=+3V3A Pin=C314-1
+Added Pin To Net: NetName=GND Pin=C314-2
+Added Pin To Net: NetName=+3V3A Pin=C315-1
+Added Pin To Net: NetName=GND Pin=C315-2
+Added Pin To Net: NetName=+3V3A Pin=C316-1
+Added Pin To Net: NetName=GND Pin=C316-2
+Added Pin To Net: NetName=+3V3A Pin=C317-1
+Added Pin To Net: NetName=GND Pin=C317-2
+Added Pin To Net: NetName=+3V3 Pin=C318-1
+Added Pin To Net: NetName=GND Pin=C318-2
+Added Pin To Net: NetName=+3V3 Pin=C319-1
+Added Pin To Net: NetName=GND Pin=C319-2
+Added Pin To Net: NetName=+3V3 Pin=C320-1
+Added Pin To Net: NetName=GND Pin=C320-2
+Added Pin To Net: NetName=+3V3 Pin=C321-1
+Added Pin To Net: NetName=GND Pin=C321-2
+Added Pin To Net: NetName=+3V3 Pin=C322-1
+Added Pin To Net: NetName=GND Pin=C322-2
+Added Pin To Net: NetName=+3V3 Pin=C323-1
+Added Pin To Net: NetName=GND Pin=C323-2
+Added Pin To Net: NetName=+3V3 Pin=C324-1
+Added Pin To Net: NetName=GND Pin=C324-2
+Added Pin To Net: NetName=VCAP_1 Pin=C325-1
+Added Pin To Net: NetName=GND Pin=C325-2
+Added Pin To Net: NetName=VCAP_2 Pin=C326-1
+Added Pin To Net: NetName=GND Pin=C326-2
+Added Pin To Net: NetName=VCAP_3 Pin=C327-1
+Added Pin To Net: NetName=GND Pin=C327-2
+Added Pin To Net: NetName=OSC_IN Pin=C401-1
+Added Pin To Net: NetName=GND Pin=C401-2
+Added Pin To Net: NetName=OUT_OUT Pin=C402-1
+Added Pin To Net: NetName=GND Pin=C402-2
+Added Pin To Net: NetName=NetC403_1 Pin=C403-1
+Added Pin To Net: NetName=GND Pin=C403-2
+Added Pin To Net: NetName=NetC404_1 Pin=C404-1
+Added Pin To Net: NetName=GND Pin=C404-2
+Added Pin To Net: NetName=+3V3 Pin=C501-1
+Added Pin To Net: NetName=GND Pin=C501-2
+Added Pin To Net: NetName=+3V3 Pin=C502-1
+Added Pin To Net: NetName=GND Pin=C502-2
+Added Pin To Net: NetName=+3V3 Pin=C503-1
+Added Pin To Net: NetName=GND Pin=C503-2
+Added Pin To Net: NetName=+3V3 Pin=C504-1
+Added Pin To Net: NetName=GND Pin=C504-2
+Added Pin To Net: NetName=+3V3 Pin=C505-1
+Added Pin To Net: NetName=GND Pin=C505-2
+Added Pin To Net: NetName=+3V3 Pin=C506-1
+Added Pin To Net: NetName=GND Pin=C506-2
+Added Pin To Net: NetName=+3V3 Pin=C507-1
+Added Pin To Net: NetName=GND Pin=C507-2
+Added Pin To Net: NetName=+3V3 Pin=C508-1
+Added Pin To Net: NetName=GND Pin=C508-2
+Added Pin To Net: NetName=+3V3 Pin=C509-1
+Added Pin To Net: NetName=GND Pin=C509-2
+Added Pin To Net: NetName=+3V3 Pin=C601-1
+Added Pin To Net: NetName=GND Pin=C601-2
+Added Pin To Net: NetName=+3V3 Pin=C602-1
+Added Pin To Net: NetName=GND Pin=C602-2
+Added Pin To Net: NetName=+3V3A Pin=C603-1
+Added Pin To Net: NetName=GND Pin=C603-2
+Added Pin To Net: NetName=+3V3A Pin=C604-1
+Added Pin To Net: NetName=GND Pin=C604-2
+Added Pin To Net: NetName=REFIN Pin=C605-1
+Added Pin To Net: NetName=GND Pin=C605-2
+Added Pin To Net: NetName=CAP Pin=C606-1
+Added Pin To Net: NetName=GND Pin=C606-2
+Added Pin To Net: NetName=XTAL2 Pin=C607-1
+Added Pin To Net: NetName=GND Pin=C607-2
+Added Pin To Net: NetName=XTAL1 Pin=C608-1
+Added Pin To Net: NetName=GND Pin=C608-2
+Added Pin To Net: NetName=FILT_1_N Pin=C701_1-1
+Added Pin To Net: NetName=FILT_1_P Pin=C701_1-2
+Added Pin To Net: NetName=FILT_2_N Pin=C701_2-1
+Added Pin To Net: NetName=FILT_2_P Pin=C701_2-2
+Added Pin To Net: NetName=FILT_3_N Pin=C701_3-1
+Added Pin To Net: NetName=FILT_3_P Pin=C701_3-2
+Added Pin To Net: NetName=FILT_4_N Pin=C701_4-1
+Added Pin To Net: NetName=FILT_4_P Pin=C701_4-2
+Added Pin To Net: NetName=FILT_5_N Pin=C701_5-1
+Added Pin To Net: NetName=FILT_5_P Pin=C701_5-2
+Added Pin To Net: NetName=FILT_6_N Pin=C701_6-1
+Added Pin To Net: NetName=FILT_6_P Pin=C701_6-2
+Added Pin To Net: NetName=FILT_7_N Pin=C701_7-1
+Added Pin To Net: NetName=FILT_7_P Pin=C701_7-2
+Added Pin To Net: NetName=FILT_8_N Pin=C701_8-1
+Added Pin To Net: NetName=FILT_8_P Pin=C701_8-2
+Added Pin To Net: NetName=NetC801_1 Pin=C801-1
+Added Pin To Net: NetName=GND Pin=C801-2
+Added Pin To Net: NetName=GND Pin=C802-2
+Added Pin To Net: NetName=VBUS_I_SENS Pin=C803-1
+Added Pin To Net: NetName=GND Pin=C803-2
+Added Pin To Net: NetName=+3V3 Pin=C901-1
+Added Pin To Net: NetName=GND Pin=C901-2
+Added Pin To Net: NetName=+3V3 Pin=C902-1
+Added Pin To Net: NetName=GND Pin=C902-2
+Added Pin To Net: NetName=+3V3 Pin=C903-1
+Added Pin To Net: NetName=GND Pin=C903-2
+Added Pin To Net: NetName=+3V3 Pin=C904-1
+Added Pin To Net: NetName=GND Pin=C904-2
+Added Pin To Net: NetName=+3V3 Pin=C905-1
+Added Pin To Net: NetName=GND Pin=C905-2
+Added Pin To Net: NetName=+3V3 Pin=C906-1
+Added Pin To Net: NetName=GND Pin=C906-2
+Added Pin To Net: NetName=VDD3P3 Pin=C907-1
+Added Pin To Net: NetName=GND Pin=C907-2
+Added Pin To Net: NetName=VDD3P3 Pin=C908-1
+Added Pin To Net: NetName=GND Pin=C908-2
+Added Pin To Net: NetName=VDD3P3 Pin=C909-1
+Added Pin To Net: NetName=GND Pin=C909-2
+Added Pin To Net: NetName=VDDSPI Pin=C910-1
+Added Pin To Net: NetName=GND Pin=C910-2
+Added Pin To Net: NetName=ESP_XTAL_P Pin=C911-1
+Added Pin To Net: NetName=GND Pin=C911-2
+Added Pin To Net: NetName=ESP_XTAL_N Pin=C912-1
+Added Pin To Net: NetName=GND Pin=C912-2
+Added Pin To Net: NetName=LNA_IN Pin=C913-1
+Added Pin To Net: NetName=GND Pin=C913-2
+Added Pin To Net: NetName=ANT_IN Pin=C914-1
+Added Pin To Net: NetName=GND Pin=C914-2
+Added Pin To Net: NetName=+3V3_RTC Pin=C1001-1
+Added Pin To Net: NetName=GND Pin=C1001-2
+Added Pin To Net: NetName=+3V3_RTC Pin=C1002-1
+Added Pin To Net: NetName=GND Pin=C1002-2
+Added Pin To Net: NetName=+3V3_RTC Pin=C1003-1
+Added Pin To Net: NetName=GND Pin=C1003-2
+Add Pin To Net: Unknown Pin: Pin C1004-1
+Add Pin To Net: Unknown Pin: Pin C1004-2
+Added Pin To Net: NetName=CAP_I_SENS Pin=C1005-1
+Added Pin To Net: NetName=GND Pin=C1005-2
+Added Pin To Net: NetName=CAP_V_SENS Pin=C1006-1
+Added Pin To Net: NetName=GND Pin=C1006-2
+Added Pin To Net: NetName=+3V3 Pin=C1101-1
+Added Pin To Net: NetName=GND Pin=C1101-2
+Added Pin To Net: NetName=+3V3 Pin=C1201-1
+Added Pin To Net: NetName=GND Pin=C1201-2
+Added Pin To Net: NetName=+3V3 Pin=C1202-1
+Added Pin To Net: NetName=GND Pin=C1202-2
+Added Pin To Net: NetName=SH Pin=C1203-1
+Added Pin To Net: NetName=GND Pin=C1203-2
+Added Pin To Net: NetName=+5V Pin=C1301-1
+Added Pin To Net: NetName=GND Pin=C1301-2
+Added Pin To Net: NetName=+5V Pin=C1302-1
+Added Pin To Net: NetName=GND Pin=C1302-2
+Added Pin To Net: NetName=+5V Pin=C1303-1
+Added Pin To Net: NetName=GND Pin=C1303-2
+Added Pin To Net: NetName=BATT_I_SENS Pin=C1401-1
+Added Pin To Net: NetName=GND Pin=C1401-2
+Added Pin To Net: NetName=SYS_I_SENS Pin=C1402-1
+Added Pin To Net: NetName=GND Pin=C1402-2
+Added Pin To Net: NetName=BATT_V_SENS Pin=C1403-1
+Added Pin To Net: NetName=GND Pin=C1403-2
+Added Pin To Net: NetName=SYS_V_SENS Pin=C1404-1
+Added Pin To Net: NetName=GND Pin=C1404-2
+Added Pin To Net: NetName=VBUS Pin=C1405-1
+Added Pin To Net: NetName=GND Pin=C1405-2
+Added Pin To Net: NetName=BATT_FUSE Pin=C1406-1
+Added Pin To Net: NetName=GND Pin=C1406-2
+Added Pin To Net: NetName=BATT_IN Pin=C1407-1
+Added Pin To Net: NetName=GND Pin=C1407-2
+Added Pin To Net: NetName=VSYS Pin=C1408-1
+Added Pin To Net: NetName=GND Pin=C1408-2
+Added Pin To Net: NetName=VSYS Pin=C1501-1
+Added Pin To Net: NetName=GND Pin=C1501-2
+Added Pin To Net: NetName=Softstart Pin=C1502-1
+Added Pin To Net: NetName=GND Pin=C1502-2
+Added Pin To Net: NetName=+5V_OUT Pin=C1503-1
+Added Pin To Net: NetName=GND Pin=C1503-2
+Added Pin To Net: NetName=+5V_SENS Pin=C1504-1
+Added Pin To Net: NetName=GND Pin=C1504-2
+Added Pin To Net: NetName=VSYS Pin=C1601-1
+Added Pin To Net: NetName=GND Pin=C1601-2
+Added Pin To Net: NetName=VSYS Pin=C1602-1
+Added Pin To Net: NetName=GND Pin=C1602-2
+Added Pin To Net: NetName=VSYS Pin=C1603-1
+Added Pin To Net: NetName=GND Pin=C1603-2
+Added Pin To Net: NetName=+3V3_BOOT Pin=C1604-1
+Added Pin To Net: NetName=+3V3_SW Pin=C1604-2
+Added Pin To Net: NetName=+3V3_FUSE Pin=C1605-1
+Added Pin To Net: NetName=GND Pin=C1605-2
+Added Pin To Net: NetName=+3V3_FUSE Pin=C1606-1
+Added Pin To Net: NetName=GND Pin=C1606-2
+Added Pin To Net: NetName=+3V3_VCC Pin=C1607-1
+Added Pin To Net: NetName=GND Pin=C1607-2
+Added Pin To Net: NetName=+3V3_SENS Pin=C1608-1
+Added Pin To Net: NetName=GND Pin=C1608-2
+Added Pin To Net: NetName=VSYS Pin=C1609-1
+Added Pin To Net: NetName=GND Pin=C1609-2
+Added Pin To Net: NetName=+3V3A_NR Pin=C1610-1
+Added Pin To Net: NetName=GND Pin=C1610-2
+Added Pin To Net: NetName=+3V3A_FUSE Pin=C1611-1
+Added Pin To Net: NetName=GND Pin=C1611-2
+Added Pin To Net: NetName=+3V3A_SENS Pin=C1612-1
+Added Pin To Net: NetName=GND Pin=C1612-2
+Add Pin To Net: Unknown Pin: Pin D401-1
+Add Pin To Net: Unknown Pin: Pin D401-2
+Add Pin To Net: Unknown Pin: Pin D401-3
+Add Pin To Net: Unknown Pin: Pin D401-4
+Added Pin To Net: NetName=FILT_1_P Pin=D701_1-1
+Added Pin To Net: NetName=NetD701_1_2 Pin=D701_1-2
+Added Pin To Net: NetName=FILT_2_P Pin=D701_2-1
+Added Pin To Net: NetName=NetD701_2_2 Pin=D701_2-2
+Added Pin To Net: NetName=FILT_3_P Pin=D701_3-1
+Added Pin To Net: NetName=NetD701_3_2 Pin=D701_3-2
+Added Pin To Net: NetName=FILT_4_P Pin=D701_4-1
+Added Pin To Net: NetName=NetD701_4_2 Pin=D701_4-2
+Added Pin To Net: NetName=FILT_5_P Pin=D701_5-1
+Added Pin To Net: NetName=NetD701_5_2 Pin=D701_5-2
+Added Pin To Net: NetName=FILT_6_P Pin=D701_6-1
+Added Pin To Net: NetName=NetD701_6_2 Pin=D701_6-2
+Added Pin To Net: NetName=FILT_7_P Pin=D701_7-1
+Added Pin To Net: NetName=NetD701_7_2 Pin=D701_7-2
+Added Pin To Net: NetName=FILT_8_P Pin=D701_8-1
+Added Pin To Net: NetName=NetD701_8_2 Pin=D701_8-2
+Added Pin To Net: NetName=FILT_1_N Pin=D702_1-1
+Added Pin To Net: NetName=NetD701_1_2 Pin=D702_1-2
+Added Pin To Net: NetName=FILT_2_N Pin=D702_2-1
+Added Pin To Net: NetName=NetD701_2_2 Pin=D702_2-2
+Added Pin To Net: NetName=FILT_3_N Pin=D702_3-1
+Added Pin To Net: NetName=NetD701_3_2 Pin=D702_3-2
+Added Pin To Net: NetName=FILT_4_N Pin=D702_4-1
+Added Pin To Net: NetName=NetD701_4_2 Pin=D702_4-2
+Added Pin To Net: NetName=FILT_5_N Pin=D702_5-1
+Added Pin To Net: NetName=NetD701_5_2 Pin=D702_5-2
+Added Pin To Net: NetName=FILT_6_N Pin=D702_6-1
+Added Pin To Net: NetName=NetD701_6_2 Pin=D702_6-2
+Added Pin To Net: NetName=FILT_7_N Pin=D702_7-1
+Added Pin To Net: NetName=NetD701_7_2 Pin=D702_7-2
+Added Pin To Net: NetName=FILT_8_N Pin=D702_8-1
+Added Pin To Net: NetName=NetD701_8_2 Pin=D702_8-2
+Add Pin To Net: Unknown Pin: Pin D1001-1
+Add Pin To Net: Unknown Pin: Pin D1001-2
+Add Pin To Net: Unknown Pin: Pin D1401-1
+Add Pin To Net: Unknown Pin: Pin D1401-2
+Add Pin To Net: Unknown Pin: Pin D1402-1
+Add Pin To Net: Unknown Pin: Pin D1402-2
+Add Pin To Net: Unknown Pin: Pin D1403-1
+Add Pin To Net: Unknown Pin: Pin D1403-2
+Add Pin To Net: Unknown Pin: Pin D1404-1
+Add Pin To Net: Unknown Pin: Pin D1404-2
+Add Pin To Net: Unknown Pin: Pin D1405-1
+Add Pin To Net: Unknown Pin: Pin D1405-2
+Add Pin To Net: Unknown Pin: Pin D1501-1
+Add Pin To Net: Unknown Pin: Pin D1501-2
+Add Pin To Net: Unknown Pin: Pin D1601-1
+Add Pin To Net: Unknown Pin: Pin D1601-2
+Add Pin To Net: Unknown Pin: Pin D1602-1
+Add Pin To Net: Unknown Pin: Pin D1602-2
+Add Pin To Net: Unknown Pin: Pin F1401-1
+Add Pin To Net: Unknown Pin: Pin F1401-2
+Add Pin To Net: Unknown Pin: Pin F1402-1
+Add Pin To Net: Unknown Pin: Pin F1402-2
+Add Pin To Net: Unknown Pin: Pin F1501-1
+Add Pin To Net: Unknown Pin: Pin F1501-2
+Add Pin To Net: Unknown Pin: Pin F1601-1
+Add Pin To Net: Unknown Pin: Pin F1601-2
+Add Pin To Net: Unknown Pin: Pin F1602-1
+Add Pin To Net: Unknown Pin: Pin F1602-2
+Add Pin To Net: Unknown Pin: Pin J401-1
+Add Pin To Net: Unknown Pin: Pin J401-2
+Add Pin To Net: Unknown Pin: Pin J401-3
+Add Pin To Net: Unknown Pin: Pin J401-4
+Add Pin To Net: Unknown Pin: Pin J401-5
+Add Pin To Net: Unknown Pin: Pin J401-6
+Add Pin To Net: Unknown Pin: Pin J401-9
+Add Pin To Net: Unknown Pin: Pin J401-10
+Added Pin To Net: NetName=IN_8_P Pin=J601-1
+Added Pin To Net: NetName=IN_8_N Pin=J601-2
+Added Pin To Net: NetName=IN_7_P Pin=J601-3
+Added Pin To Net: NetName=IN_7_N Pin=J601-4
+Added Pin To Net: NetName=IN_6_P Pin=J601-5
+Added Pin To Net: NetName=IN_6_P Pin=J601-5
+Added Pin To Net: NetName=IN_6_P Pin=J601-5
+Added Pin To Net: NetName=IN_6_N Pin=J601-6
+Added Pin To Net: NetName=IN_5_P Pin=J601-7
+Added Pin To Net: NetName=IN_5_N Pin=J601-8
+Added Pin To Net: NetName=IN_4_P Pin=J601-9
+Added Pin To Net: NetName=IN_4_N Pin=J601-10
+Added Pin To Net: NetName=IN_3_P Pin=J601-11
+Added Pin To Net: NetName=IN_3_N Pin=J601-12
+Added Pin To Net: NetName=IN_2_P Pin=J601-13
+Added Pin To Net: NetName=IN_2_N Pin=J601-14
+Added Pin To Net: NetName=IN_1_P Pin=J601-15
+Added Pin To Net: NetName=IN_1_N Pin=J601-16
+Add Pin To Net: Unknown Pin: Pin J602-1
+Add Pin To Net: Unknown Pin: Pin J602-2
+Add Pin To Net: Unknown Pin: Pin J602-3
+Add Pin To Net: Unknown Pin: Pin J602-4
+Add Pin To Net: Unknown Pin: Pin J602-5
+Add Pin To Net: Unknown Pin: Pin J602-6
+Add Pin To Net: Unknown Pin: Pin J602-7
+Add Pin To Net: Unknown Pin: Pin J602-8
+Add Pin To Net: Unknown Pin: Pin J602-9
+Add Pin To Net: Unknown Pin: Pin J602-10
+Add Pin To Net: Unknown Pin: Pin J602-11
+Add Pin To Net: Unknown Pin: Pin J602-12
+Add Pin To Net: Unknown Pin: Pin J602-13
+Add Pin To Net: Unknown Pin: Pin J602-14
+Add Pin To Net: Unknown Pin: Pin J602-15
+Add Pin To Net: Unknown Pin: Pin J602-16
+Add Pin To Net: Unknown Pin: Pin J801-A1B12
+Add Pin To Net: Unknown Pin: Pin J801-A4B9
+Add Pin To Net: Unknown Pin: Pin J801-A5
+Add Pin To Net: Unknown Pin: Pin J801-A6
+Add Pin To Net: Unknown Pin: Pin J801-A7
+Add Pin To Net: Unknown Pin: Pin J801-A9B4
+Add Pin To Net: Unknown Pin: Pin J801-A12B1
+Add Pin To Net: Unknown Pin: Pin J801-B5
+Add Pin To Net: Unknown Pin: Pin J801-B6
+Add Pin To Net: Unknown Pin: Pin J801-B7
+Add Pin To Net: Unknown Pin: Pin J801-SH
+Add Pin To Net: Unknown Pin: Pin J901-1
+Add Pin To Net: Unknown Pin: Pin J901-2
+Add Pin To Net: Unknown Pin: Pin J901-3
+Add Pin To Net: Unknown Pin: Pin J902-1
+Add Pin To Net: Unknown Pin: Pin J902-2
+Add Pin To Net: Unknown Pin: Pin J902-3
+Add Pin To Net: Unknown Pin: Pin J902-4
+Add Pin To Net: Unknown Pin: Pin J902-5
+Add Pin To Net: Unknown Pin: Pin J902-6
+Add Pin To Net: Unknown Pin: Pin J1201-1
+Add Pin To Net: Unknown Pin: Pin J1201-2
+Add Pin To Net: Unknown Pin: Pin J1201-3
+Add Pin To Net: Unknown Pin: Pin J1201-4
+Add Pin To Net: Unknown Pin: Pin J1201-5
+Add Pin To Net: Unknown Pin: Pin J1201-6
+Add Pin To Net: Unknown Pin: Pin J1201-7
+Add Pin To Net: Unknown Pin: Pin J1201-8
+Add Pin To Net: Unknown Pin: Pin J1201-9
+Add Pin To Net: Unknown Pin: Pin J1201-10
+Add Pin To Net: Unknown Pin: Pin J1301-1
+Add Pin To Net: Unknown Pin: Pin J1301-2
+Add Pin To Net: Unknown Pin: Pin J1301-4
+Add Pin To Net: Unknown Pin: Pin J1301-5
+Add Pin To Net: Unknown Pin: Pin J1301-6
+Add Pin To Net: Unknown Pin: Pin J1301-7
+Add Pin To Net: Unknown Pin: Pin J1301-8
+Add Pin To Net: Unknown Pin: Pin J1301-11
+Add Pin To Net: Unknown Pin: Pin J1301-12
+Add Pin To Net: Unknown Pin: Pin J1301-13
+Add Pin To Net: Unknown Pin: Pin J1301-14
+Add Pin To Net: Unknown Pin: Pin J1301-15
+Add Pin To Net: Unknown Pin: Pin J1301-16
+Add Pin To Net: Unknown Pin: Pin J1301-17
+Add Pin To Net: Unknown Pin: Pin J1301-18
+Add Pin To Net: Unknown Pin: Pin J1301-19
+Add Pin To Net: Unknown Pin: Pin J1301-20
+Add Pin To Net: Unknown Pin: Pin J1301-21
+Add Pin To Net: Unknown Pin: Pin J1301-22
+Add Pin To Net: Unknown Pin: Pin J1301-23
+Add Pin To Net: Unknown Pin: Pin J1301-24
+Add Pin To Net: Unknown Pin: Pin J1301-25
+Add Pin To Net: Unknown Pin: Pin J1301-26
+Add Pin To Net: Unknown Pin: Pin J1301-27
+Add Pin To Net: Unknown Pin: Pin J1301-28
+Add Pin To Net: Unknown Pin: Pin J1301-29
+Add Pin To Net: Unknown Pin: Pin J1301-30
+Add Pin To Net: Unknown Pin: Pin J1301-31
+Add Pin To Net: Unknown Pin: Pin J1301-32
+Add Pin To Net: Unknown Pin: Pin J1301-33
+Add Pin To Net: Unknown Pin: Pin J1301-34
+Add Pin To Net: Unknown Pin: Pin J1301-35
+Add Pin To Net: Unknown Pin: Pin J1301-36
+Add Pin To Net: Unknown Pin: Pin J1301-37
+Add Pin To Net: Unknown Pin: Pin J1301-38
+Add Pin To Net: Unknown Pin: Pin J1301-39
+Add Pin To Net: Unknown Pin: Pin J1301-40
+Added Pin To Net: NetName=VBATT Pin=J1401-1
+Added Pin To Net: NetName=GND Pin=J1401-2
+Added Pin To Net: NetName=GND Pin=J1401-2
+Added Pin To Net: NetName=GND Pin=J1401-2
+Added Pin To Net: NetName=GND Pin=J1401-2
+Add Pin To Net: Unknown Pin: Pin L901-1
+Add Pin To Net: Unknown Pin: Pin L901-2
+Add Pin To Net: Unknown Pin: Pin L902-1
+Add Pin To Net: Unknown Pin: Pin L902-2
+Add Pin To Net: Unknown Pin: Pin L1501-1
+Add Pin To Net: Unknown Pin: Pin L1501-2
+Add Pin To Net: Unknown Pin: Pin L1601-1
+Add Pin To Net: Unknown Pin: Pin L1601-2
+Add Pin To Net: Unknown Pin: Pin Q1401-1
+Add Pin To Net: Unknown Pin: Pin Q1401-2
+Add Pin To Net: Unknown Pin: Pin Q1401-3
+Add Pin To Net: Unknown Pin: Pin Q1402-1
+Add Pin To Net: Unknown Pin: Pin Q1402-2
+Add Pin To Net: Unknown Pin: Pin Q1402-3
+Added Pin To Net: NetName=NetC403_1 Pin=R401-1
+Added Pin To Net: NetName=+3V3 Pin=R401-2
+Added Pin To Net: NetName=NetC403_1 Pin=R402-1
+Added Pin To Net: NetName=R\S\T\ Pin=R402-2
+Added Pin To Net: NetName=GND Pin=R403-1
+Added Pin To Net: NetName=NetC404_1 Pin=R403-2
+Added Pin To Net: NetName=NetC404_1 Pin=R404-1
+Added Pin To Net: NetName=STM_BOOT0 Pin=R404-2
+Added Pin To Net: NetName=STAT_R Pin=R405-1
+Added Pin To Net: NetName=NetD401_1 Pin=R405-2
+Added Pin To Net: NetName=STAT_G Pin=R406-1
+Added Pin To Net: NetName=NetD401_2 Pin=R406-2
+Added Pin To Net: NetName=STAT_B Pin=R407-1
+Added Pin To Net: NetName=NetD401_3 Pin=R407-2
+Added Pin To Net: NetName=IN_1_P Pin=R701_1-1
+Added Pin To Net: NetName=FILT_1_P Pin=R701_1-2
+Added Pin To Net: NetName=IN_2_P Pin=R701_2-1
+Added Pin To Net: NetName=FILT_2_P Pin=R701_2-2
+Added Pin To Net: NetName=IN_3_P Pin=R701_3-1
+Added Pin To Net: NetName=FILT_3_P Pin=R701_3-2
+Added Pin To Net: NetName=IN_4_P Pin=R701_4-1
+Added Pin To Net: NetName=FILT_4_P Pin=R701_4-2
+Added Pin To Net: NetName=IN_5_P Pin=R701_5-1
+Added Pin To Net: NetName=FILT_5_P Pin=R701_5-2
+Added Pin To Net: NetName=IN_6_P Pin=R701_6-1
+Added Pin To Net: NetName=FILT_6_P Pin=R701_6-2
+Added Pin To Net: NetName=IN_7_P Pin=R701_7-1
+Added Pin To Net: NetName=FILT_7_P Pin=R701_7-2
+Added Pin To Net: NetName=IN_8_P Pin=R701_8-1
+Added Pin To Net: NetName=FILT_8_P Pin=R701_8-2
+Added Pin To Net: NetName=FILT_1_P Pin=R702_1-1
+Added Pin To Net: NetName=OUT_1_P Pin=R702_1-2
+Added Pin To Net: NetName=FILT_2_P Pin=R702_2-1
+Added Pin To Net: NetName=OUT_2_P Pin=R702_2-2
+Added Pin To Net: NetName=FILT_3_P Pin=R702_3-1
+Added Pin To Net: NetName=OUT_3_P Pin=R702_3-2
+Added Pin To Net: NetName=FILT_4_P Pin=R702_4-1
+Added Pin To Net: NetName=OUT_4_P Pin=R702_4-2
+Added Pin To Net: NetName=FILT_5_P Pin=R702_5-1
+Added Pin To Net: NetName=OUT_5_P Pin=R702_5-2
+Added Pin To Net: NetName=FILT_6_P Pin=R702_6-1
+Added Pin To Net: NetName=OUT_6_P Pin=R702_6-2
+Added Pin To Net: NetName=FILT_7_P Pin=R702_7-1
+Added Pin To Net: NetName=OUT_7_P Pin=R702_7-2
+Added Pin To Net: NetName=FILT_8_P Pin=R702_8-1
+Added Pin To Net: NetName=OUT_8_P Pin=R702_8-2
+Added Pin To Net: NetName=OUT_1_P Pin=R703_1-1
+Added Pin To Net: NetName=OUT_1_N Pin=R703_1-2
+Added Pin To Net: NetName=OUT_2_P Pin=R703_2-1
+Added Pin To Net: NetName=OUT_2_N Pin=R703_2-2
+Added Pin To Net: NetName=OUT_3_P Pin=R703_3-1
+Added Pin To Net: NetName=OUT_3_N Pin=R703_3-2
+Added Pin To Net: NetName=OUT_4_P Pin=R703_4-1
+Added Pin To Net: NetName=OUT_4_N Pin=R703_4-2
+Added Pin To Net: NetName=OUT_5_P Pin=R703_5-1
+Added Pin To Net: NetName=OUT_5_N Pin=R703_5-2
+Added Pin To Net: NetName=OUT_6_P Pin=R703_6-1
+Added Pin To Net: NetName=OUT_6_N Pin=R703_6-2
+Added Pin To Net: NetName=OUT_7_P Pin=R703_7-1
+Added Pin To Net: NetName=OUT_7_N Pin=R703_7-2
+Added Pin To Net: NetName=OUT_8_P Pin=R703_8-1
+Added Pin To Net: NetName=OUT_8_N Pin=R703_8-2
+Added Pin To Net: NetName=IN_1_N Pin=R704_1-1
+Added Pin To Net: NetName=FILT_1_N Pin=R704_1-2
+Added Pin To Net: NetName=IN_2_N Pin=R704_2-1
+Added Pin To Net: NetName=FILT_2_N Pin=R704_2-2
+Added Pin To Net: NetName=IN_3_N Pin=R704_3-1
+Added Pin To Net: NetName=FILT_3_N Pin=R704_3-2
+Added Pin To Net: NetName=IN_4_N Pin=R704_4-1
+Added Pin To Net: NetName=FILT_4_N Pin=R704_4-2
+Added Pin To Net: NetName=IN_5_N Pin=R704_5-1
+Added Pin To Net: NetName=FILT_5_N Pin=R704_5-2
+Added Pin To Net: NetName=IN_6_N Pin=R704_6-1
+Added Pin To Net: NetName=FILT_6_N Pin=R704_6-2
+Added Pin To Net: NetName=IN_7_N Pin=R704_7-1
+Added Pin To Net: NetName=FILT_7_N Pin=R704_7-2
+Added Pin To Net: NetName=IN_8_N Pin=R704_8-1
+Added Pin To Net: NetName=FILT_8_N Pin=R704_8-2
+Added Pin To Net: NetName=FILT_1_N Pin=R705_1-1
+Added Pin To Net: NetName=OUT_1_N Pin=R705_1-2
+Added Pin To Net: NetName=FILT_2_N Pin=R705_2-1
+Added Pin To Net: NetName=OUT_2_N Pin=R705_2-2
+Added Pin To Net: NetName=FILT_3_N Pin=R705_3-1
+Added Pin To Net: NetName=OUT_3_N Pin=R705_3-2
+Added Pin To Net: NetName=FILT_4_N Pin=R705_4-1
+Added Pin To Net: NetName=OUT_4_N Pin=R705_4-2
+Added Pin To Net: NetName=FILT_5_N Pin=R705_5-1
+Added Pin To Net: NetName=OUT_5_N Pin=R705_5-2
+Added Pin To Net: NetName=FILT_6_N Pin=R705_6-1
+Added Pin To Net: NetName=OUT_6_N Pin=R705_6-2
+Added Pin To Net: NetName=FILT_7_N Pin=R705_7-1
+Added Pin To Net: NetName=OUT_7_N Pin=R705_7-2
+Added Pin To Net: NetName=FILT_8_N Pin=R705_8-1
+Added Pin To Net: NetName=OUT_8_N Pin=R705_8-2
+Added Pin To Net: NetName=CC2 Pin=R801-1
+Added Pin To Net: NetName=GND Pin=R801-2
+Added Pin To Net: NetName=CC1 Pin=R802-1
+Added Pin To Net: NetName=GND Pin=R802-2
+Added Pin To Net: NetName=CON_VBUS Pin=R803-1
+Added Pin To Net: NetName=VBUS Pin=R803-2
+Added Pin To Net: NetName=VBUS_I_SENS_OUT Pin=R804-1
+Added Pin To Net: NetName=NetR805_1 Pin=R805-1
+Added Pin To Net: NetName=CON_VBUS Pin=R805-2
+Added Pin To Net: NetName=VBUS_V_DIV Pin=R806-1
+Added Pin To Net: NetName=NetR805_1 Pin=R806-2
+Added Pin To Net: NetName=VBUS_V_DIV Pin=R807-1
+Added Pin To Net: NetName=NetR807_2 Pin=R807-2
+Added Pin To Net: NetName=NetR807_2 Pin=R808-1
+Added Pin To Net: NetName=GND Pin=R808-2
+Added Pin To Net: NetName=VBUS_V_SENS_OUT Pin=R809-1
+Added Pin To Net: NetName=VBUS_I_SENS Pin=R809-2
+Added Pin To Net: NetName=+3V3 Pin=R901-1
+Added Pin To Net: NetName=ESP_R\S\T\ Pin=R901-2
+Added Pin To Net: NetName=ANT_IN Pin=R902-1
+Added Pin To Net: NetName=UFL_IN Pin=R902-2
+Added Pin To Net: NetName=ANT_IN Pin=R903-1
+Added Pin To Net: NetName=IFA_IN Pin=R903-2
+Added Pin To Net: NetName=+3V3_RTC Pin=R1001-1
+Added Pin To Net: NetName=I\N\T\A Pin=R1001-2
+Added Pin To Net: NetName=+3V3 Pin=R1002-1
+Added Pin To Net: NetName=RTC_SDA Pin=R1002-2
+Added Pin To Net: NetName=+3V3 Pin=R1003-1
+Added Pin To Net: NetName=RTC_SCL Pin=R1003-2
+Added Pin To Net: NetName=+3V3_RTC Pin=R1004-1
+Added Pin To Net: NetName=CAP_I_SENS+ Pin=R1004-2
+Added Pin To Net: NetName=CAP_I_SENS- Pin=R1005-1
+Added Pin To Net: NetName=CAP_I_SENS+ Pin=R1005-2
+Added Pin To Net: NetName=CAP_I_SENS- Pin=R1006-1
+Added Pin To Net: NetName=NetR1006_2 Pin=R1006-2
+Added Pin To Net: NetName=NetR1006_2 Pin=R1007-1
+Added Pin To Net: NetName=CAP_V_DIV Pin=R1007-2
+Added Pin To Net: NetName=CAP_V_DIV Pin=R1008-1
+Added Pin To Net: NetName=GND Pin=R1008-2
+Added Pin To Net: NetName=CAP_I_SENS_OUT Pin=R1009-1
+Added Pin To Net: NetName=CAP_I_SENS Pin=R1009-2
+Added Pin To Net: NetName=CAP_V_SENS_OUT Pin=R1010-1
+Added Pin To Net: NetName=CAP_V_SENS Pin=R1010-2
+Added Pin To Net: NetName=+3V3 Pin=R1101-1
+Added Pin To Net: NetName=EEPROM_SDA Pin=R1101-2
+Added Pin To Net: NetName=+3V3 Pin=R1102-1
+Added Pin To Net: NetName=EEPROM_SCL Pin=R1102-2
+Added Pin To Net: NetName=DAT2 Pin=R1201-1
+Added Pin To Net: NetName=CON_DAT2 Pin=R1201-2
+Added Pin To Net: NetName=DAT3 Pin=R1202-1
+Added Pin To Net: NetName=CON_DAT3 Pin=R1202-2
+Added Pin To Net: NetName=CMD Pin=R1203-1
+Added Pin To Net: NetName=CON_CMD Pin=R1203-2
+Added Pin To Net: NetName=CLK Pin=R1204-1
+Added Pin To Net: NetName=CON_CLK Pin=R1204-2
+Added Pin To Net: NetName=DAT0 Pin=R1205-1
+Added Pin To Net: NetName=CON_DAT0 Pin=R1205-2
+Added Pin To Net: NetName=DAT1 Pin=R1206-1
+Added Pin To Net: NetName=CON_DAT1 Pin=R1206-2
+Added Pin To Net: NetName=+3V3 Pin=R1207-1
+Added Pin To Net: NetName=C\D\ Pin=R1207-2
+Added Pin To Net: NetName=+5V Pin=R1301-1
+Added Pin To Net: NetName=NetJ1301_6 Pin=R1301-1
+Added Pin To Net: NetName=GND Pin=R1301-2
+Added Pin To Net: NetName=NetJ1301_1 Pin=R1301-2
+Added Pin To Net: NetName=+5V Pin=R1302-1
+Added Pin To Net: NetName=NetJ1301_5 Pin=R1302-2
+Added Pin To Net: NetName=+5V Pin=R1303-1
+Added Pin To Net: NetName=NetJ1301_4 Pin=R1303-2
+Added Pin To Net: NetName=+5V Pin=R1304-1
+Added Pin To Net: NetName=DISP Pin=R1304-2
+Added Pin To Net: NetName=BATT_I_SENS Pin=R1401-1
+Added Pin To Net: NetName=BATT_I_SENS_OUT Pin=R1401-2
+Added Pin To Net: NetName=SYS_I_SENS_OUT Pin=R1402-1
+Added Pin To Net: NetName=SYS_I_SENS Pin=R1402-2
+Added Pin To Net: NetName=BATT_V_SENS Pin=R1403-1
+Added Pin To Net: NetName=BATT_V_SENS_OUT Pin=R1403-2
+Added Pin To Net: NetName=BATT_SENS Pin=R1404-1
+Added Pin To Net: NetName=BATT_V_DIV Pin=R1404-2
+Added Pin To Net: NetName=BATT_V_DIV Pin=R1405-1
+Added Pin To Net: NetName=NetR1405_2 Pin=R1405-2
+Added Pin To Net: NetName=NetR1405_2 Pin=R1406-1
+Added Pin To Net: NetName=GND Pin=R1406-2
+Added Pin To Net: NetName=NetR1407_1 Pin=R1407-1
+Added Pin To Net: NetName=SYS_SENS Pin=R1407-2
+Added Pin To Net: NetName=SYS_V_DIV Pin=R1408-1
+Added Pin To Net: NetName=NetR1407_1 Pin=R1408-2
+Added Pin To Net: NetName=SYS_V_DIV Pin=R1409-1
+Added Pin To Net: NetName=NetR1409_2 Pin=R1409-2
+Added Pin To Net: NetName=NetR1409_2 Pin=R1410-1
+Added Pin To Net: NetName=GND Pin=R1410-2
+Added Pin To Net: NetName=SYS_V_SENS_OUT Pin=R1411-1
+Added Pin To Net: NetName=SYS_V_SENS Pin=R1411-2
+Added Pin To Net: NetName=VBUS_FUSE Pin=R1412-1
+Added Pin To Net: NetName=VBUS_LED_A Pin=R1412-2
+Added Pin To Net: NetName=NetQ1401_1 Pin=R1413-1
+Added Pin To Net: NetName=GND Pin=R1413-2
+Added Pin To Net: NetName=BATT_SENS Pin=R1414-1
+Added Pin To Net: NetName=BATT_IN Pin=R1414-2
+Added Pin To Net: NetName=BATT_SENS Pin=R1415-1
+Added Pin To Net: NetName=BATT_LED_A Pin=R1415-2
+Added Pin To Net: NetName=BATT_SENS Pin=R1416-1
+Added Pin To Net: NetName=BATT_LED_A Pin=R1416-2
+Added Pin To Net: NetName=BATT_C\E\ Pin=R1417-1
+Added Pin To Net: NetName=GND Pin=R1417-2
+Added Pin To Net: NetName=SYS_OUT Pin=R1418-1
+Added Pin To Net: NetName=SYS_SENS Pin=R1418-2
+Added Pin To Net: NetName=SYS_SENS Pin=R1419-1
+Added Pin To Net: NetName=SYS_LED_A Pin=R1419-2
+Added Pin To Net: NetName=SYS_SENS Pin=R1420-1
+Added Pin To Net: NetName=SYS_LED_A Pin=R1420-2
+Added Pin To Net: NetName=SYS_SENS Pin=R1421-1
+Added Pin To Net: NetName=PWR_SW Pin=R1421-2
+Added Pin To Net: NetName=SYS_OUT Pin=R1422-1
+Added Pin To Net: NetName=EN1 Pin=R1422-2
+Added Pin To Net: NetName=NetD1403_2 Pin=R1423-1
+Added Pin To Net: NetName=P\G\O\O\D\ Pin=R1423-2
+Added Pin To Net: NetName=NetD1404_2 Pin=R1424-1
+Added Pin To Net: NetName=BATT_C\H\G\ Pin=R1424-2
+Added Pin To Net: NetName=TS Pin=R1425-1
+Added Pin To Net: NetName=GND Pin=R1425-2
+Added Pin To Net: NetName=ILIM Pin=R1426-1
+Added Pin To Net: NetName=GND Pin=R1426-2
+Added Pin To Net: NetName=TMR Pin=R1427-1
+Added Pin To Net: NetName=GND Pin=R1427-2
+Added Pin To Net: NetName=ITERM Pin=R1428-1
+Added Pin To Net: NetName=GND Pin=R1428-2
+Added Pin To Net: NetName=ISET Pin=R1429-1
+Added Pin To Net: NetName=GND Pin=R1429-2
+Added Pin To Net: NetName=ISET Pin=R1430-1
+Added Pin To Net: NetName=GND Pin=R1430-2
+Added Pin To Net: NetName=EN2 Pin=R1431-1
+Added Pin To Net: NetName=GND Pin=R1431-2
+Added Pin To Net: NetName=NetR1501_1 Pin=R1501-1
+Added Pin To Net: NetName=+5V Pin=R1501-2
+Added Pin To Net: NetName=+5V_DIV Pin=R1502-1
+Added Pin To Net: NetName=NetR1501_1 Pin=R1502-2
+Added Pin To Net: NetName=+5V_DIV Pin=R1503-1
+Added Pin To Net: NetName=NetR1503_2 Pin=R1503-2
+Added Pin To Net: NetName=NetR1503_2 Pin=R1504-1
+Added Pin To Net: NetName=GND Pin=R1504-2
+Added Pin To Net: NetName=+5V_SENS_OUT Pin=R1505-1
+Added Pin To Net: NetName=+5V_SENS Pin=R1505-2
+Added Pin To Net: NetName=+5V Pin=R1506-1
+Added Pin To Net: NetName=+5V_LED_A Pin=R1506-2
+Added Pin To Net: NetName=NetR1601_1 Pin=R1601-1
+Added Pin To Net: NetName=GND Pin=R1601-2
+Added Pin To Net: NetName=+3V3_R\E\S\E\T\ Pin=R1602-1
+Added Pin To Net: NetName=+3V3_VCC Pin=R1602-2
+Added Pin To Net: NetName=+3V3_FUSE Pin=R1603-1
+Added Pin To Net: NetName=NetD1601_1 Pin=R1603-2
+Added Pin To Net: NetName=+3V3_FUSE Pin=R1604-1
+Added Pin To Net: NetName=NetD1601_1 Pin=R1604-2
+Added Pin To Net: NetName=+3V3_FUSE Pin=R1605-1
+Added Pin To Net: NetName=NetR1605_2 Pin=R1605-2
+Added Pin To Net: NetName=NetR1605_2 Pin=R1606-1
+Added Pin To Net: NetName=+3V3_V_DIV Pin=R1606-2
+Added Pin To Net: NetName=+3V3_V_DIV Pin=R1607-1
+Added Pin To Net: NetName=GND Pin=R1607-2
+Added Pin To Net: NetName=+3V3A Pin=R1608-1
+Added Pin To Net: NetName=NetD1602_1 Pin=R1608-2
+Added Pin To Net: NetName=+3V3A Pin=R1609-1
+Added Pin To Net: NetName=NetD1602_1 Pin=R1609-2
+Added Pin To Net: NetName=+3V3A Pin=R1610-1
+Added Pin To Net: NetName=NetR1610_2 Pin=R1610-2
+Added Pin To Net: NetName=NetR1610_2 Pin=R1611-1
+Added Pin To Net: NetName=+3V3A_V_DIV Pin=R1611-2
+Added Pin To Net: NetName=+3V3A_V_DIV Pin=R1612-1
+Added Pin To Net: NetName=GND Pin=R1612-2
+Add Pin To Net: Unknown Pin: Pin SW401-3
+Add Pin To Net: Unknown Pin: Pin SW401-3
+Add Pin To Net: Unknown Pin: Pin SW402-3
+Add Pin To Net: Unknown Pin: Pin SW402-3
+Add Pin To Net: Unknown Pin: Pin SW1401-1
+Add Pin To Net: Unknown Pin: Pin SW1401-3
+Add Pin To Net: Unknown Pin: Pin TP301-1
+Add Pin To Net: Unknown Pin: Pin TP302-1
+Add Pin To Net: Unknown Pin: Pin TP401-1
+Add Pin To Net: Unknown Pin: Pin TP402-1
+Add Pin To Net: Unknown Pin: Pin TP402-1
+Add Pin To Net: Unknown Pin: Pin TP403-1
+Add Pin To Net: Unknown Pin: Pin TP404-1
+Add Pin To Net: Unknown Pin: Pin TP405-1
+Add Pin To Net: Unknown Pin: Pin TP406-1
+Add Pin To Net: Unknown Pin: Pin TP601-1
+Add Pin To Net: Unknown Pin: Pin TP602-1
+Add Pin To Net: Unknown Pin: Pin TP603-1
+Add Pin To Net: Unknown Pin: Pin TP604-1
+Add Pin To Net: Unknown Pin: Pin TP605-1
+Add Pin To Net: Unknown Pin: Pin TP607-1
+Add Pin To Net: Unknown Pin: Pin TP608-1
+Add Pin To Net: Unknown Pin: Pin TP609-1
+Add Pin To Net: Unknown Pin: Pin TP610-1
+Add Pin To Net: Unknown Pin: Pin TP611-1
+Add Pin To Net: Unknown Pin: Pin TP612-1
+Add Pin To Net: Unknown Pin: Pin TP613-1
+Add Pin To Net: Unknown Pin: Pin TP614-1
+Add Pin To Net: Unknown Pin: Pin TP615-1
+Add Pin To Net: Unknown Pin: Pin TP616-1
+Add Pin To Net: Unknown Pin: Pin TP617-1
+Add Pin To Net: Unknown Pin: Pin TP618-1
+Add Pin To Net: Unknown Pin: Pin TP619-1
+Add Pin To Net: Unknown Pin: Pin TP620-1
+Add Pin To Net: Unknown Pin: Pin TP621-1
+Add Pin To Net: Unknown Pin: Pin TP622-1
+Add Pin To Net: Unknown Pin: Pin TP623-1
+Add Pin To Net: Unknown Pin: Pin TP624-1
+Add Pin To Net: Unknown Pin: Pin TP625-1
+Add Pin To Net: Unknown Pin: Pin TP626-1
+Add Pin To Net: Unknown Pin: Pin TP627-1
+Add Pin To Net: Unknown Pin: Pin TP628-1
+Add Pin To Net: Unknown Pin: Pin TP629-1
+Add Pin To Net: Unknown Pin: Pin TP630-1
+Add Pin To Net: Unknown Pin: Pin TP631-1
+Add Pin To Net: Unknown Pin: Pin TP632-1
+Add Pin To Net: Unknown Pin: Pin TP633-1
+Add Pin To Net: Unknown Pin: Pin TP634-1
+Add Pin To Net: Unknown Pin: Pin TP635-1
+Add Pin To Net: Unknown Pin: Pin TP636-1
+Add Pin To Net: Unknown Pin: Pin TP637-1
+Add Pin To Net: Unknown Pin: Pin TP638-1
+Add Pin To Net: Unknown Pin: Pin TP639-1
+Add Pin To Net: Unknown Pin: Pin TP801-1
+Add Pin To Net: Unknown Pin: Pin TP803-1
+Add Pin To Net: Unknown Pin: Pin TP901-1
+Add Pin To Net: Unknown Pin: Pin TP902-1
+Add Pin To Net: Unknown Pin: Pin TP903-1
+Add Pin To Net: Unknown Pin: Pin TP904-1
+Add Pin To Net: Unknown Pin: Pin TP905-1
+Add Pin To Net: Unknown Pin: Pin TP906-1
+Add Pin To Net: Unknown Pin: Pin TP907-1
+Add Pin To Net: Unknown Pin: Pin TP908-1
+Add Pin To Net: Unknown Pin: Pin TP1001-1
+Add Pin To Net: Unknown Pin: Pin TP1002-1
+Add Pin To Net: Unknown Pin: Pin TP1003-1
+Add Pin To Net: Unknown Pin: Pin TP1004-1
+Add Pin To Net: Unknown Pin: Pin TP1005-1
+Add Pin To Net: Unknown Pin: Pin TP1006-1
+Add Pin To Net: Unknown Pin: Pin TP1101-1
+Add Pin To Net: Unknown Pin: Pin TP1102-1
+Add Pin To Net: Unknown Pin: Pin TP1103-1
+Add Pin To Net: Unknown Pin: Pin TP1201-1
+Add Pin To Net: Unknown Pin: Pin TP1202-1
+Add Pin To Net: Unknown Pin: Pin TP1203-1
+Add Pin To Net: Unknown Pin: Pin TP1204-1
+Add Pin To Net: Unknown Pin: Pin TP1205-1
+Add Pin To Net: Unknown Pin: Pin TP1206-1
+Add Pin To Net: Unknown Pin: Pin TP1207-1
+Add Pin To Net: Unknown Pin: Pin TP1301-1
+Add Pin To Net: Unknown Pin: Pin TP1302-1
+Add Pin To Net: Unknown Pin: Pin TP1303-1
+Add Pin To Net: Unknown Pin: Pin TP1304-1
+Add Pin To Net: Unknown Pin: Pin TP1305-1
+Add Pin To Net: Unknown Pin: Pin TP1306-1
+Add Pin To Net: Unknown Pin: Pin TP1307-1
+Add Pin To Net: Unknown Pin: Pin TP1308-1
+Add Pin To Net: Unknown Pin: Pin TP1309-1
+Add Pin To Net: Unknown Pin: Pin TP1310-1
+Add Pin To Net: Unknown Pin: Pin TP1311-1
+Add Pin To Net: Unknown Pin: Pin TP1312-1
+Add Pin To Net: Unknown Pin: Pin TP1313-1
+Add Pin To Net: Unknown Pin: Pin TP1314-1
+Add Pin To Net: Unknown Pin: Pin TP1315-1
+Add Pin To Net: Unknown Pin: Pin TP1316-1
+Add Pin To Net: Unknown Pin: Pin TP1317-1
+Add Pin To Net: Unknown Pin: Pin TP1318-1
+Add Pin To Net: Unknown Pin: Pin TP1319-1
+Add Pin To Net: Unknown Pin: Pin TP1320-1
+Add Pin To Net: Unknown Pin: Pin TP1321-1
+Add Pin To Net: Unknown Pin: Pin TP1322-1
+Add Pin To Net: Unknown Pin: Pin TP1323-1
+Add Pin To Net: Unknown Pin: Pin TP1324-1
+Add Pin To Net: Unknown Pin: Pin TP1325-1
+Add Pin To Net: Unknown Pin: Pin TP1326-1
+Add Pin To Net: Unknown Pin: Pin TP1327-1
+Add Pin To Net: Unknown Pin: Pin TP1328-1
+Add Pin To Net: Unknown Pin: Pin TP1329-1
+Add Pin To Net: Unknown Pin: Pin TP1330-1
+Add Pin To Net: Unknown Pin: Pin TP1331-1
+Add Pin To Net: Unknown Pin: Pin TP1332-1
+Add Pin To Net: Unknown Pin: Pin TP1333-1
+Add Pin To Net: Unknown Pin: Pin TP1401-1
+Add Pin To Net: Unknown Pin: Pin TP1402-1
+Add Pin To Net: Unknown Pin: Pin TP1403-1
+Add Pin To Net: Unknown Pin: Pin TP1404-1
+Add Pin To Net: Unknown Pin: Pin TP1405-1
+Add Pin To Net: Unknown Pin: Pin TP1406-1
+Add Pin To Net: Unknown Pin: Pin TP1407-1
+Add Pin To Net: Unknown Pin: Pin TP1408-1
+Add Pin To Net: Unknown Pin: Pin TP1409-1
+Add Pin To Net: Unknown Pin: Pin TP1410-1
+Add Pin To Net: Unknown Pin: Pin TP1501-1
+Add Pin To Net: Unknown Pin: Pin TP1502-1
+Add Pin To Net: Unknown Pin: Pin TP1503-1
+Add Pin To Net: Unknown Pin: Pin TP1504-1
+Add Pin To Net: Unknown Pin: Pin TP1601-1
+Add Pin To Net: Unknown Pin: Pin TP1602-1
+Add Pin To Net: Unknown Pin: Pin TP1603-1
+Add Pin To Net: Unknown Pin: Pin TP1604-1
+Add Pin To Net: Unknown Pin: Pin TP1605-1
+Added Pin To Net: NetName=GND Pin=U201-A1
+Added Pin To Net: NetName=LTDC_B6 Pin=U201-A2
+Added Pin To Net: NetName=+3V3 Pin=U201-A3
+Added Pin To Net: NetName=VCAP_1 Pin=U201-A4
+Added Pin To Net: NetName=LTDC_B3 Pin=U201-A7
+Added Pin To Net: NetName=LTDC_G7 Pin=U201-A9
+Added Pin To Net: NetName=SDRAM_DQ3 Pin=U201-A10
+Added Pin To Net: NetName=LTDC_R3 Pin=U201-A11
+Added Pin To Net: NetName=+3V3 Pin=U201-A13
+Added Pin To Net: NetName=VCAP_2 Pin=U201-A14
+Added Pin To Net: NetName=GND Pin=U201-A15
+Added Pin To Net: NetName=LTDC_B0 Pin=U201-B1
+Added Pin To Net: NetName=LTDC_R0 Pin=U201-B4
+Added Pin To Net: NetName=SDRAM_DQ7 Pin=U201-B10
+Added Pin To Net: NetName=SDRAM_DQ6 Pin=U201-B11
+Added Pin To Net: NetName=LTDC_G3 Pin=U201-B12
+Added Pin To Net: NetName=LTDC_R6 Pin=U201-B14
+Added Pin To Net: NetName=GND Pin=U201-C2
+Added Pin To Net: NetName=STM_BOOT0 Pin=U201-C5
+Added Pin To Net: NetName=LTDC_B5 Pin=U201-C6
+Added Pin To Net: NetName=LTDC_B2 Pin=U201-C8
+Added Pin To Net: NetName=SDRAM_DQ2 Pin=U201-C10
+Added Pin To Net: NetName=LTDC_B4 Pin=U201-C11
+Added Pin To Net: NetName=LTDC_B1 Pin=U201-C12
+Added Pin To Net: NetName=LTDC_G2 Pin=U201-C13
+Added Pin To Net: NetName=LTDC_G0 Pin=U201-D3
+Added Pin To Net: NetName=+3V3 Pin=U201-D4
+Added Pin To Net: NetName=+3V3 Pin=U201-D5
+Added Pin To Net: NetName=GND Pin=U201-D6
+Added Pin To Net: NetName=SDRAM_CAS Pin=U201-D7
+Added Pin To Net: NetName=GND Pin=U201-D10
+Added Pin To Net: NetName=+3V3 Pin=U201-D11
+Added Pin To Net: NetName=LTDC_G4 Pin=U201-D12
+Added Pin To Net: NetName=LTDC_R5 Pin=U201-D13
+Added Pin To Net: NetName=LTDC_G6 Pin=U201-D15
+Added Pin To Net: NetName=GND Pin=U201-E1
+Added Pin To Net: NetName=+3V3 Pin=U201-E2
+Added Pin To Net: NetName=LTDC_G1 Pin=U201-E3
+Added Pin To Net: NetName=+3V3 Pin=U201-E4
+Added Pin To Net: NetName=+3V3 Pin=U201-E12
+Added Pin To Net: NetName=LTDC_HSYNC Pin=U201-E14
+Added Pin To Net: NetName=+3V3 Pin=U201-E15
+Added Pin To Net: NetName=GND Pin=U201-F2
+Added Pin To Net: NetName=SDRAM_A1 Pin=U201-F3
+Added Pin To Net: NetName=SDRAM_A0 Pin=U201-F4
+Added Pin To Net: NetName=GND Pin=U201-F6
+Added Pin To Net: NetName=GND Pin=U201-F7
+Added Pin To Net: NetName=GND Pin=U201-F8
+Added Pin To Net: NetName=GND Pin=U201-F9
+Added Pin To Net: NetName=GND Pin=U201-F10
+Added Pin To Net: NetName=GND Pin=U201-F12
+Added Pin To Net: NetName=+3V3 Pin=U201-F13
+Added Pin To Net: NetName=LTDC_R7 Pin=U201-F14
+Added Pin To Net: NetName=SDRAM_BA1 Pin=U201-F15
+Added Pin To Net: NetName=GND Pin=U201-G1
+Added Pin To Net: NetName=GND Pin=U201-G2
+Added Pin To Net: NetName=SDRAM_A2 Pin=U201-G3
+Added Pin To Net: NetName=+3V3 Pin=U201-G4
+Added Pin To Net: NetName=GND Pin=U201-G6
+Added Pin To Net: NetName=GND Pin=U201-G7
+Added Pin To Net: NetName=GND Pin=U201-G8
+Added Pin To Net: NetName=GND Pin=U201-G9
+Added Pin To Net: NetName=GND Pin=U201-G10
+Added Pin To Net: NetName=SDRAM_CLK Pin=U201-G12
+Added Pin To Net: NetName=LTDC_CLK Pin=U201-G13
+Added Pin To Net: NetName=SDRAM_BA0 Pin=U201-G14
+Added Pin To Net: NetName=SDRAM_A4 Pin=U201-H2
+Added Pin To Net: NetName=SDRAM_A5 Pin=U201-H3
+Added Pin To Net: NetName=SDRAM_A3 Pin=U201-H4
+Added Pin To Net: NetName=GND Pin=U201-H6
+Added Pin To Net: NetName=GND Pin=U201-H7
+Added Pin To Net: NetName=GND Pin=U201-H8
+Added Pin To Net: NetName=GND Pin=U201-H9
+Added Pin To Net: NetName=GND Pin=U201-H10
+Added Pin To Net: NetName=+3V3 Pin=U201-H12
+Added Pin To Net: NetName=SDRAM_DQ0 Pin=U201-H14
+Added Pin To Net: NetName=OSC_IN Pin=U201-J1
+Added Pin To Net: NetName=GND Pin=U201-J6
+Added Pin To Net: NetName=GND Pin=U201-J7
+Added Pin To Net: NetName=GND Pin=U201-J8
+Added Pin To Net: NetName=GND Pin=U201-J9
+Added Pin To Net: NetName=GND Pin=U201-J10
+Added Pin To Net: NetName=SDRAM_DQ1 Pin=U201-J12
+Added Pin To Net: NetName=GND Pin=U201-J14
+Added Pin To Net: NetName=OUT_OUT Pin=U201-K1
+Added Pin To Net: NetName=GND Pin=U201-K2
+Added Pin To Net: NetName=LTDC_DE Pin=U201-K3
+Added Pin To Net: NetName=+3V3 Pin=U201-K4
+Added Pin To Net: NetName=GND Pin=U201-K6
+Added Pin To Net: NetName=GND Pin=U201-K7
+Added Pin To Net: NetName=GND Pin=U201-K8
+Added Pin To Net: NetName=GND Pin=U201-K9
+Added Pin To Net: NetName=GND Pin=U201-K10
+Added Pin To Net: NetName=GND Pin=U201-K12
+Added Pin To Net: NetName=SDRAM_DQ14 Pin=U201-K13
+Added Pin To Net: NetName=SDRAM_DQ11 Pin=U201-K14
+Added Pin To Net: NetName=SDRAM_DQ10 Pin=U201-K15
+Added Pin To Net: NetName=R\S\T\ Pin=U201-L1
+Added Pin To Net: NetName=SDRAM_DQ12 Pin=U201-L2
+Added Pin To Net: NetName=LTDC_G5 Pin=U201-L3
+Added Pin To Net: NetName=GND Pin=U201-L4
+Added Pin To Net: NetName=+3V3 Pin=U201-L12
+Added Pin To Net: NetName=SDRAM_DQ15 Pin=U201-L13
+Added Pin To Net: NetName=SDRAM_DQ13 Pin=U201-L14
+Added Pin To Net: NetName=SDRAM_CS Pin=U201-M1
+Added Pin To Net: NetName=SDRAM_CKE Pin=U201-M2
+Added Pin To Net: NetName=+3V3A Pin=U201-M3
+Added Pin To Net: NetName=+3V3A Pin=U201-M4
+Added Pin To Net: NetName=+3V3 Pin=U201-M5
+Added Pin To Net: NetName=GND Pin=U201-M6
+Added Pin To Net: NetName=+3V3 Pin=U201-M9
+Added Pin To Net: NetName=GND Pin=U201-M10
+Added Pin To Net: NetName=GND Pin=U201-N3
+Added Pin To Net: NetName=LTDC_VSYNC Pin=U201-N6
+Added Pin To Net: NetName=SDRAM_RAS Pin=U201-N7
+Added Pin To Net: NetName=SDRAM_DQ5 Pin=U201-N8
+Added Pin To Net: NetName=SDRAM_A11 Pin=U201-N9
+Added Pin To Net: NetName=LTDC_R2 Pin=U201-N13
+Added Pin To Net: NetName=LTDC_R4 Pin=U201-N14
+Added Pin To Net: NetName=SDRAM_DQ8 Pin=U201-P5
+Added Pin To Net: NetName=SDRAM_DQ9 Pin=U201-P6
+Added Pin To Net: NetName=SDRAM_A10 Pin=U201-P8
+Added Pin To Net: NetName=SDRAM_DQ4 Pin=U201-P9
+Added Pin To Net: NetName=SDRAM_A6 Pin=U201-P11
+Added Pin To Net: NetName=SDRAM_A7 Pin=U201-P13
+Added Pin To Net: NetName=SDRAM_A9 Pin=U201-P14
+Added Pin To Net: NetName=GND Pin=U201-R1
+Added Pin To Net: NetName=LTDC_R1 Pin=U201-R2
+Added Pin To Net: NetName=SDRAM_WE Pin=U201-R5
+Added Pin To Net: NetName=SDRAM_A8 Pin=U201-R10
+Added Pin To Net: NetName=LTDC_B7 Pin=U201-R11
+Added Pin To Net: NetName=VCAP_3 Pin=U201-R13
+Added Pin To Net: NetName=+3V3 Pin=U201-R14
+Added Pin To Net: NetName=GND Pin=U201-R15
+Added Pin To Net: NetName=GND Pin=U501-A1
+Added Pin To Net: NetName=SDRAM_DQ15 Pin=U501-A2
+Added Pin To Net: NetName=GND Pin=U501-A3
+Added Pin To Net: NetName=+3V3 Pin=U501-A7
+Added Pin To Net: NetName=SDRAM_DQ0 Pin=U501-A8
+Added Pin To Net: NetName=+3V3 Pin=U501-A9
+Added Pin To Net: NetName=SDRAM_DQ14 Pin=U501-B1
+Added Pin To Net: NetName=SDRAM_DQ13 Pin=U501-B2
+Added Pin To Net: NetName=+3V3 Pin=U501-B3
+Added Pin To Net: NetName=GND Pin=U501-B7
+Added Pin To Net: NetName=SDRAM_DQ2 Pin=U501-B8
+Added Pin To Net: NetName=SDRAM_DQ1 Pin=U501-B9
+Added Pin To Net: NetName=SDRAM_DQ12 Pin=U501-C1
+Added Pin To Net: NetName=SDRAM_DQ11 Pin=U501-C2
+Added Pin To Net: NetName=GND Pin=U501-C3
+Add Pin To Net: Unknown Pin: Pin U501-C5
+Added Pin To Net: NetName=SDRAM_DQ4 Pin=U501-C7
+Added Pin To Net: NetName=SDRAM_DQ3 Pin=U501-C9
+Added Pin To Net: NetName=SDRAM_DQ10 Pin=U501-D1
+Added Pin To Net: NetName=SDRAM_DQ9 Pin=U501-D2
+Added Pin To Net: NetName=+3V3 Pin=U501-D3
+Added Pin To Net: NetName=GND Pin=U501-D7
+Added Pin To Net: NetName=SDRAM_DQ6 Pin=U501-D8
+Added Pin To Net: NetName=SDRAM_DQ5 Pin=U501-D9
+Added Pin To Net: NetName=SDRAM_DQ8 Pin=U501-E1
+Added Pin To Net: NetName=GND Pin=U501-E3
+Added Pin To Net: NetName=+3V3 Pin=U501-E7
+Added Pin To Net: NetName=GND Pin=U501-E8
+Added Pin To Net: NetName=SDRAM_DQ7 Pin=U501-E9
+Added Pin To Net: NetName=GND Pin=U501-F1
+Added Pin To Net: NetName=SDRAM_CLK Pin=U501-F2
+Added Pin To Net: NetName=SDRAM_CKE Pin=U501-F3
+Added Pin To Net: NetName=SDRAM_CAS Pin=U501-F7
+Added Pin To Net: NetName=SDRAM_RAS Pin=U501-F8
+Added Pin To Net: NetName=SDRAM_WE Pin=U501-F9
+Added Pin To Net: NetName=SDRAM_A11 Pin=U501-G2
+Added Pin To Net: NetName=SDRAM_A9 Pin=U501-G3
+Added Pin To Net: NetName=SDRAM_BA0 Pin=U501-G7
+Added Pin To Net: NetName=SDRAM_BA1 Pin=U501-G8
+Added Pin To Net: NetName=SDRAM_CS Pin=U501-G9
+Added Pin To Net: NetName=SDRAM_A8 Pin=U501-H1
+Added Pin To Net: NetName=SDRAM_A7 Pin=U501-H2
+Added Pin To Net: NetName=SDRAM_A6 Pin=U501-H3
+Added Pin To Net: NetName=SDRAM_A0 Pin=U501-H7
+Added Pin To Net: NetName=SDRAM_A1 Pin=U501-H8
+Added Pin To Net: NetName=SDRAM_A10 Pin=U501-H9
+Added Pin To Net: NetName=GND Pin=U501-J1
+Added Pin To Net: NetName=SDRAM_A5 Pin=U501-J2
+Added Pin To Net: NetName=SDRAM_A4 Pin=U501-J3
+Added Pin To Net: NetName=SDRAM_A3 Pin=U501-J7
+Added Pin To Net: NetName=SDRAM_A2 Pin=U501-J8
+Added Pin To Net: NetName=+3V3 Pin=U501-J9
+Added Pin To Net: NetName=OUT_6_P Pin=U601-1
+Added Pin To Net: NetName=OUT_6_N Pin=U601-2
+Added Pin To Net: NetName=OUT_5_N Pin=U601-3
+Added Pin To Net: NetName=OUT_5_P Pin=U601-4
+Added Pin To Net: NetName=OUT_4_P Pin=U601-5
+Added Pin To Net: NetName=OUT_4_N Pin=U601-6
+Added Pin To Net: NetName=OUT_3_N Pin=U601-7
+Added Pin To Net: NetName=OUT_3_P Pin=U601-8
+Added Pin To Net: NetName=OUT_2_P Pin=U601-9
+Added Pin To Net: NetName=OUT_2_N Pin=U601-10
+Added Pin To Net: NetName=OUT_1_P Pin=U601-11
+Added Pin To Net: NetName=OUT_1_N Pin=U601-12
+Added Pin To Net: NetName=GND Pin=U601-13
+Added Pin To Net: NetName=REFIN Pin=U601-14
+Added Pin To Net: NetName=+3V3A Pin=U601-15
+Added Pin To Net: NetName=ADC_S\Y\N\C\ Pin=U601-16
+Added Pin To Net: NetName=ADC_C\S\ Pin=U601-17
+Added Pin To Net: NetName=ADC_D\R\D\Y\ Pin=U601-18
+Added Pin To Net: NetName=ADC_SCLK Pin=U601-19
+Added Pin To Net: NetName=ADC_DOUT Pin=U601-20
+Added Pin To Net: NetName=ADC_DIN Pin=U601-21
+Added Pin To Net: NetName=XTAL2 Pin=U601-22
+Added Pin To Net: NetName=XTAL1 Pin=U601-23
+Added Pin To Net: NetName=CAP Pin=U601-24
+Added Pin To Net: NetName=GND Pin=U601-25
+Added Pin To Net: NetName=+3V3 Pin=U601-26
+Added Pin To Net: NetName=GND Pin=U601-28
+Added Pin To Net: NetName=OUT_8_P Pin=U601-29
+Added Pin To Net: NetName=OUT_8_N Pin=U601-30
+Added Pin To Net: NetName=OUT_7_N Pin=U601-31
+Added Pin To Net: NetName=OUT_7_P Pin=U601-32
+Add Pin To Net: Unknown Pin: Pin U801-4
+Add Pin To Net: Unknown Pin: Pin U801-5
+Add Pin To Net: Unknown Pin: Pin U801-6
+Add Pin To Net: Unknown Pin: Pin U802-1
+Add Pin To Net: Unknown Pin: Pin U802-2
+Add Pin To Net: Unknown Pin: Pin U802-3
+Add Pin To Net: Unknown Pin: Pin U802-4
+Add Pin To Net: Unknown Pin: Pin U802-5
+Add Pin To Net: Unknown Pin: Pin U802-6
+Add Pin To Net: Unknown Pin: Pin U803-1
+Add Pin To Net: Unknown Pin: Pin U803-2
+Add Pin To Net: Unknown Pin: Pin U803-3
+Add Pin To Net: Unknown Pin: Pin U803-4
+Add Pin To Net: Unknown Pin: Pin U803-5
+Add Pin To Net: Unknown Pin: Pin U901-1
+Add Pin To Net: Unknown Pin: Pin U901-2
+Add Pin To Net: Unknown Pin: Pin U901-3
+Add Pin To Net: Unknown Pin: Pin U901-7
+Add Pin To Net: Unknown Pin: Pin U901-9
+Add Pin To Net: Unknown Pin: Pin U901-10
+Add Pin To Net: Unknown Pin: Pin U901-11
+Add Pin To Net: Unknown Pin: Pin U901-12
+Add Pin To Net: Unknown Pin: Pin U901-13
+Add Pin To Net: Unknown Pin: Pin U901-15
+Add Pin To Net: Unknown Pin: Pin U901-17
+Add Pin To Net: Unknown Pin: Pin U901-18
+Add Pin To Net: Unknown Pin: Pin U901-27
+Add Pin To Net: Unknown Pin: Pin U901-28
+Add Pin To Net: Unknown Pin: Pin U901-29
+Add Pin To Net: Unknown Pin: Pin U901-30
+Add Pin To Net: Unknown Pin: Pin U901-31
+Add Pin To Net: Unknown Pin: Pin U901-32
+Add Pin To Net: Unknown Pin: Pin U901-33
+Add Pin To Net: Unknown Pin: Pin U1001-1
+Add Pin To Net: Unknown Pin: Pin U1001-2
+Add Pin To Net: Unknown Pin: Pin U1001-3
+Add Pin To Net: Unknown Pin: Pin U1001-4
+Add Pin To Net: Unknown Pin: Pin U1001-5
+Add Pin To Net: Unknown Pin: Pin U1001-6
+Add Pin To Net: Unknown Pin: Pin U1001-7
+Add Pin To Net: Unknown Pin: Pin U1001-9
+Add Pin To Net: Unknown Pin: Pin U1001-10
+Add Pin To Net: Unknown Pin: Pin U1001-11
+Add Pin To Net: Unknown Pin: Pin U1002-1
+Add Pin To Net: Unknown Pin: Pin U1002-2
+Add Pin To Net: Unknown Pin: Pin U1002-3
+Add Pin To Net: Unknown Pin: Pin U1002-4
+Add Pin To Net: Unknown Pin: Pin U1002-5
+Add Pin To Net: Unknown Pin: Pin U1002-6
+Add Pin To Net: Unknown Pin: Pin U1003-1
+Add Pin To Net: Unknown Pin: Pin U1003-2
+Add Pin To Net: Unknown Pin: Pin U1003-3
+Add Pin To Net: Unknown Pin: Pin U1003-4
+Add Pin To Net: Unknown Pin: Pin U1003-5
+Add Pin To Net: Unknown Pin: Pin U1101-1
+Add Pin To Net: Unknown Pin: Pin U1101-2
+Add Pin To Net: Unknown Pin: Pin U1101-3
+Add Pin To Net: Unknown Pin: Pin U1101-4
+Add Pin To Net: Unknown Pin: Pin U1101-5
+Add Pin To Net: Unknown Pin: Pin U1101-6
+Add Pin To Net: Unknown Pin: Pin U1101-7
+Add Pin To Net: Unknown Pin: Pin U1101-8
+Add Pin To Net: Unknown Pin: Pin U1401-1
+Add Pin To Net: Unknown Pin: Pin U1401-2
+Add Pin To Net: Unknown Pin: Pin U1401-3
+Add Pin To Net: Unknown Pin: Pin U1401-4
+Add Pin To Net: Unknown Pin: Pin U1401-5
+Add Pin To Net: Unknown Pin: Pin U1401-6
+Add Pin To Net: Unknown Pin: Pin U1402-1
+Add Pin To Net: Unknown Pin: Pin U1402-2
+Add Pin To Net: Unknown Pin: Pin U1402-3
+Add Pin To Net: Unknown Pin: Pin U1403-1
+Add Pin To Net: Unknown Pin: Pin U1403-2
+Add Pin To Net: Unknown Pin: Pin U1403-3
+Add Pin To Net: Unknown Pin: Pin U1403-4
+Add Pin To Net: Unknown Pin: Pin U1403-5
+Add Pin To Net: Unknown Pin: Pin U1403-6
+Add Pin To Net: Unknown Pin: Pin U1404-1
+Add Pin To Net: Unknown Pin: Pin U1404-2
+Add Pin To Net: Unknown Pin: Pin U1404-3
+Add Pin To Net: Unknown Pin: Pin U1404-4
+Add Pin To Net: Unknown Pin: Pin U1404-5
+Add Pin To Net: Unknown Pin: Pin U1405-1
+Add Pin To Net: Unknown Pin: Pin U1405-2
+Add Pin To Net: Unknown Pin: Pin U1405-3
+Add Pin To Net: Unknown Pin: Pin U1405-4
+Add Pin To Net: Unknown Pin: Pin U1405-5
+Add Pin To Net: Unknown Pin: Pin U1406-1
+Add Pin To Net: Unknown Pin: Pin U1406-2
+Add Pin To Net: Unknown Pin: Pin U1406-3
+Add Pin To Net: Unknown Pin: Pin U1406-4
+Add Pin To Net: Unknown Pin: Pin U1406-5
+Add Pin To Net: Unknown Pin: Pin U1406-6
+Add Pin To Net: Unknown Pin: Pin U1406-7
+Add Pin To Net: Unknown Pin: Pin U1406-8
+Add Pin To Net: Unknown Pin: Pin U1406-9
+Add Pin To Net: Unknown Pin: Pin U1406-10
+Add Pin To Net: Unknown Pin: Pin U1406-11
+Add Pin To Net: Unknown Pin: Pin U1406-12
+Add Pin To Net: Unknown Pin: Pin U1406-13
+Add Pin To Net: Unknown Pin: Pin U1406-14
+Add Pin To Net: Unknown Pin: Pin U1406-15
+Add Pin To Net: Unknown Pin: Pin U1406-16
+Add Pin To Net: Unknown Pin: Pin U1406-17
+Add Pin To Net: Unknown Pin: Pin U1501-1
+Add Pin To Net: Unknown Pin: Pin U1501-2
+Add Pin To Net: Unknown Pin: Pin U1501-3
+Add Pin To Net: Unknown Pin: Pin U1501-4
+Add Pin To Net: Unknown Pin: Pin U1501-5
+Add Pin To Net: Unknown Pin: Pin U1501-6
+Add Pin To Net: Unknown Pin: Pin U1501-7
+Add Pin To Net: Unknown Pin: Pin U1501-9
+Add Pin To Net: Unknown Pin: Pin U1501-10
+Add Pin To Net: Unknown Pin: Pin U1501-11
+Add Pin To Net: Unknown Pin: Pin U1502-1
+Add Pin To Net: Unknown Pin: Pin U1502-2
+Add Pin To Net: Unknown Pin: Pin U1502-3
+Add Pin To Net: Unknown Pin: Pin U1502-4
+Add Pin To Net: Unknown Pin: Pin U1502-5
+Add Pin To Net: Unknown Pin: Pin U1601-1
+Add Pin To Net: Unknown Pin: Pin U1601-2
+Add Pin To Net: Unknown Pin: Pin U1601-3
+Add Pin To Net: Unknown Pin: Pin U1601-4
+Add Pin To Net: Unknown Pin: Pin U1601-5
+Add Pin To Net: Unknown Pin: Pin U1601-6
+Add Pin To Net: Unknown Pin: Pin U1601-7
+Add Pin To Net: Unknown Pin: Pin U1601-8
+Add Pin To Net: Unknown Pin: Pin U1601-9
+Add Pin To Net: Unknown Pin: Pin U1601-10
+Add Pin To Net: Unknown Pin: Pin U1601-12
+Add Pin To Net: Unknown Pin: Pin U1601-13
+Add Pin To Net: Unknown Pin: Pin U1602-1
+Add Pin To Net: Unknown Pin: Pin U1602-2
+Add Pin To Net: Unknown Pin: Pin U1602-3
+Add Pin To Net: Unknown Pin: Pin U1602-4
+Add Pin To Net: Unknown Pin: Pin U1602-5
+Add Pin To Net: Unknown Pin: Pin U1603-1
+Add Pin To Net: Unknown Pin: Pin U1603-2
+Add Pin To Net: Unknown Pin: Pin U1603-3
+Add Pin To Net: Unknown Pin: Pin U1603-4
+Add Pin To Net: Unknown Pin: Pin U1603-5
+Add Pin To Net: Unknown Pin: Pin U1604-1
+Add Pin To Net: Unknown Pin: Pin U1604-2
+Add Pin To Net: Unknown Pin: Pin U1604-3
+Add Pin To Net: Unknown Pin: Pin U1604-4
+Add Pin To Net: Unknown Pin: Pin U1604-5
+Add Pin To Net: Unknown Pin: Pin Y401-1
+Add Pin To Net: Unknown Pin: Pin Y401-2
+Add Pin To Net: Unknown Pin: Pin Y401-3
+Add Pin To Net: Unknown Pin: Pin Y401-4
+Add Pin To Net: Unknown Pin: Pin Y601-1
+Add Pin To Net: Unknown Pin: Pin Y601-2
+Add Pin To Net: Unknown Pin: Pin Y601-3
+Add Pin To Net: Unknown Pin: Pin Y601-4
+Add Pin To Net: Unknown Pin: Pin Y901-1
+Add Pin To Net: Unknown Pin: Pin Y901-2
+Add Pin To Net: Unknown Pin: Pin Y901-3
+Add Pin To Net: Unknown Pin: Pin Y901-4
+Add Pin To Net: Unknown Pin: Pin Y1001-1
+Add Pin To Net: Unknown Pin: Pin Y1001-2
+Add Net: Net with name "VBUS_I_SENS" already exists
+Add Class Member: Failed to add class member : Component ANT901 2.4GHz
+Added Member To Class: ClassName=MCU_Power Member=Component C301 1u
+Added Member To Class: ClassName=MCU_Power Member=Component C302 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C303 4u7
+Added Member To Class: ClassName=MCU_Power Member=Component C304 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C305 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C306 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C307 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C308 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C309 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C310 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C311 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C312 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C313 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C314 1u
+Added Member To Class: ClassName=MCU_Power Member=Component C315 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C316 1u
+Added Member To Class: ClassName=MCU_Power Member=Component C317 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C318 4u7
+Added Member To Class: ClassName=MCU_Power Member=Component C319 1u
+Added Member To Class: ClassName=MCU_Power Member=Component C320 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C321 4u7
+Added Member To Class: ClassName=MCU_Power Member=Component C322 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C323 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C324 100n
+Added Member To Class: ClassName=MCU_Power Member=Component C325 4u7
+Added Member To Class: ClassName=MCU_Power Member=Component C326 4u7
+Added Member To Class: ClassName=MCU_Power Member=Component C327 4u7
+Added Member To Class: ClassName=Designator Member=Component C401 10p
+Added Member To Class: ClassName=Designator Member=Component C402 10p
+Added Member To Class: ClassName=Designator Member=Component C403 100n
+Added Member To Class: ClassName=Designator Member=Component C404 100n
+Added Member To Class: ClassName=SDRAM Member=Component C501 1u
+Added Member To Class: ClassName=SDRAM Member=Component C502 100n
+Added Member To Class: ClassName=SDRAM Member=Component C503 100n
+Added Member To Class: ClassName=SDRAM Member=Component C504 100n
+Added Member To Class: ClassName=SDRAM Member=Component C505 1u
+Added Member To Class: ClassName=SDRAM Member=Component C506 100n
+Added Member To Class: ClassName=SDRAM Member=Component C507 100n
+Added Member To Class: ClassName=SDRAM Member=Component C508 100n
+Added Member To Class: ClassName=SDRAM Member=Component C509 100n
+Added Member To Class: ClassName=ADC Member=Component C601 1u
+Added Member To Class: ClassName=ADC Member=Component C602 100n
+Added Member To Class: ClassName=ADC Member=Component C603 1u
+Added Member To Class: ClassName=ADC Member=Component C604 100n
+Added Member To Class: ClassName=ADC Member=Component C605 100n
+Added Member To Class: ClassName=ADC Member=Component C606 220n
+Added Member To Class: ClassName=ADC Member=Component C607 10p
+Added Member To Class: ClassName=ADC Member=Component C608 10p
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component C701_1 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend2 Member=Component C701_2 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component C701_3 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend4 Member=Component C701_4 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component C701_5 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend6 Member=Component C701_6 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component C701_7 (C701) 8n2
+Added Member To Class: ClassName=CH0 Member=Component C701_8 (C701) 8n2
+Added Member To Class: ClassName=USB Member=Component C801 1u
+Added Member To Class: ClassName=USB Member=Component C802 100n
+Added Member To Class: ClassName=USB Member=Component C803 100n
+Added Member To Class: ClassName=ESP32 Member=Component C901 1u
+Added Member To Class: ClassName=ESP32 Member=Component C902 100n
+Added Member To Class: ClassName=ESP32 Member=Component C903 100n
+Added Member To Class: ClassName=ESP32 Member=Component C904 100n
+Added Member To Class: ClassName=ESP32 Member=Component C905 100n
+Added Member To Class: ClassName=ESP32 Member=Component C906 100n
+Added Member To Class: ClassName=ESP32 Member=Component C907 1u
+Added Member To Class: ClassName=ESP32 Member=Component C908 100n
+Added Member To Class: ClassName=ESP32 Member=Component C909 100n
+Added Member To Class: ClassName=ESP32 Member=Component C910 1u
+Added Member To Class: ClassName=ESP32 Member=Component C911 10p
+Added Member To Class: ClassName=ESP32 Member=Component C912 10p
+Added Member To Class: ClassName=ESP32 Member=Component C913 3p3
+Added Member To Class: ClassName=ESP32 Member=Component C914 3p3
+Added Member To Class: ClassName=RTC Member=Component C1001 1u
+Added Member To Class: ClassName=RTC Member=Component C1002 100n
+Added Member To Class: ClassName=RTC Member=Component C1003 100n
+Add Class Member: Failed to add class member : Component C1004 1F
+Added Member To Class: ClassName=RTC Member=Component C1005 100n
+Added Member To Class: ClassName=RTC Member=Component C1006 100n
+Added Member To Class: ClassName=EEPROM Member=Component C1101 100n
+Added Member To Class: ClassName=SD Card Member=Component C1201 1u
+Added Member To Class: ClassName=SD Card Member=Component C1202 100n
+Added Member To Class: ClassName=SD Card Member=Component C1203 1u
+Added Member To Class: ClassName=LCD Member=Component C1301 100n
+Added Member To Class: ClassName=LCD Member=Component C1302 1u
+Added Member To Class: ClassName=LCD Member=Component C1303 10u
+Added Member To Class: ClassName=Battery_Charging Member=Component C1401 100n
+Added Member To Class: ClassName=Battery_Charging Member=Component C1402 100n
+Added Member To Class: ClassName=Battery_Charging Member=Component C1403 100n
+Added Member To Class: ClassName=Battery_Charging Member=Component C1404 100n
+Added Member To Class: ClassName=Battery_Charging Member=Component C1405 4u7
+Added Member To Class: ClassName=Battery_Charging Member=Component C1406 4u7
+Added Member To Class: ClassName=Battery_Charging Member=Component C1407 4u7
+Added Member To Class: ClassName=Battery_Charging Member=Component C1408 4u7
+Added Member To Class: ClassName=5V_Regulator Member=Component C1501 22u
+Added Member To Class: ClassName=5V_Regulator Member=Component C1502 100n
+Added Member To Class: ClassName=5V_Regulator Member=Component C1503 22u
+Added Member To Class: ClassName=5V_Regulator Member=Component C1504 100n
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1601 4u7
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1602 4u7
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1603 220n
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1604 220n
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1605 47u
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1606 100n
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1607 1u
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1608 100n
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1609 22u
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1610 10n
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1611 22u
+Added Member To Class: ClassName=3V3_Regulators Member=Component C1612 100n
+Add Class Member: Failed to add class member : Component D401 LTST-C19HE1WT
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component D701_1 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend2 Member=Component D701_2 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component D701_3 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend4 Member=Component D701_4 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component D701_5 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend6 Member=Component D701_6 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component D701_7 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=CH0 Member=Component D701_8 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component D702_1 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend2 Member=Component D702_2 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component D702_3 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend4 Member=Component D702_4 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component D702_5 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend6 Member=Component D702_6 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component D702_7 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=CH0 Member=Component D702_8 (D702) DF2S23P2CTC,L3F
+Add Class Member: Failed to add class member : Component D1001 BAS100AS_R1_00001
+Add Class Member: Failed to add class member : Component D1401 CYAN
+Add Class Member: Failed to add class member : Component D1402 CYAN
+Add Class Member: Failed to add class member : Component D1403 CYAN
+Add Class Member: Failed to add class member : Component D1404 CYAN
+Add Class Member: Failed to add class member : Component D1405 CYAN
+Add Class Member: Failed to add class member : Component D1501 CYAN
+Add Class Member: Failed to add class member : Component D1601 CYAN
+Add Class Member: Failed to add class member : Component D1602 CYAN
+Add Class Member: Failed to add class member : Component F1401 1A
+Add Class Member: Failed to add class member : Component F1402 1A
+Add Class Member: Failed to add class member : Component F1501 1A
+Add Class Member: Failed to add class member : Component F1601 1A
+Add Class Member: Failed to add class member : Component F1602 100mA
+Add Class Member: Failed to add class member : Component J401 3220-10-0100-00
+Added Member To Class: ClassName=ADC Member=Component J601 610116249121
+Add Class Member: Failed to add class member : Component J602 M20-7920842R
+Add Class Member: Failed to add class member : Component J801 USB4105-GF-A
+Add Class Member: Failed to add class member : Component J901 U.FL-R-SMT-1(10)
+Add Class Member: Failed to add class member : Component J902 HEADER_2x3_2.54mm
+Add Class Member: Failed to add class member : Component J1201 MSD-1-A
+Add Class Member: Failed to add class member : Component J1301 16249
+Added Member To Class: ClassName=Battery_Charging Member=Component J1401 18650
+Add Class Member: Failed to add class member : Component L901 Value
+Add Class Member: Failed to add class member : Component L902 2n2
+Add Class Member: Failed to add class member : Component L1501 IHLP2020BZER1R0M11
+Add Class Member: Failed to add class member : Component L1601 1u5
+Add Class Member: Failed to add class member : Component Q1401 DMP2045U-7
+Add Class Member: Failed to add class member : Component Q1402 DMP2045U-7
+Added Member To Class: ClassName=Designator Member=Component R401 10k
+Added Member To Class: ClassName=Designator Member=Component R402 10k
+Added Member To Class: ClassName=Designator Member=Component R403 10k
+Added Member To Class: ClassName=Designator Member=Component R404 10k
+Added Member To Class: ClassName=Designator Member=Component R405 10k
+Added Member To Class: ClassName=Designator Member=Component R406 10k
+Added Member To Class: ClassName=Designator Member=Component R407 10k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R701_1 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend2 Member=Component R701_2 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R701_3 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend4 Member=Component R701_4 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R701_5 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend6 Member=Component R701_6 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R701_7 (R701) 10k
+Added Member To Class: ClassName=CH0 Member=Component R701_8 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R702_1 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend2 Member=Component R702_2 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R702_3 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend4 Member=Component R702_4 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R702_5 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend6 Member=Component R702_6 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R702_7 (R702) 649k
+Added Member To Class: ClassName=CH0 Member=Component R702_8 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R703_1 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend2 Member=Component R703_2 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R703_3 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend4 Member=Component R703_4 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R703_5 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend6 Member=Component R703_6 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R703_7 (R703) 94k
+Added Member To Class: ClassName=CH0 Member=Component R703_8 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R704_1 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend2 Member=Component R704_2 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R704_3 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend4 Member=Component R704_4 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R704_5 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend6 Member=Component R704_6 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R704_7 (R704) 10k
+Added Member To Class: ClassName=CH0 Member=Component R704_8 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R705_1 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend2 Member=Component R705_2 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R705_3 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend4 Member=Component R705_4 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R705_5 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend6 Member=Component R705_6 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R705_7 (R705) 649k
+Added Member To Class: ClassName=CH0 Member=Component R705_8 (R705) 649k
+Added Member To Class: ClassName=USB Member=Component R801 5k1
+Added Member To Class: ClassName=USB Member=Component R802 5k1
+Added Member To Class: ClassName=USB Member=Component R803 10mR
+Added Member To Class: ClassName=USB Member=Component R804 Value
+Added Member To Class: ClassName=USB Member=Component R805 75k
+Added Member To Class: ClassName=USB Member=Component R806 75k
+Added Member To Class: ClassName=USB Member=Component R807 100k
+Added Member To Class: ClassName=USB Member=Component R808 100k
+Added Member To Class: ClassName=USB Member=Component R809 10k
+Added Member To Class: ClassName=ESP32 Member=Component R901 10k
+Added Member To Class: ClassName=ESP32 Member=Component R902 0R
+Added Member To Class: ClassName=ESP32 Member=Component R903 0R
+Added Member To Class: ClassName=RTC Member=Component R1001 2k2
+Added Member To Class: ClassName=RTC Member=Component R1002 2k2
+Added Member To Class: ClassName=RTC Member=Component R1003 2k2
+Added Member To Class: ClassName=RTC Member=Component R1004 10R
+Added Member To Class: ClassName=RTC Member=Component R1005 10mR
+Added Member To Class: ClassName=RTC Member=Component R1006 10k
+Added Member To Class: ClassName=RTC Member=Component R1007 10k
+Added Member To Class: ClassName=RTC Member=Component R1008 100k
+Added Member To Class: ClassName=RTC Member=Component R1009 10k
+Added Member To Class: ClassName=RTC Member=Component R1010 10k
+Added Member To Class: ClassName=EEPROM Member=Component R1101 2k2
+Added Member To Class: ClassName=EEPROM Member=Component R1102 2k2
+Added Member To Class: ClassName=SD Card Member=Component R1201 22R
+Added Member To Class: ClassName=SD Card Member=Component R1202 22R
+Added Member To Class: ClassName=SD Card Member=Component R1203 22R
+Added Member To Class: ClassName=SD Card Member=Component R1204 22R
+Added Member To Class: ClassName=SD Card Member=Component R1205 22R
+Added Member To Class: ClassName=SD Card Member=Component R1206 22R
+Added Member To Class: ClassName=SD Card Member=Component R1207 10k
+Added Member To Class: ClassName=LCD Member=Component R1301 2k2
+Added Member To Class: ClassName=LCD Member=Component R1301 10k
+Added Member To Class: ClassName=LCD Member=Component R1302 2k2
+Added Member To Class: ClassName=LCD Member=Component R1303 2k2
+Added Member To Class: ClassName=LCD Member=Component R1304 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1401 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1402 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1403 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1404 75k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1405 100k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1406 100k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1407 75k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1408 75k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1409 100k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1410 100k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1411 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1412 1k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1413 100k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1414 10mR
+Added Member To Class: ClassName=Battery_Charging Member=Component R1415 1k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1416 1k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1417 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1418 10mR
+Added Member To Class: ClassName=Battery_Charging Member=Component R1419 1k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1420 1k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1421 100k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1422 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1423 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1424 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1425 10k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1426 0R
+Added Member To Class: ClassName=Battery_Charging Member=Component R1427 47k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1428 3k
+Added Member To Class: ClassName=Battery_Charging Member=Component R1429 6k8
+Added Member To Class: ClassName=Battery_Charging Member=Component R1430 6k8
+Added Member To Class: ClassName=Battery_Charging Member=Component R1431 10k
+Added Member To Class: ClassName=5V_Regulator Member=Component R1501 75k
+Added Member To Class: ClassName=5V_Regulator Member=Component R1502 75k
+Added Member To Class: ClassName=5V_Regulator Member=Component R1503 100k
+Added Member To Class: ClassName=5V_Regulator Member=Component R1504 100k
+Added Member To Class: ClassName=5V_Regulator Member=Component R1505 10k
+Added Member To Class: ClassName=5V_Regulator Member=Component R1506 1k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1601 7k5
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1602 100k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1603 1k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1604 1k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1605 10k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1606 10k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1607 100k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1608 1k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1609 1k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1610 10k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1611 10k
+Added Member To Class: ClassName=3V3_Regulators Member=Component R1612 100k
+Add Class Member: Failed to add class member : Component SW401 TS21-34-035-BK-160-SMT-TR
+Add Class Member: Failed to add class member : Component SW402 TS21-34-035-BK-160-SMT-TR
+Add Class Member: Failed to add class member : Component SW1401 OS102011MA1QN1
+Add Class Member: Failed to add class member : Component TP301 Net
+Add Class Member: Failed to add class member : Component TP302 Net
+Add Class Member: Failed to add class member : Component TP401 Net
+Add Class Member: Failed to add class member : Component TP402 Net
+Add Class Member: Failed to add class member : Component TP402 Net
+Add Class Member: Failed to add class member : Component TP403 Net
+Add Class Member: Failed to add class member : Component TP404 Net
+Add Class Member: Failed to add class member : Component TP405 Net
+Add Class Member: Failed to add class member : Component TP406 Net
+Add Class Member: Failed to add class member : Component TP601 Net
+Add Class Member: Failed to add class member : Component TP602 Net
+Add Class Member: Failed to add class member : Component TP603 Net
+Add Class Member: Failed to add class member : Component TP604 Net
+Add Class Member: Failed to add class member : Component TP605 Net
+Add Class Member: Failed to add class member : Component TP607 Net
+Add Class Member: Failed to add class member : Component TP608 Net
+Add Class Member: Failed to add class member : Component TP609 Net
+Add Class Member: Failed to add class member : Component TP610 Net
+Add Class Member: Failed to add class member : Component TP611 Net
+Add Class Member: Failed to add class member : Component TP612 Net
+Add Class Member: Failed to add class member : Component TP613 Net
+Add Class Member: Failed to add class member : Component TP614 Net
+Add Class Member: Failed to add class member : Component TP615 Net
+Add Class Member: Failed to add class member : Component TP616 Net
+Add Class Member: Failed to add class member : Component TP617 Net
+Add Class Member: Failed to add class member : Component TP618 Net
+Add Class Member: Failed to add class member : Component TP619 Net
+Add Class Member: Failed to add class member : Component TP620 Net
+Add Class Member: Failed to add class member : Component TP621 Net
+Add Class Member: Failed to add class member : Component TP622 Net
+Add Class Member: Failed to add class member : Component TP623 Net
+Add Class Member: Failed to add class member : Component TP624 Net
+Add Class Member: Failed to add class member : Component TP625 Net
+Add Class Member: Failed to add class member : Component TP626 Net
+Add Class Member: Failed to add class member : Component TP627 Net
+Add Class Member: Failed to add class member : Component TP628 Net
+Add Class Member: Failed to add class member : Component TP629 Net
+Add Class Member: Failed to add class member : Component TP630 Net
+Add Class Member: Failed to add class member : Component TP631 Net
+Add Class Member: Failed to add class member : Component TP632 Net
+Add Class Member: Failed to add class member : Component TP633 Net
+Add Class Member: Failed to add class member : Component TP634 Net
+Add Class Member: Failed to add class member : Component TP635 Net
+Add Class Member: Failed to add class member : Component TP636 Net
+Add Class Member: Failed to add class member : Component TP637 Net
+Add Class Member: Failed to add class member : Component TP638 Net
+Add Class Member: Failed to add class member : Component TP639 Net
+Add Class Member: Failed to add class member : Component TP801 Net
+Add Class Member: Failed to add class member : Component TP802 Net
+Add Class Member: Failed to add class member : Component TP803 Net
+Add Class Member: Failed to add class member : Component TP901 Net
+Add Class Member: Failed to add class member : Component TP902 Net
+Add Class Member: Failed to add class member : Component TP903 Net
+Add Class Member: Failed to add class member : Component TP904 Net
+Add Class Member: Failed to add class member : Component TP905 Net
+Add Class Member: Failed to add class member : Component TP906 Net
+Add Class Member: Failed to add class member : Component TP907 Net
+Add Class Member: Failed to add class member : Component TP908 Net
+Add Class Member: Failed to add class member : Component TP1001 Net
+Add Class Member: Failed to add class member : Component TP1002 Net
+Add Class Member: Failed to add class member : Component TP1003 Net
+Add Class Member: Failed to add class member : Component TP1004 Net
+Add Class Member: Failed to add class member : Component TP1005 Net
+Add Class Member: Failed to add class member : Component TP1006 Net
+Add Class Member: Failed to add class member : Component TP1101 Net
+Add Class Member: Failed to add class member : Component TP1102 Net
+Add Class Member: Failed to add class member : Component TP1103 Net
+Add Class Member: Failed to add class member : Component TP1201 Net
+Add Class Member: Failed to add class member : Component TP1202 Net
+Add Class Member: Failed to add class member : Component TP1203 Net
+Add Class Member: Failed to add class member : Component TP1204 Net
+Add Class Member: Failed to add class member : Component TP1205 Net
+Add Class Member: Failed to add class member : Component TP1206 Net
+Add Class Member: Failed to add class member : Component TP1207 Net
+Add Class Member: Failed to add class member : Component TP1301 Net
+Add Class Member: Failed to add class member : Component TP1302 Net
+Add Class Member: Failed to add class member : Component TP1303 Net
+Add Class Member: Failed to add class member : Component TP1304 Net
+Add Class Member: Failed to add class member : Component TP1305 Net
+Add Class Member: Failed to add class member : Component TP1306 Net
+Add Class Member: Failed to add class member : Component TP1307 Net
+Add Class Member: Failed to add class member : Component TP1308 Net
+Add Class Member: Failed to add class member : Component TP1309 Net
+Add Class Member: Failed to add class member : Component TP1310 Net
+Add Class Member: Failed to add class member : Component TP1311 Net
+Add Class Member: Failed to add class member : Component TP1312 Net
+Add Class Member: Failed to add class member : Component TP1313 Net
+Add Class Member: Failed to add class member : Component TP1314 Net
+Add Class Member: Failed to add class member : Component TP1315 Net
+Add Class Member: Failed to add class member : Component TP1316 Net
+Add Class Member: Failed to add class member : Component TP1317 Net
+Add Class Member: Failed to add class member : Component TP1318 Net
+Add Class Member: Failed to add class member : Component TP1319 Net
+Add Class Member: Failed to add class member : Component TP1320 Net
+Add Class Member: Failed to add class member : Component TP1321 Net
+Add Class Member: Failed to add class member : Component TP1322 Net
+Add Class Member: Failed to add class member : Component TP1323 Net
+Add Class Member: Failed to add class member : Component TP1324 Net
+Add Class Member: Failed to add class member : Component TP1325 Net
+Add Class Member: Failed to add class member : Component TP1326 Net
+Add Class Member: Failed to add class member : Component TP1327 Net
+Add Class Member: Failed to add class member : Component TP1328 Net
+Add Class Member: Failed to add class member : Component TP1329 Net
+Add Class Member: Failed to add class member : Component TP1330 Net
+Add Class Member: Failed to add class member : Component TP1331 Net
+Add Class Member: Failed to add class member : Component TP1332 Net
+Add Class Member: Failed to add class member : Component TP1333 Net
+Add Class Member: Failed to add class member : Component TP1401 Net
+Add Class Member: Failed to add class member : Component TP1402 Net
+Add Class Member: Failed to add class member : Component TP1403 Net
+Add Class Member: Failed to add class member : Component TP1404 Net
+Add Class Member: Failed to add class member : Component TP1405 Net
+Add Class Member: Failed to add class member : Component TP1406 Net
+Add Class Member: Failed to add class member : Component TP1407 Net
+Add Class Member: Failed to add class member : Component TP1408 Net
+Add Class Member: Failed to add class member : Component TP1409 Net
+Add Class Member: Failed to add class member : Component TP1410 Net
+Add Class Member: Failed to add class member : Component TP1501 Net
+Add Class Member: Failed to add class member : Component TP1502 Net
+Add Class Member: Failed to add class member : Component TP1503 Net
+Add Class Member: Failed to add class member : Component TP1504 Net
+Add Class Member: Failed to add class member : Component TP1601 Net
+Add Class Member: Failed to add class member : Component TP1602 Net
+Add Class Member: Failed to add class member : Component TP1603 Net
+Add Class Member: Failed to add class member : Component TP1604 Net
+Add Class Member: Failed to add class member : Component TP1605 Net
+Added Member To Class: ClassName=MCU_Power Member=Component U201 STM32H725IGK3
+Added Member To Class: ClassName=SDRAM Member=Component U501 AS4C8M16SA-6BINTR
+Added Member To Class: ClassName=ADC Member=Component U601 ADS131M08IRSNT
+Add Class Member: Failed to add class member : Component U801 USBLC6-2SC6Y
+Add Class Member: Failed to add class member : Component U802 INA181A2IDBVR
+Add Class Member: Failed to add class member : Component U803 MCP6071
+Add Class Member: Failed to add class member : Component U901 ESP32-C3FH4X
+Add Class Member: Failed to add class member : Component U1001 PCF85363ATL
+Add Class Member: Failed to add class member : Component U1002 INA181A2IDBVR
+Add Class Member: Failed to add class member : Component U1003 MCP6071
+Add Class Member: Failed to add class member : Component U1101 M24C02-WMN6TP
+Add Class Member: Failed to add class member : Component U1401 INA181A2IDBVR
+Add Class Member: Failed to add class member : Component U1402 REF3016EAIDBZR
+Add Class Member: Failed to add class member : Component U1403 INA181A2IDBVR
+Add Class Member: Failed to add class member : Component U1404 MCP6071
+Add Class Member: Failed to add class member : Component U1405 MCP6071
+Add Class Member: Failed to add class member : Component U1406 BQ2474
+Add Class Member: Failed to add class member : Component U1501 TPS61232DRC
+Add Class Member: Failed to add class member : Component U1502 MCP6071
+Add Class Member: Failed to add class member : Component U1601 LM63615DQDRRRQ1
+Add Class Member: Failed to add class member : Component U1602 MCP6071
+Add Class Member: Failed to add class member : Component U1603 TPS79933DDC
+Add Class Member: Failed to add class member : Component U1604 MCP6071
+Add Class Member: Failed to add class member : Component Y401 STDCZS1-25M
+Add Class Member: Failed to add class member : Component Y601 LFXTAL061486
+Add Class Member: Failed to add class member : Component Y901 ECS-400-10-37B2-CKY-TR
+Add Class Member: Failed to add class member : Component Y1001 SC32S-7PF20PPM

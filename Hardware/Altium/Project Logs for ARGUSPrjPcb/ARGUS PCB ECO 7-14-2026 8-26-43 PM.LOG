@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A0
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A1
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A2
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A3
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A4
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A5
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A6
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A7
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A8
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A9
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A10
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_A11
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_BA0
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_BA1
+Added Class: Name=SDRAM_ACC

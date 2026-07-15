@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=SDRAM_DATA Member=LTDC_B0
+Removed Member From Class: ClassName=SDRAM_DATA Member=LTDC_B1
+Removed Member From Class: ClassName=SDRAM_DATA Member=LTDC_B2
+Removed Member From Class: ClassName=SDRAM_DATA Member=LTDC_B3
+Removed Member From Class: ClassName=SDRAM_DATA Member=LTDC_B4
+Removed Member From Class: ClassName=SDRAM_DATA Member=LTDC_B5
+Removed Member From Class: ClassName=SDRAM_DATA Member=LTDC_B6
+Removed Member From Class: ClassName=SDRAM_DATA Member=LTDC_B7
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ0
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ1
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ2
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ3
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ4
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ5
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ6
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ7
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ8
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ9
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ10
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ11
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ12
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ13
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ14
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ15
+Change Class Name : Old Net Name=SDRAM_DATA New Net Name=LTDC_RED
+Added Class: Name=LTDC_BLUE
+Added Class: Name=LTDC_GREEN
+Added Class: Name=SDRAM_DATA
