@@ -1,0 +1,10 @@
+Added Component: Designator=J902(M20-8760342)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1922-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J902-1
+Added Pin To Net: NetName=GND Pin=J902-2
+Added Pin To Net: NetName=ESP_PROG_TX Pin=J902-3
+Added Pin To Net: NetName=ESP_PROG_RX Pin=J902-4
+Added Pin To Net: NetName=ESP_R\S\T\ Pin=J902-5
+Added Pin To Net: NetName=BOOT0 Pin=J902-6
+Added Member To Class: ClassName=ESP32 Member=Component J902 M20-8760342

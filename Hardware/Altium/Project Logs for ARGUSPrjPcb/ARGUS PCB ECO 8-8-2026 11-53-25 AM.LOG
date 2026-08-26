@@ -1,0 +1,15 @@
+Added Component: Designator=ANT901(Meandering_Inverted_F_Antenna)
+Added Pin To Net: NetName=GND Pin=ANT901-1
+Added Pin To Net: NetName=GND Pin=ANT901-1
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Member To Class: ClassName=ESP32 Member=Component ANT901 2.4GHz

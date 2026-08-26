@@ -1,0 +1,12 @@
+Added Component: Designator=D701_1(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Component: Designator=D702_1(DF2S23P2CTC,L3F)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DF2S23P2CTC,L3F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FILT_1_P Pin=D701_1-1
+Added Pin To Net: NetName=NetD701_1_2 Pin=D701_1-2
+Added Pin To Net: NetName=FILT_1_N Pin=D702_1-1
+Added Pin To Net: NetName=NetD701_1_2 Pin=D702_1-2
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component D701_1 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component D702_1 (D702) DF2S23P2CTC,L3F

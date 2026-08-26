@@ -1,0 +1,56 @@
+Change Net Name : Old Net Name=NetJ601_1 New Net Name=IN_1_P
+Change Net Name : Old Net Name=NetJ601_2 New Net Name=IN_1_N
+Change Net Name : Old Net Name=NetJ601_3 New Net Name=IN_2_P
+Change Net Name : Old Net Name=NetJ601_4 New Net Name=IN_2_N
+Change Net Name : Old Net Name=NetJ601_5 New Net Name=IN_3_P
+Change Net Name : Old Net Name=NetJ601_6 New Net Name=IN_3_N
+Change Net Name : Old Net Name=NetJ601_7 New Net Name=IN_4_P
+Change Net Name : Old Net Name=NetJ601_8 New Net Name=IN_4_N
+Change Net Name : Old Net Name=NetJ601_9 New Net Name=IN_5_P
+Change Net Name : Old Net Name=NetJ601_10 New Net Name=IN_5_N
+Change Net Name : Old Net Name=NetJ601_11 New Net Name=IN_6_P
+Change Net Name : Old Net Name=NetJ601_12 New Net Name=IN_6_N
+Change Net Name : Old Net Name=NetJ601_13 New Net Name=IN_7_P
+Change Net Name : Old Net Name=NetJ601_14 New Net Name=IN_7_N
+Change Net Name : Old Net Name=NetJ601_15 New Net Name=IN_8_P
+Change Net Name : Old Net Name=NetJ601_16 New Net Name=IN_8_N
+Change Net Name : Old Net Name=NetR702_1_2 New Net Name=AIN7_P
+Change Net Name : Old Net Name=NetR702_2_2 New Net Name=AIN6_P
+Change Net Name : Old Net Name=NetR702_3_2 New Net Name=AIN5_P
+Change Net Name : Old Net Name=NetR702_4_2 New Net Name=AIN4_P
+Change Net Name : Old Net Name=NetR702_5_2 New Net Name=AIN3_P
+Change Net Name : Old Net Name=NetR702_6_2 New Net Name=AIN2_P
+Change Net Name : Old Net Name=NetR702_7_2 New Net Name=AIN1_P
+Change Net Name : Old Net Name=NetR702_8_2 New Net Name=AIN0_P
+Change Net Name : Old Net Name=NetR703_1_2 New Net Name=AIN7_N
+Change Net Name : Old Net Name=NetR703_2_2 New Net Name=AIN6_N
+Change Net Name : Old Net Name=NetR703_3_2 New Net Name=AIN5_N
+Change Net Name : Old Net Name=NetR703_4_2 New Net Name=AIN4_N
+Change Net Name : Old Net Name=NetR703_5_2 New Net Name=AIN3_N
+Change Net Name : Old Net Name=NetR703_6_2 New Net Name=AIN2_N
+Change Net Name : Old Net Name=NetR703_7_2 New Net Name=AIN1_N
+Change Net Name : Old Net Name=NetR703_8_2 New Net Name=AIN0_N
+Added Differential Pair: Name=AIN0
+Added Differential Pair: Name=AIN1
+Added Differential Pair: Name=AIN2
+Added Differential Pair: Name=AIN3
+Added Differential Pair: Name=AIN4
+Added Differential Pair: Name=AIN5
+Added Differential Pair: Name=AIN6
+Added Differential Pair: Name=AIN7
+Added Differential Pair: Name=FILT_1
+Added Differential Pair: Name=FILT_2
+Added Differential Pair: Name=FILT_3
+Added Differential Pair: Name=FILT_4
+Added Differential Pair: Name=FILT_5
+Added Differential Pair: Name=FILT_6
+Added Differential Pair: Name=FILT_7
+Added Differential Pair: Name=FILT_8
+Added Differential Pair: Name=IN_1
+Added Differential Pair: Name=IN_2
+Added Differential Pair: Name=IN_3
+Added Differential Pair: Name=IN_4
+Added Differential Pair: Name=IN_5
+Added Differential Pair: Name=IN_6
+Added Differential Pair: Name=IN_7
+Added Differential Pair: Name=IN_8

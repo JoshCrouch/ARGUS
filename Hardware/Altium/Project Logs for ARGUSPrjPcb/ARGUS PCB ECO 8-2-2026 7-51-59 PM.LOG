@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=C401 Old Footprint=CAP_0402_B New Footprint=CAP_0402_B
+Change Physical Footprint: Designator=C402 Old Footprint=CAP_0402_B New Footprint=CAP_0402_B
+Change Physical Footprint: Designator=U201 Old Footprint=STM32H725IGK3 New Footprint=STM32H725IGK3
+Change Physical Footprint: Designator=U501 Old Footprint=AS4C8M16SA-6BINTR New Footprint=AS4C8M16SA-6BINTR

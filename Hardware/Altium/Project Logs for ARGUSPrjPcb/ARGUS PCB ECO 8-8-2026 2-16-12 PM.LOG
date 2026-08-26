@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=ANT901-2
+Removed Pin From Net: NetName=GND Pin=R903-1
+Removed Pin From Net: NetName=GND Pin=R903-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=IFA_IN Pin=ANT901-2
+Added Pin To Net: NetName=UFL_IN Pin=J901-1
+Added Pin To Net: NetName=GND Pin=J901-2
+Added Pin To Net: NetName=GND Pin=J901-3
+Added Pin To Net: NetName=ANT_IN Pin=R903-1
+Added Pin To Net: NetName=IFA_IN Pin=R903-2
+Added Member To Class: ClassName=ESP32 Member=Component ANT901 2.4GHz
+Added Member To Class: ClassName=ESP32 Member=Component J901 U.FL-R-SMT-1(10)
+Added Member To Class: ClassName=ESP32 Member=Component R903 0R

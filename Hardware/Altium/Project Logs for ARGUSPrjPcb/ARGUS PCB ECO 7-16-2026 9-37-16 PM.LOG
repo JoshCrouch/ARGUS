@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ0
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ1
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ2
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ3
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ4
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ5
+Removed Member From Class: ClassName=SDRAM_DATA Member=SDRAM_DQ6
+Change Class Name : Old Net Name=SDRAM_DATA New Net Name=SDRAM_MSB
+Added Class: Name=SDRAM_LSB
+Added Member To Class: ClassName=SDRAM Member=Component C501 1u
+Added Member To Class: ClassName=SDRAM Member=Component C504 100n
+Added Member To Class: ClassName=SDRAM Member=Component C505 1u
+Added Member To Class: ClassName=SDRAM Member=Component C506 100n
+Added Member To Class: ClassName=SDRAM Member=Component C508 100n
+Added Member To Class: ClassName=SDRAM Member=Component U501 AS4C8M16SA-6BINTR

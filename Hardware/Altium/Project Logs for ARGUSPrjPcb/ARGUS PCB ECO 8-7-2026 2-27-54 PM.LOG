@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C601 Old Footprint=CAP_0402_B New Footprint=CAP_0603_B
+Change Component Footprint: Designator=C603 Old Footprint=CAP_0402_B New Footprint=CAP_0603_B
+Change component parameters: Designator = "C601" ("C601"); Footprint = "CAP_0402_B"; UniqueID = "\PKJRFCVW\AITKODQN" ("\PKJRFCVW\AITKODQN")
+Change component parameters: Designator = "C602" ("C602"); Footprint = "CAP_0402_B"; UniqueID = "\PKJRFCVW\BICAFYCM" ("\PKJRFCVW\BICAFYCM")
+Change component parameters: Designator = "C603" ("C603"); Footprint = "CAP_0402_B"; UniqueID = "\PKJRFCVW\RXBIBHKD" ("\PKJRFCVW\RXBIBHKD")
+Change component parameters: Designator = "C604" ("C604"); Footprint = "CAP_0402_B"; UniqueID = "\PKJRFCVW\WGELPVYJ" ("\PKJRFCVW\WGELPVYJ")
