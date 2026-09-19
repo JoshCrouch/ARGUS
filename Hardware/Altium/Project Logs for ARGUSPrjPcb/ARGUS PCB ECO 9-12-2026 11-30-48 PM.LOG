@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+1V65_REF Pin=U802-5
+Change Component Designator: OldDesignator=C802 NewDesignator=C803
+Change Component Designator: OldDesignator=C803 NewDesignator=C804
+Change Component Designator: OldDesignator=U802 NewDesignator=U803
+Change Component Designator: OldDesignator=U803 NewDesignator=U804
+Added Component: Designator=C802(CAP_0402_B)
+Added Component: Designator=U802(REF3016EAIDBZR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-REF3016EAIDBZRCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3A Pin=C802-1
+Added Pin To Net: NetName=GND Pin=C802-2
+Added Pin To Net: NetName=+3V3A Pin=U802-1
+Added Pin To Net: NetName=GND Pin=U802-3
+Added Pin To Net: NetName=USB_1V65_REF Pin=U802-2
+Added Pin To Net: NetName=USB_1V65_REF Pin=U803-5
+Added Net: Name=USB_1V65_REF
+Added Member To Class: ClassName=USB Member=Component C804 100n
+Added Member To Class: ClassName=USB Member=Component U804 MCP6071T-E/OT

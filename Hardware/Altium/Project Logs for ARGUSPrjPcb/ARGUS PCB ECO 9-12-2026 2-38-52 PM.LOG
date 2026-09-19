@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+1V65_REF Pin=U1002-5
+Added Component: Designator=U1004(REF3016EAIDBZR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-REF3016EAIDBZRCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3A Pin=U1004-1
+Added Pin To Net: NetName=GND Pin=U1004-3
+Added Pin To Net: NetName=RTC_1V65_REF Pin=U1002-5
+Added Pin To Net: NetName=RTC_1V65_REF Pin=U1004-2
+Added Net: Name=RTC_1V65_REF
+Added Member To Class: ClassName=RTC Member=Component U1004 REF3016EAIDBZR

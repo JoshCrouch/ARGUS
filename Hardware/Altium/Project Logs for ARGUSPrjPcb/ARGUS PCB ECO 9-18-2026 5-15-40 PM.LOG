@@ -1,0 +1,219 @@
+Removed Member From Class: ClassName=LTDC_GREEN Member=LTDC_B0
+Removed Member From Class: ClassName=LTDC_GREEN Member=LTDC_B1
+Removed Member From Class: ClassName=LTDC_GREEN Member=LTDC_B2
+Removed Member From Class: ClassName=LTDC_GREEN Member=LTDC_B3
+Removed Member From Class: ClassName=LTDC_GREEN Member=LTDC_B4
+Removed Member From Class: ClassName=LTDC_GREEN Member=LTDC_B5
+Removed Member From Class: ClassName=LTDC_GREEN Member=LTDC_B6
+Removed Member From Class: ClassName=LTDC_GREEN Member=LTDC_B7
+Removed Member From Class: ClassName=LTDC_RED Member=LTDC_G0
+Removed Member From Class: ClassName=LTDC_RED Member=LTDC_G1
+Removed Member From Class: ClassName=LTDC_RED Member=LTDC_G2
+Removed Member From Class: ClassName=LTDC_RED Member=LTDC_G3
+Removed Member From Class: ClassName=LTDC_RED Member=LTDC_G4
+Removed Member From Class: ClassName=LTDC_RED Member=LTDC_G5
+Removed Member From Class: ClassName=LTDC_RED Member=LTDC_G6
+Removed Member From Class: ClassName=LTDC_RED Member=LTDC_G7
+Added Component: Designator=C1301(CAP_0402_B)
+Added Component: Designator=C1302(CAP_0603_B)
+Added Component: Designator=C1303(CAP_1206_B)
+Added Component: Designator=C1304(CAP_0402_B)
+Added Component: Designator=C1305(CAP_0603_B)
+Added Component: Designator=C1306(CAP_1206_B)
+Added Component: Designator=J1301(FH12-40S-0.5SH(55))
+Add component (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FH12-40S-0.5SH(55)"; VariantName = "[No Variations]"
+Added Component: Designator=R1301(RES_0402_A)
+Added Component: Designator=R1302(RES_0402_A)
+Added Component: Designator=R1303(RES_0402_A)
+Added Component: Designator=R1304(RES_0402_A)
+Added Component: Designator=R1305(RES_0402_A)
+Added Component: Designator=TP301(Unlabelled Testpoint)
+Added Component: Designator=TP302(Unlabelled Testpoint)
+Added Component: Designator=TP1301(Unlabelled Testpoint)
+Added Component: Designator=TP1302(Unlabelled Testpoint)
+Added Component: Designator=TP1303(Unlabelled Testpoint)
+Added Component: Designator=TP1304(Unlabelled Testpoint)
+Added Component: Designator=TP1305(Unlabelled Testpoint)
+Added Component: Designator=TP1306(Unlabelled Testpoint)
+Added Component: Designator=TP1307(Unlabelled Testpoint)
+Added Component: Designator=TP1308(Unlabelled Testpoint)
+Added Component: Designator=TP1309(Unlabelled Testpoint)
+Added Component: Designator=TP1310(Unlabelled Testpoint)
+Added Component: Designator=TP1311(Unlabelled Testpoint)
+Added Component: Designator=TP1312(Unlabelled Testpoint)
+Added Component: Designator=TP1313(Unlabelled Testpoint)
+Added Component: Designator=TP1314(Unlabelled Testpoint)
+Added Component: Designator=TP1315(Unlabelled Testpoint)
+Added Component: Designator=TP1316(Unlabelled Testpoint)
+Added Component: Designator=TP1317(Unlabelled Testpoint)
+Added Component: Designator=TP1318(Unlabelled Testpoint)
+Added Component: Designator=TP1319(Unlabelled Testpoint)
+Added Component: Designator=TP1320(Unlabelled Testpoint)
+Added Component: Designator=TP1321(Unlabelled Testpoint)
+Added Component: Designator=TP1322(Unlabelled Testpoint)
+Added Component: Designator=TP1323(Unlabelled Testpoint)
+Added Component: Designator=TP1324(Unlabelled Testpoint)
+Added Component: Designator=TP1325(Unlabelled Testpoint)
+Added Component: Designator=TP1326(Unlabelled Testpoint)
+Added Component: Designator=TP1327(Unlabelled Testpoint)
+Added Component: Designator=TP1328(Unlabelled Testpoint)
+Added Component: Designator=TP1329(Unlabelled Testpoint)
+Added Component: Designator=TP1330(Unlabelled Testpoint)
+Added Component: Designator=TP1331(Unlabelled Testpoint)
+Added Component: Designator=TP1332(Unlabelled Testpoint)
+Added Component: Designator=TP1333(Unlabelled Testpoint)
+Added Component: Designator=TP1334(Unlabelled Testpoint)
+Added Pin To Net: NetName=+5V Pin=C1301-1
+Added Pin To Net: NetName=GND Pin=C1301-2
+Added Pin To Net: NetName=+5V Pin=C1302-1
+Added Pin To Net: NetName=GND Pin=C1302-2
+Added Pin To Net: NetName=+5V Pin=C1303-1
+Added Pin To Net: NetName=GND Pin=C1303-2
+Added Pin To Net: NetName=+3V3 Pin=C1304-1
+Added Pin To Net: NetName=GND Pin=C1304-2
+Added Pin To Net: NetName=+3V3 Pin=C1305-1
+Added Pin To Net: NetName=GND Pin=C1305-2
+Added Pin To Net: NetName=+3V3 Pin=C1306-1
+Added Pin To Net: NetName=GND Pin=C1306-2
+Added Pin To Net: NetName=+5V Pin=J1301-1
+Added Pin To Net: NetName=+5V Pin=J1301-2
+Added Pin To Net: NetName=GND Pin=J1301-3
+Added Pin To Net: NetName=+3V3 Pin=J1301-4
+Added Pin To Net: NetName=LTDC_R0 Pin=J1301-5
+Added Pin To Net: NetName=LTDC_R1 Pin=J1301-6
+Added Pin To Net: NetName=LTDC_R2 Pin=J1301-7
+Added Pin To Net: NetName=LTDC_R3 Pin=J1301-8
+Added Pin To Net: NetName=LTDC_R4 Pin=J1301-9
+Added Pin To Net: NetName=LTDC_R5 Pin=J1301-10
+Added Pin To Net: NetName=LTDC_R6 Pin=J1301-11
+Added Pin To Net: NetName=LTDC_R7 Pin=J1301-12
+Added Pin To Net: NetName=LTDC_G0 Pin=J1301-13
+Added Pin To Net: NetName=LTDC_G1 Pin=J1301-14
+Added Pin To Net: NetName=LTDC_G2 Pin=J1301-15
+Added Pin To Net: NetName=LTDC_G3 Pin=J1301-16
+Added Pin To Net: NetName=LTDC_G4 Pin=J1301-17
+Added Pin To Net: NetName=LTDC_G5 Pin=J1301-18
+Added Pin To Net: NetName=LTDC_G6 Pin=J1301-19
+Added Pin To Net: NetName=LTDC_G7 Pin=J1301-20
+Added Pin To Net: NetName=LTDC_B0 Pin=J1301-21
+Added Pin To Net: NetName=LTDC_B1 Pin=J1301-22
+Added Pin To Net: NetName=LTDC_B2 Pin=J1301-23
+Added Pin To Net: NetName=LTDC_B3 Pin=J1301-24
+Added Pin To Net: NetName=LTDC_B4 Pin=J1301-25
+Added Pin To Net: NetName=LTDC_B5 Pin=J1301-26
+Added Pin To Net: NetName=LTDC_B6 Pin=J1301-27
+Added Pin To Net: NetName=LTDC_B7 Pin=J1301-28
+Added Pin To Net: NetName=GND Pin=J1301-29
+Added Pin To Net: NetName=LTDC_CLK Pin=J1301-30
+Added Pin To Net: NetName=LTDC_VSYNC Pin=J1301-32
+Added Pin To Net: NetName=LTDC_DE Pin=J1301-33
+Added Pin To Net: NetName=LTDC_HSYNC Pin=J1301-34
+Added Pin To Net: NetName=GND Pin=J1301-36
+Added Pin To Net: NetName=TOUCH_SDA Pin=J1301-37
+Added Pin To Net: NetName=TOUCH_SCL Pin=J1301-38
+Added Pin To Net: NetName=TOUCH_IRQ Pin=J1301-40
+Added Pin To Net: NetName=GND Pin=J1301-M
+Added Pin To Net: NetName=GND Pin=J1301-M
+Added Pin To Net: NetName=+3V3 Pin=R1301-1
+Added Pin To Net: NetName=TOUCH_SDA Pin=R1301-2
+Added Pin To Net: NetName=GND Pin=R1302-2
+Added Pin To Net: NetName=GND Pin=R1303-2
+Added Pin To Net: NetName=+3V3 Pin=R1304-1
+Added Pin To Net: NetName=TOUCH_SCL Pin=R1304-2
+Added Pin To Net: NetName=+3V3 Pin=R1305-1
+Added Pin To Net: NetName=TOUCH_IRQ Pin=R1305-2
+Added Pin To Net: NetName=R\S\T\ Pin=TP301-1
+Added Pin To Net: NetName=STM_BOOT0 Pin=TP302-1
+Added Pin To Net: NetName=LTDC_R0 Pin=TP1301-1
+Added Pin To Net: NetName=LTDC_R1 Pin=TP1302-1
+Added Pin To Net: NetName=LTDC_R2 Pin=TP1303-1
+Added Pin To Net: NetName=LTDC_R3 Pin=TP1304-1
+Added Pin To Net: NetName=LTDC_R4 Pin=TP1305-1
+Added Pin To Net: NetName=LTDC_R5 Pin=TP1306-1
+Added Pin To Net: NetName=LTDC_R6 Pin=TP1307-1
+Added Pin To Net: NetName=LTDC_R7 Pin=TP1308-1
+Added Pin To Net: NetName=LTDC_G0 Pin=TP1309-1
+Added Pin To Net: NetName=LTDC_G1 Pin=TP1310-1
+Added Pin To Net: NetName=LTDC_G2 Pin=TP1311-1
+Added Pin To Net: NetName=LTDC_G3 Pin=TP1312-1
+Added Pin To Net: NetName=LTDC_G4 Pin=TP1313-1
+Added Pin To Net: NetName=LTDC_G5 Pin=TP1314-1
+Added Pin To Net: NetName=LTDC_G6 Pin=TP1315-1
+Added Pin To Net: NetName=LTDC_G7 Pin=TP1316-1
+Added Pin To Net: NetName=LTDC_B0 Pin=TP1317-1
+Added Pin To Net: NetName=LTDC_B1 Pin=TP1318-1
+Added Pin To Net: NetName=LTDC_B2 Pin=TP1319-1
+Added Pin To Net: NetName=LTDC_B3 Pin=TP1320-1
+Added Pin To Net: NetName=LTDC_B4 Pin=TP1321-1
+Added Pin To Net: NetName=LTDC_B5 Pin=TP1322-1
+Added Pin To Net: NetName=LTDC_B6 Pin=TP1323-1
+Added Pin To Net: NetName=LTDC_B7 Pin=TP1324-1
+Added Pin To Net: NetName=LTDC_DE Pin=TP1326-1
+Added Pin To Net: NetName=TOUCH_SDA Pin=TP1328-1
+Added Pin To Net: NetName=LTDC_CLK Pin=TP1330-1
+Added Pin To Net: NetName=LTDC_VSYNC Pin=TP1331-1
+Added Pin To Net: NetName=LTDC_HSYNC Pin=TP1332-1
+Added Pin To Net: NetName=TOUCH_SCL Pin=TP1333-1
+Added Pin To Net: NetName=TOUCH_IRQ Pin=TP1334-1
+Added Pin To Net: NetName=LCD_DISP Pin=J1301-31
+Added Pin To Net: NetName=LCD_DISP Pin=R1303-1
+Added Pin To Net: NetName=LCD_DISP Pin=TP1325-1
+Added Net: Name=LCD_DISP
+Added Pin To Net: NetName=LCD_PWM Pin=J1301-35
+Added Pin To Net: NetName=LCD_PWM Pin=TP1327-1
+Added Pin To Net: NetName=LCD_PWM Pin=U201-D14
+Added Net: Name=LCD_PWM
+Added Pin To Net: NetName=LCD_RST Pin=J1301-39
+Added Pin To Net: NetName=LCD_RST Pin=R1302-1
+Added Pin To Net: NetName=LCD_RST Pin=TP1329-1
+Added Pin To Net: NetName=LCD_RST Pin=U201-B9
+Added Net: Name=LCD_RST
+Added Member To Class: ClassName=LCD Member=Component C1301 100n
+Added Member To Class: ClassName=LCD Member=Component C1302 1u
+Added Member To Class: ClassName=LCD Member=Component C1303 10u
+Added Member To Class: ClassName=LCD Member=Component C1304 100n
+Added Member To Class: ClassName=LCD Member=Component C1305 1u
+Added Member To Class: ClassName=LCD Member=Component C1306 10u
+Added Member To Class: ClassName=LCD Member=Component J1301 FH12-40S-0.5SH(55)
+Added Member To Class: ClassName=LCD Member=Component R1301 2k2
+Added Member To Class: ClassName=LCD Member=Component R1302 10k
+Added Member To Class: ClassName=LCD Member=Component R1303 10k
+Added Member To Class: ClassName=LCD Member=Component R1304 2k2
+Added Member To Class: ClassName=LCD Member=Component R1305 2k2
+Added Member To Class: ClassName=MCU_Power Member=Component TP301 Net
+Added Member To Class: ClassName=MCU_Power Member=Component TP302 Net
+Added Member To Class: ClassName=LCD Member=Component TP1301 Net
+Added Member To Class: ClassName=LCD Member=Component TP1302 Net
+Added Member To Class: ClassName=LCD Member=Component TP1303 Net
+Added Member To Class: ClassName=LCD Member=Component TP1304 Net
+Added Member To Class: ClassName=LCD Member=Component TP1305 Net
+Added Member To Class: ClassName=LCD Member=Component TP1306 Net
+Added Member To Class: ClassName=LCD Member=Component TP1307 Net
+Added Member To Class: ClassName=LCD Member=Component TP1308 Net
+Added Member To Class: ClassName=LCD Member=Component TP1309 Net
+Added Member To Class: ClassName=LCD Member=Component TP1310 Net
+Added Member To Class: ClassName=LCD Member=Component TP1311 Net
+Added Member To Class: ClassName=LCD Member=Component TP1312 Net
+Added Member To Class: ClassName=LCD Member=Component TP1313 Net
+Added Member To Class: ClassName=LCD Member=Component TP1314 Net
+Added Member To Class: ClassName=LCD Member=Component TP1315 Net
+Added Member To Class: ClassName=LCD Member=Component TP1316 Net
+Added Member To Class: ClassName=LCD Member=Component TP1317 Net
+Added Member To Class: ClassName=LCD Member=Component TP1318 Net
+Added Member To Class: ClassName=LCD Member=Component TP1319 Net
+Added Member To Class: ClassName=LCD Member=Component TP1320 Net
+Added Member To Class: ClassName=LCD Member=Component TP1321 Net
+Added Member To Class: ClassName=LCD Member=Component TP1322 Net
+Added Member To Class: ClassName=LCD Member=Component TP1323 Net
+Added Member To Class: ClassName=LCD Member=Component TP1324 Net
+Added Member To Class: ClassName=LCD Member=Component TP1325 Net
+Added Member To Class: ClassName=LCD Member=Component TP1326 Net
+Added Member To Class: ClassName=LCD Member=Component TP1327 Net
+Added Member To Class: ClassName=LCD Member=Component TP1328 Net
+Added Member To Class: ClassName=LCD Member=Component TP1329 Net
+Added Member To Class: ClassName=LCD Member=Component TP1330 Net
+Added Member To Class: ClassName=LCD Member=Component TP1331 Net
+Added Member To Class: ClassName=LCD Member=Component TP1332 Net
+Added Member To Class: ClassName=LCD Member=Component TP1333 Net
+Added Member To Class: ClassName=LCD Member=Component TP1334 Net

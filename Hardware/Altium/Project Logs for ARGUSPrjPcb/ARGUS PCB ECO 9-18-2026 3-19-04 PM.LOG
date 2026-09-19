@@ -1,0 +1,49 @@
+Added Component: Designator=J1301(Waveshare_16249)
+Added Component: Designator=TP408(Unlabelled Testpoint)
+Added Component: Designator=TP409(Unlabelled Testpoint)
+Added Pin To Net: NetName=TOUCH_IRQ Pin=J1301-1
+Added Pin To Net: NetName=+5V Pin=J1301-2
+Added Pin To Net: NetName=TOUCH_SDA Pin=J1301-4
+Added Pin To Net: NetName=TOUCH_SCL Pin=J1301-5
+Added Pin To Net: NetName=LTDC_RST Pin=J1301-6
+Added Pin To Net: NetName=LTDC_PWM Pin=J1301-7
+Added Pin To Net: NetName=GND Pin=J1301-8
+Added Pin To Net: NetName=LTDC_R0 Pin=J1301-11
+Added Pin To Net: NetName=LTDC_R1 Pin=J1301-12
+Added Pin To Net: NetName=LTDC_R2 Pin=J1301-13
+Added Pin To Net: NetName=LTDC_R3 Pin=J1301-14
+Added Pin To Net: NetName=LTDC_R4 Pin=J1301-15
+Added Pin To Net: NetName=LTDC_R5 Pin=J1301-16
+Added Pin To Net: NetName=LTDC_R6 Pin=J1301-17
+Added Pin To Net: NetName=LTDC_R7 Pin=J1301-18
+Added Pin To Net: NetName=LTDC_G0 Pin=J1301-19
+Added Pin To Net: NetName=LTDC_G1 Pin=J1301-20
+Added Pin To Net: NetName=LTDC_G2 Pin=J1301-21
+Added Pin To Net: NetName=LTDC_G3 Pin=J1301-22
+Added Pin To Net: NetName=LTDC_G4 Pin=J1301-23
+Added Pin To Net: NetName=LTDC_G5 Pin=J1301-24
+Added Pin To Net: NetName=LTDC_G6 Pin=J1301-25
+Added Pin To Net: NetName=LTDC_G7 Pin=J1301-26
+Added Pin To Net: NetName=LTDC_B0 Pin=J1301-27
+Added Pin To Net: NetName=LTDC_B1 Pin=J1301-28
+Added Pin To Net: NetName=LTDC_B2 Pin=J1301-29
+Added Pin To Net: NetName=LTDC_B3 Pin=J1301-30
+Added Pin To Net: NetName=LTDC_B4 Pin=J1301-31
+Added Pin To Net: NetName=LTDC_B5 Pin=J1301-32
+Added Pin To Net: NetName=LTDC_B6 Pin=J1301-33
+Added Pin To Net: NetName=LTDC_B7 Pin=J1301-34
+Added Pin To Net: NetName=LTDC_CLK Pin=J1301-35
+Added Pin To Net: NetName=DISP Pin=J1301-36
+Added Pin To Net: NetName=LTDC_HSYNC Pin=J1301-37
+Added Pin To Net: NetName=LTDC_VSYNC Pin=J1301-38
+Added Pin To Net: NetName=LTDC_DE Pin=J1301-39
+Added Pin To Net: NetName=GND Pin=J1301-40
+Added Pin To Net: NetName=HEART_BEAT Pin=TP408-1
+Added Pin To Net: NetName=STM_BOOT0 Pin=TP409-1
+Added Member To Class: ClassName=USB Member=Component C802 100n
+Added Member To Class: ClassName=USB Member=Component C803 100n
+Added Member To Class: ClassName=LCD Member=Component J1301 16249
+Added Member To Class: ClassName=Designator Member=Component TP408 Net
+Added Member To Class: ClassName=Designator Member=Component TP409 Net
+Added Member To Class: ClassName=USB Member=Component U802 REF3016EAIDBZR
+Added Member To Class: ClassName=USB Member=Component U803 INA181A2QDBVRQ1

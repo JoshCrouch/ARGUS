@@ -1,0 +1,7 @@
+Added Component: Designator=R803(VMS-R010-1.0-U)
+Add component (AddParameter): Name = "Power"; Value = "4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4423-VMS-R010-1.0-UDKR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CON_VBUS Pin=R803-1
+Added Pin To Net: NetName=VBUS Pin=R803-2
+Added Member To Class: ClassName=USB Member=Component R803 10mR

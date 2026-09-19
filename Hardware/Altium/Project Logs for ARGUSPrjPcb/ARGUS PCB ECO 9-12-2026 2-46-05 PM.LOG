@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+3V3_RTC Pin=R1001-1
+Added Pin To Net: NetName=+3V3 Pin=R1001-1
+Added Member To Class: ClassName=RTC Member=Component C1005 100n

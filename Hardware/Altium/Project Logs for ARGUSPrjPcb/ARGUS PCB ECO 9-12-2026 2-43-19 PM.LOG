@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C1005 NewDesignator=C1006
+Change Component Designator: OldDesignator=C1006 NewDesignator=C1007
+Added Component: Designator=C1005(CAP_0402_B)
+Added Pin To Net: NetName=+3V3A Pin=C1005-1
+Added Pin To Net: NetName=GND Pin=C1005-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=RTC Member=Component C1007 100n
