@@ -1,0 +1,6 @@
+Added Component: Designator=TP404(Unlabelled Testpoint)
+Added Pin To Net: NetName=R\S\T\ Pin=TP404-1
+Change Net Name : Old Net Name=NetD1403_2 New Net Name=C\H\G\_LED_K
+Change Net Name : Old Net Name=NetD1404_2 New Net Name=\P\G\O\O\D\_LED_K
+Added Member To Class: ClassName=LCD Member=Component DISP1301 16249
+Added Member To Class: ClassName=Designator Member=Component TP404 Net

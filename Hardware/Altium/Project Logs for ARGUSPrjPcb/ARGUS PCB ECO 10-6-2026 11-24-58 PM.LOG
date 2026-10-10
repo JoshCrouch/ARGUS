@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SYS_OUT Pin=D1404-1
+Removed Pin From Net: NetName=SYS_OUT Pin=R1422-1
+Added Component: Designator=TP801(Labelled Testpoint)
+Added Pin To Net: NetName=SYS_SENS Pin=D1404-1
+Added Pin To Net: NetName=SYS_SENS Pin=R1422-1
+Added Pin To Net: NetName=VBUS Pin=TP801-1
+Added Member To Class: ClassName=Encoders Member=Component J1802 0532614004
+Added Member To Class: ClassName=USB Member=Component TP801 Net

@@ -1,0 +1,94 @@
+Added Component: Designator=C1701(CAP_0603_B)
+Added Component: Designator=C1702(CAP_0402_B)
+Added Component: Designator=C1703(CAP_0603_B)
+Added Component: Designator=C1704(CAP_0402_B)
+Added Component: Designator=C1705(CAP_0603_B)
+Added Component: Designator=C1706(CAP_0402_B)
+Added Component: Designator=C1707(CAP_0402_B)
+Added Component: Designator=C1708(CAP_0402_B)
+Added Component: Designator=C1709(CAP_0402_B)
+Added Component: Designator=C1710(CAP_0603_B)
+Added Component: Designator=R1701(RES_0402_A)
+Added Component: Designator=R1702(RES_0402_A)
+Added Component: Designator=U1701(TLA2528)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-TLA2528IRTER"; VariantName = "[No Variations]"
+Added Component: Designator=U1702(TLA2528)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-TLA2528IRTER"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3A Pin=C1701-1
+Added Pin To Net: NetName=GND Pin=C1701-2
+Added Pin To Net: NetName=+3V3A Pin=C1702-1
+Added Pin To Net: NetName=GND Pin=C1702-2
+Added Pin To Net: NetName=+3V3 Pin=C1703-1
+Added Pin To Net: NetName=GND Pin=C1703-2
+Added Pin To Net: NetName=+3V3 Pin=C1704-1
+Added Pin To Net: NetName=GND Pin=C1704-2
+Added Pin To Net: NetName=GND Pin=C1705-2
+Added Pin To Net: NetName=+3V3A Pin=C1706-1
+Added Pin To Net: NetName=GND Pin=C1706-2
+Added Pin To Net: NetName=+3V3A Pin=C1707-1
+Added Pin To Net: NetName=GND Pin=C1707-2
+Added Pin To Net: NetName=+3V3 Pin=C1708-1
+Added Pin To Net: NetName=GND Pin=C1708-2
+Added Pin To Net: NetName=+3V3 Pin=C1709-1
+Added Pin To Net: NetName=GND Pin=C1709-2
+Added Pin To Net: NetName=GND Pin=C1710-2
+Added Pin To Net: NetName=GND Pin=R1702-2
+Added Pin To Net: NetName=SYS_V_SENS Pin=U1701-1
+Added Pin To Net: NetName=SYS_I_SENS Pin=U1701-2
+Added Pin To Net: NetName=P\G\O\O\D\ Pin=U1701-3
+Added Pin To Net: NetName=BATT_C\H\G\ Pin=U1701-4
+Added Pin To Net: NetName=BATT_C\E\ Pin=U1701-5
+Added Pin To Net: NetName=+3V3A Pin=U1701-7
+Added Pin To Net: NetName=GND Pin=U1701-9
+Added Pin To Net: NetName=+3V3 Pin=U1701-10
+Added Pin To Net: NetName=RTC_SCL Pin=U1701-13
+Added Pin To Net: NetName=RTC_SDA Pin=U1701-14
+Added Pin To Net: NetName=BATT_V_SENS Pin=U1701-15
+Added Pin To Net: NetName=BATT_I_SENS Pin=U1701-16
+Added Pin To Net: NetName=GND Pin=U1701-17
+Added Pin To Net: NetName=GND Pin=U1701-17
+Added Pin To Net: NetName=GND Pin=U1701-17
+Added Pin To Net: NetName=GND Pin=U1701-17
+Added Pin To Net: NetName=GND Pin=U1701-17
+Added Pin To Net: NetName=+3V3_SENS Pin=U1702-1
+Added Pin To Net: NetName=+3V3A_SENS Pin=U1702-2
+Added Pin To Net: NetName=CAP_I_SENS Pin=U1702-3
+Added Pin To Net: NetName=CAP_V_SENS Pin=U1702-4
+Added Pin To Net: NetName=VBUS_V_SENS Pin=U1702-5
+Added Pin To Net: NetName=VBUS_I_SENS Pin=U1702-6
+Added Pin To Net: NetName=+3V3A Pin=U1702-7
+Added Pin To Net: NetName=GND Pin=U1702-9
+Added Pin To Net: NetName=+3V3 Pin=U1702-10
+Added Pin To Net: NetName=RTC_SCL Pin=U1702-13
+Added Pin To Net: NetName=RTC_SDA Pin=U1702-14
+Added Pin To Net: NetName=+5V_SENS Pin=U1702-16
+Added Pin To Net: NetName=GND Pin=U1702-17
+Added Pin To Net: NetName=GND Pin=U1702-17
+Added Pin To Net: NetName=GND Pin=U1702-17
+Added Pin To Net: NetName=GND Pin=U1702-17
+Added Pin To Net: NetName=GND Pin=U1702-17
+Change Net Name : Old Net Name=+3V3_SENS New Net Name=+3V3_V_SENS
+Change Net Name : Old Net Name=+3V3A_SENS New Net Name=+3V3A_V_SENS
+Change Net Name : Old Net Name=BATT_C\E\ New Net Name=C\E\
+Change Net Name : Old Net Name=BATT_C\H\G\ New Net Name=C\H\G\
+Added Pin To Net: NetName=DECAP_1 Pin=C1705-1
+Added Pin To Net: NetName=DECAP_1 Pin=R1701-2
+Added Pin To Net: NetName=DECAP_1 Pin=U1701-8
+Added Net: Name=DECAP_1
+Added Pin To Net: NetName=DECAP_2 Pin=C1710-1
+Added Pin To Net: NetName=DECAP_2 Pin=U1702-8
+Added Net: Name=DECAP_2
+Added Pin To Net: NetName=NetR1701_1 Pin=R1701-1
+Added Pin To Net: NetName=NetR1701_1 Pin=U1701-11
+Added Net: Name=NetR1701_1
+Added Pin To Net: NetName=NetR1702_1 Pin=R1702-1
+Added Pin To Net: NetName=NetR1702_1 Pin=U1702-11
+Added Net: Name=NetR1702_1
+Added Pin To Net: NetName=PG Pin=TP1502-1
+Added Pin To Net: NetName=PG Pin=U1501-5
+Added Pin To Net: NetName=PG Pin=U1702-15
+Added Net: Name=PG
+Added Class: Name=Power_Sense
+Added Member To Class: ClassName=LCD Member=Component DISP1301 16249

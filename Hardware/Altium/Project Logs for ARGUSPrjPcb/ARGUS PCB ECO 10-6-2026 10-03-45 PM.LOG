@@ -1,0 +1,93 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1801
+Change Component Designator: OldDesignator=J? NewDesignator=J1802
+Added Component: Designator=C1801(CAP_0402_B)
+Added Component: Designator=C1802(CAP_0402_B)
+Added Component: Designator=C1803(CAP_0402_B)
+Added Component: Designator=C1804(CAP_0402_B)
+Added Component: Designator=C1805(CAP_0402_B)
+Added Component: Designator=C1806(CAP_0402_B)
+Added Component: Designator=R1801(RES_0402_A)
+Added Component: Designator=R1802(RES_0402_A)
+Added Component: Designator=R1803(RES_0402_A)
+Added Component: Designator=R1804(RES_0402_A)
+Added Component: Designator=R1805(RES_0402_A)
+Added Component: Designator=R1806(RES_0402_A)
+Added Component: Designator=R1807(RES_0402_A)
+Added Component: Designator=R1808(RES_0402_A)
+Added Component: Designator=R1809(RES_0402_A)
+Added Component: Designator=R1810(RES_0402_A)
+Added Component: Designator=R1811(RES_0402_A)
+Added Component: Designator=R1812(RES_0402_A)
+Added Pin To Net: NetName=GND Pin=C1801-2
+Added Pin To Net: NetName=GND Pin=C1802-2
+Added Pin To Net: NetName=GND Pin=C1803-2
+Added Pin To Net: NetName=GND Pin=C1804-2
+Added Pin To Net: NetName=GND Pin=C1805-2
+Added Pin To Net: NetName=GND Pin=C1806-2
+Added Pin To Net: NetName=+3V3 Pin=R1801-1
+Added Pin To Net: NetName=ENC_1_A Pin=R1802-1
+Added Pin To Net: NetName=+3V3 Pin=R1803-1
+Added Pin To Net: NetName=ENC_1_B Pin=R1804-1
+Added Pin To Net: NetName=+3V3 Pin=R1805-1
+Added Pin To Net: NetName=ENC_2_BTN Pin=R1806-1
+Added Pin To Net: NetName=+3V3 Pin=R1807-1
+Added Pin To Net: NetName=ENC_2_A Pin=R1808-1
+Added Pin To Net: NetName=+3V3 Pin=R1809-1
+Added Pin To Net: NetName=ENC_2_B Pin=R1810-1
+Added Pin To Net: NetName=+3V3 Pin=R1811-1
+Added Pin To Net: NetName=ENC_1_BTN Pin=R1812-1
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(102, 255, 255)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(102, 255, 255)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(102, 255, 255)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(102, 255, 255)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(102, 255, 255)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(102, 255, 255)
+Added Pin To Net: NetName=NetC1801_1 Pin=C1801-1
+Added Pin To Net: NetName=NetC1801_1 Pin=J1801-1
+Added Pin To Net: NetName=NetC1801_1 Pin=R1801-2
+Added Pin To Net: NetName=NetC1801_1 Pin=R1802-2
+Added Net: Name=NetC1801_1
+Added Pin To Net: NetName=NetC1802_1 Pin=C1802-1
+Added Pin To Net: NetName=NetC1802_1 Pin=J1801-2
+Added Pin To Net: NetName=NetC1802_1 Pin=R1803-2
+Added Pin To Net: NetName=NetC1802_1 Pin=R1804-2
+Added Net: Name=NetC1802_1
+Added Pin To Net: NetName=NetC1803_1 Pin=C1803-1
+Added Pin To Net: NetName=NetC1803_1 Pin=J1801-3
+Added Pin To Net: NetName=NetC1803_1 Pin=R1805-2
+Added Pin To Net: NetName=NetC1803_1 Pin=R1806-2
+Added Net: Name=NetC1803_1
+Added Pin To Net: NetName=NetC1804_1 Pin=C1804-1
+Added Pin To Net: NetName=NetC1804_1 Pin=J1802-1
+Added Pin To Net: NetName=NetC1804_1 Pin=R1807-2
+Added Pin To Net: NetName=NetC1804_1 Pin=R1808-2
+Added Net: Name=NetC1804_1
+Added Pin To Net: NetName=NetC1805_1 Pin=C1805-1
+Added Pin To Net: NetName=NetC1805_1 Pin=J1802-2
+Added Pin To Net: NetName=NetC1805_1 Pin=R1809-2
+Added Pin To Net: NetName=NetC1805_1 Pin=R1810-2
+Added Net: Name=NetC1805_1
+Added Pin To Net: NetName=NetC1806_1 Pin=C1806-1
+Added Pin To Net: NetName=NetC1806_1 Pin=J1802-3
+Added Pin To Net: NetName=NetC1806_1 Pin=R1811-2
+Added Pin To Net: NetName=NetC1806_1 Pin=R1812-2
+Added Net: Name=NetC1806_1
+Added Member To Class: ClassName=Encoders Member=Component C1801 100n
+Added Member To Class: ClassName=Encoders Member=Component C1802 100n
+Added Member To Class: ClassName=Encoders Member=Component C1803 100n
+Added Member To Class: ClassName=Encoders Member=Component C1804 100n
+Added Member To Class: ClassName=Encoders Member=Component C1805 100n
+Added Member To Class: ClassName=Encoders Member=Component C1806 100n
+Added Member To Class: ClassName=Encoders Member=Component J1801 0532614004
+Added Member To Class: ClassName=Encoders Member=Component R1801 10k
+Added Member To Class: ClassName=Encoders Member=Component R1802 1k
+Added Member To Class: ClassName=Encoders Member=Component R1803 10k
+Added Member To Class: ClassName=Encoders Member=Component R1804 1k
+Added Member To Class: ClassName=Encoders Member=Component R1805 10k
+Added Member To Class: ClassName=Encoders Member=Component R1806 1k
+Added Member To Class: ClassName=Encoders Member=Component R1807 10k
+Added Member To Class: ClassName=Encoders Member=Component R1808 1k
+Added Member To Class: ClassName=Encoders Member=Component R1809 10k
+Added Member To Class: ClassName=Encoders Member=Component R1810 1k
+Added Member To Class: ClassName=Encoders Member=Component R1811 10k
+Added Member To Class: ClassName=Encoders Member=Component R1812 1k

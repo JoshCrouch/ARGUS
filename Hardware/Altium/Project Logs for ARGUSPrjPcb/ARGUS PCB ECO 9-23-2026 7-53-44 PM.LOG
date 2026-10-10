@@ -1,0 +1,60 @@
+Change Net Color : Old Net Color=RGB(64, 64, 64) New Net Color=RGB(176, 176, 176)
+Added Member To Class: ClassName=MCU_Power Member=Component C319 1u
+Added Member To Class: ClassName=ADC Member=Component C607 10p
+Added Member To Class: ClassName=ADC Member=Component C608 10p
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component C701_1 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component C701_3 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component C701_5 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component C701_7 (C701) 8n2
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component D701_1 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component D701_3 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component D701_5 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component D701_7 (D701) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component D702_1 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component D702_3 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component D702_5 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component D702_7 (D702) DF2S23P2CTC,L3F
+Added Member To Class: ClassName=ADC Member=Component J601 610116249121
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R701_1 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R701_3 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R701_5 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R701_7 (R701) 10k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R702_1 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R702_3 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R702_5 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R702_7 (R702) 649k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R703_1 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R703_3 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R703_5 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R703_7 (R703) 94k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R704_1 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R704_3 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R704_5 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R704_7 (R704) 10k
+Added Member To Class: ClassName=ADC_Frontend1 Member=Component R705_1 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend3 Member=Component R705_3 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend5 Member=Component R705_5 (R705) 649k
+Added Member To Class: ClassName=ADC_Frontend7 Member=Component R705_7 (R705) 649k
+Added Member To Class: ClassName=ADC Member=Component TP605 Net
+Added Member To Class: ClassName=ADC Member=Component TP607 Net
+Added Member To Class: ClassName=ADC Member=Component TP608 Net
+Added Member To Class: ClassName=ADC Member=Component TP609 Net
+Added Member To Class: ClassName=ADC Member=Component TP614 Net
+Added Member To Class: ClassName=ADC Member=Component TP615 Net
+Added Member To Class: ClassName=ADC Member=Component TP616 Net
+Added Member To Class: ClassName=ADC Member=Component TP617 Net
+Added Member To Class: ClassName=ADC Member=Component TP622 Net
+Added Member To Class: ClassName=ADC Member=Component TP623 Net
+Added Member To Class: ClassName=ADC Member=Component TP624 Net
+Added Member To Class: ClassName=ADC Member=Component TP625 Net
+Added Member To Class: ClassName=ADC Member=Component TP630 Net
+Added Member To Class: ClassName=ADC Member=Component TP631 Net
+Added Member To Class: ClassName=ADC Member=Component TP632 Net
+Added Member To Class: ClassName=ADC Member=Component TP633 Net
+Added Member To Class: ClassName=ADC Member=Component TP634 Net
+Added Member To Class: ClassName=ADC Member=Component TP635 Net
+Added Member To Class: ClassName=ADC Member=Component TP636 Net
+Added Member To Class: ClassName=ADC Member=Component TP637 Net
+Added Member To Class: ClassName=ADC Member=Component TP639 Net
+Added Member To Class: ClassName=ADC Member=Component U601 ADS131M08IRSNT
+Added Member To Class: ClassName=ADC Member=Component Y601 LFXTAL061486

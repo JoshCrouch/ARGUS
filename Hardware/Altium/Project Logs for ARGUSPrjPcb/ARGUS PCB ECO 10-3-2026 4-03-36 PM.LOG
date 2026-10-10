@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SYS_OUT Pin=D1403-1
+Removed Pin From Net: NetName=P\G\O\O\D\ Pin=R1423-2
+Removed Pin From Net: NetName=R\S\T\ Pin=TP404-1
+Removed Member From Class: ClassName=Battery_Charging Member=D1403
+Removed Member From Class: ClassName=Battery_Charging Member=R1423
+Removed Member From Class: ClassName=Designator Member=TP404
+Added Component: Designator=D1404(SMLD12E3N1WT86)
+Add component (AddParameter): Name = "Part Number"; Value = "SMLD12E3N1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMLD12E3N1WT86CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SYS_OUT Pin=D1404-1
+Added Pin To Net: NetName=\P\G\O\O\D\_LED_K Pin=D1404-2
+Added Member To Class: ClassName=Battery_Charging Member=Component D1404 CYAN

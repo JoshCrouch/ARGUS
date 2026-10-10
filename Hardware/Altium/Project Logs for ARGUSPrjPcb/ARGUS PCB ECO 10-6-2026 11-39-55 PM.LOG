@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3V3A Pin=U1402-1
+Removed Pin From Net: NetName=+1V65_REF Pin=U1402-2
+Removed Pin From Net: NetName=GND Pin=U1402-3
+Removed Member From Class: ClassName=Battery_Charging Member=U1402
+Added Pin To Net: NetName=+1V65_REF Pin=U802-2
+Added Pin To Net: NetName=+1V65_REF Pin=U803-5

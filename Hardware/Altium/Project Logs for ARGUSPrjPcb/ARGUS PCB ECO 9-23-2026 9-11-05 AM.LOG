@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=SDRAM_MSB Member=SDRAM_DQ7
+Added Component: Designator=TP404(Unlabelled Testpoint)
+Added Pin To Net: NetName=R\S\T\ Pin=TP404-1
+Added Member To Class: ClassName=MCU_Power Member=Component TP301 Net
+Added Member To Class: ClassName=MCU_Power Member=Component TP302 Net
+Added Member To Class: ClassName=Designator Member=Component TP404 Net

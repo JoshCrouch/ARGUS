@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=AT_TX Pin=U201-H1
+Removed Pin From Net: NetName=AT_CTS Pin=U201-J2
+Removed Pin From Net: NetName=AT_RX Pin=U201-J3
+Removed Pin From Net: NetName=AT_RTS Pin=U201-J4
+Removed Pin From Net: NetName=ESP_PROG_RX Pin=U201-P1
+Removed Pin From Net: NetName=ESP_PROG_TX Pin=U201-P2
+Change Component Designator: OldDesignator=TP403 NewDesignator=TP904
+Added Component: Designator=TP801(Labelled Testpoint)
+Added Pin To Net: NetName=VBUS Pin=TP801-1
+Added Pin To Net: NetName=AT_RX Pin=U201-H1
+Added Pin To Net: NetName=AT_RTS Pin=U201-J2
+Added Pin To Net: NetName=AT_TX Pin=U201-J3
+Added Pin To Net: NetName=AT_CTS Pin=U201-J4
+Added Pin To Net: NetName=ESP_PROG_RX Pin=U201-L15
+Added Pin To Net: NetName=ESP_PROG_TX Pin=U201-M15
+Added Member To Class: ClassName=USB Member=Component TP801 Net

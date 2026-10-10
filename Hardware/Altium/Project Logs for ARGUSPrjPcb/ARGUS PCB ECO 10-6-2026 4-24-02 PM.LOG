@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Designator Member=TP904
+Added Component: Designator=J?(0532614004)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "0532614004"; VariantName = "[No Variations]"
+Added Component: Designator=J?(0532614004)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "0532614004"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=ENC_1_A Pin=U201-P1
+Added Net: Name=ENC_1_A
+Added Pin To Net: NetName=ENC_1_B Pin=U201-P2
+Added Net: Name=ENC_1_B
+Added Pin To Net: NetName=ENC_1_BTN Pin=U201-L2
+Added Net: Name=ENC_1_BTN
+Added Pin To Net: NetName=ENC_2_A Pin=U201-R7
+Added Net: Name=ENC_2_A
+Added Pin To Net: NetName=ENC_2_B Pin=U201-N6
+Added Net: Name=ENC_2_B
+Added Pin To Net: NetName=ENC_2_BTN Pin=U201-N4
+Added Net: Name=ENC_2_BTN
+Added Class: Name=Encoders
+Added Member To Class: ClassName=Designator Member=Component TP403 Net

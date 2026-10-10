@@ -1,0 +1,6 @@
+Added Component: Designator=DISP1301(Waveshare_16249)
+Added Pin To Net: NetName=GND Pin=DISP1301-M
+Added Pin To Net: NetName=GND Pin=DISP1301-M
+Added Pin To Net: NetName=GND Pin=DISP1301-M
+Added Pin To Net: NetName=GND Pin=DISP1301-M
+Added Member To Class: ClassName=LCD Member=Component DISP1301 16249
